@@ -2,7 +2,8 @@
 
 Link to the app: https://mausam3407-transliteration-transliterator-2e1vod.streamlit.app/
 
-To take a peek into training process, open the file transliteration.ipynb
+The model achieved an masked accuracy of around 85% on validation set.
+To take a peek into training process and examples, open the file transliteration.ipynb
 
 For running the app in your local system, Run the following command on your system:
 1. git clone https://github.com/mausam3407/transliteration
