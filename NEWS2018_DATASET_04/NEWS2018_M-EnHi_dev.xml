@@ -1,0 +1,4013 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TransliterationCorpus CorpusFormat="UTF-8" CorpusID="M-EnHi" CorpusSize="1000" CorpusType="Development" NameSource="Mixed" SourceLang="English" TargetLang="Hindi">
+	<Name ID="1">
+		<SourceName>aachaaryanandana</SourceName>
+		<TargetName ID="1">आचार्यनंदना</TargetName>
+	</Name>
+	<Name ID="2">
+		<SourceName>aachaarysut</SourceName>
+		<TargetName ID="1">आचार्यसुत</TargetName>
+	</Name>
+	<Name ID="3">
+		<SourceName>aacharynandan</SourceName>
+		<TargetName ID="1">आचार्यनंदन</TargetName>
+	</Name>
+	<Name ID="4">
+		<SourceName>aacharynandanaa</SourceName>
+		<TargetName ID="1">आचार्यनंदना</TargetName>
+	</Name>
+	<Name ID="5">
+		<SourceName>aadamkhor</SourceName>
+		<TargetName ID="1">आदमखोर</TargetName>
+	</Name>
+	<Name ID="6">
+		<SourceName>aag aur shola</SourceName>
+		<TargetName ID="1">आग और शोला</TargetName>
+	</Name>
+	<Name ID="7">
+		<SourceName>aaj ki baat</SourceName>
+		<TargetName ID="1">आज की बात</TargetName>
+	</Name>
+	<Name ID="8">
+		<SourceName>aaj ki taza khabar</SourceName>
+		<TargetName ID="1">आज की ताज़ा खबर</TargetName>
+	</Name>
+	<Name ID="9">
+		<SourceName>aakanksha</SourceName>
+		<TargetName ID="1">आकांक्षा</TargetName>
+	</Name>
+	<Name ID="10">
+		<SourceName>aan</SourceName>
+		<TargetName ID="1">आन</TargetName>
+	</Name>
+	<Name ID="11">
+		<SourceName>aankhon dekhi</SourceName>
+		<TargetName ID="1">आँखों देखी</TargetName>
+	</Name>
+	<Name ID="12">
+		<SourceName>aansoo ban gaye phool</SourceName>
+		<TargetName ID="1">आँसू बन गए फ़ूल</TargetName>
+	</Name>
+	<Name ID="13">
+		<SourceName>aashaa</SourceName>
+		<TargetName ID="1">आशा</TargetName>
+	</Name>
+	<Name ID="14">
+		<SourceName>aatank</SourceName>
+		<TargetName ID="1">आतंक</TargetName>
+	</Name>
+	<Name ID="15">
+		<SourceName>ab kya hoga</SourceName>
+		<TargetName ID="1">अब क्या होगा</TargetName>
+	</Name>
+	<Name ID="16">
+		<SourceName>abdul haakim</SourceName>
+		<TargetName ID="1">अब्दुल हाकिम</TargetName>
+	</Name>
+	<Name ID="17">
+		<SourceName>abdul hannan</SourceName>
+		<TargetName ID="1">अब्दुल हन्नान</TargetName>
+	</Name>
+	<Name ID="18">
+		<SourceName>abdul muhasin</SourceName>
+		<TargetName ID="1">अब्दुल मुहासिन</TargetName>
+	</Name>
+	<Name ID="19">
+		<SourceName>abdul muiz</SourceName>
+		<TargetName ID="1">अब्दुल मुईज़</TargetName>
+	</Name>
+	<Name ID="20">
+		<SourceName>abdul wakil</SourceName>
+		<TargetName ID="1">अब्दुल वकील</TargetName>
+	</Name>
+	<Name ID="21">
+		<SourceName>aberdeen</SourceName>
+		<TargetName ID="1">एबरडीन</TargetName>
+	</Name>
+	<Name ID="22">
+		<SourceName>abha</SourceName>
+		<TargetName ID="1">आभा</TargetName>
+	</Name>
+	<Name ID="23">
+		<SourceName>abhiman</SourceName>
+		<TargetName ID="1">अभिमान</TargetName>
+	</Name>
+	<Name ID="24">
+		<SourceName>abhinanda</SourceName>
+		<TargetName ID="1">अभिनन्दा</TargetName>
+	</Name>
+	<Name ID="25">
+		<SourceName>abisso</SourceName>
+		<TargetName ID="1">एबीसो</TargetName>
+	</Name>
+	<Name ID="26">
+		<SourceName>abu mansur daqiqi</SourceName>
+		<TargetName ID="1">अबू मंसूर दक़ीक़ी</TargetName>
+	</Name>
+	<Name ID="27">
+		<SourceName>abul fazal</SourceName>
+		<TargetName ID="1">अबुल फजल</TargetName>
+	</Name>
+	<Name ID="28">
+		<SourceName>acharysuta</SourceName>
+		<TargetName ID="1">आचार्यसुता</TargetName>
+	</Name>
+	<Name ID="29">
+		<SourceName>achhnera junction</SourceName>
+		<TargetName ID="1">अछनेरा जंक्शन</TargetName>
+	</Name>
+	<Name ID="30">
+		<SourceName>achindr</SourceName>
+		<TargetName ID="1">अचिंद्र</TargetName>
+	</Name>
+	<Name ID="31">
+		<SourceName>adhip</SourceName>
+		<TargetName ID="1">अधिप</TargetName>
+	</Name>
+	<Name ID="32">
+		<SourceName>aditya</SourceName>
+		<TargetName ID="1">अदित्या</TargetName>
+		<TargetName ID="2">आदित्य</TargetName>
+	</Name>
+	<Name ID="33">
+		<SourceName>admiralty</SourceName>
+		<TargetName ID="1">एडमिरैल्टी</TargetName>
+	</Name>
+	<Name ID="34">
+		<SourceName>afasaana</SourceName>
+		<TargetName ID="1">अफसाना</TargetName>
+	</Name>
+	<Name ID="35">
+		<SourceName>afsana</SourceName>
+		<TargetName ID="1">अफसाना</TargetName>
+	</Name>
+	<Name ID="36">
+		<SourceName>agar tum na hote</SourceName>
+		<TargetName ID="1">अगर तुम न होते</TargetName>
+	</Name>
+	<Name ID="37">
+		<SourceName>aglaia</SourceName>
+		<TargetName ID="1">एग्लेइया</TargetName>
+	</Name>
+	<Name ID="38">
+		<SourceName>agni chakra</SourceName>
+		<TargetName ID="1">अग्नि चक्र</TargetName>
+	</Name>
+	<Name ID="39">
+		<SourceName>agrima</SourceName>
+		<TargetName ID="1">अग्रिमा</TargetName>
+	</Name>
+	<Name ID="40">
+		<SourceName>akalmash</SourceName>
+		<TargetName ID="1">अकल्मश</TargetName>
+	</Name>
+	<Name ID="41">
+		<SourceName>akarshan</SourceName>
+		<TargetName ID="1">आकर्षण</TargetName>
+	</Name>
+	<Name ID="42">
+		<SourceName>akeel</SourceName>
+		<TargetName ID="1">अकील</TargetName>
+	</Name>
+	<Name ID="43">
+		<SourceName>akhila</SourceName>
+		<TargetName ID="1">अखिला</TargetName>
+	</Name>
+	<Name ID="44">
+		<SourceName>akila daily</SourceName>
+		<TargetName ID="1">अकीला डेल्ही</TargetName>
+	</Name>
+	<Name ID="45">
+		<SourceName>akmal</SourceName>
+		<TargetName ID="1">अकमाल</TargetName>
+	</Name>
+	<Name ID="46">
+		<SourceName>alan wells</SourceName>
+		<TargetName ID="1">ऐलन वेल्स</TargetName>
+	</Name>
+	<Name ID="47">
+		<SourceName>alarice</SourceName>
+		<TargetName ID="1">एलेराइस</TargetName>
+	</Name>
+	<Name ID="48">
+		<SourceName>alaska</SourceName>
+		<TargetName ID="1">अलास्का</TargetName>
+	</Name>
+	<Name ID="49">
+		<SourceName>albertsons</SourceName>
+		<TargetName ID="1">एल्बर्टसन्स</TargetName>
+	</Name>
+	<Name ID="50">
+		<SourceName>alboran</SourceName>
+		<TargetName ID="1">अल्बोरान</TargetName>
+	</Name>
+	<Name ID="51">
+		<SourceName>alexavier</SourceName>
+		<TargetName ID="1">अलेक्जेवियर</TargetName>
+	</Name>
+	<Name ID="52">
+		<SourceName>alima</SourceName>
+		<TargetName ID="1">अलीमा</TargetName>
+	</Name>
+	<Name ID="53">
+		<SourceName>allegheny</SourceName>
+		<TargetName ID="1">अल्लेगहेन्ये</TargetName>
+	</Name>
+	<Name ID="54">
+		<SourceName>allstate</SourceName>
+		<TargetName ID="1">ऑलस्टेट</TargetName>
+	</Name>
+	<Name ID="55">
+		<SourceName>ally</SourceName>
+		<TargetName ID="1">एली</TargetName>
+	</Name>
+	<Name ID="56">
+		<SourceName>aloysius</SourceName>
+		<TargetName ID="1">अलोयसियस</TargetName>
+	</Name>
+	<Name ID="57">
+		<SourceName>aluabari road</SourceName>
+		<TargetName ID="1">अलुयाबरी रोड</TargetName>
+	</Name>
+	<Name ID="58">
+		<SourceName>amalie</SourceName>
+		<TargetName ID="1">एमेली</TargetName>
+	</Name>
+	<Name ID="59">
+		<SourceName>amaryllis</SourceName>
+		<TargetName ID="1">एमेरीलिस</TargetName>
+	</Name>
+	<Name ID="60">
+		<SourceName>ambala</SourceName>
+		<TargetName ID="1">अंबाला</TargetName>
+	</Name>
+	<Name ID="61">
+		<SourceName>ameeri</SourceName>
+		<TargetName ID="1">अमीरी</TargetName>
+	</Name>
+	<Name ID="62">
+		<SourceName>american academy of arts and letters fiction award</SourceName>
+		<TargetName ID="1">अमेरिकन अकेडमी ऑफ आर्ट्‍स एण्ड लेटर्स फिक्शन अवार्ड</TargetName>
+	</Name>
+	<Name ID="63">
+		<SourceName>amrapali</SourceName>
+		<TargetName ID="1">आम्रपाली</TargetName>
+	</Name>
+	<Name ID="64">
+		<SourceName>amrit</SourceName>
+		<TargetName ID="1">अमृत</TargetName>
+	</Name>
+	<Name ID="65">
+		<SourceName>anal</SourceName>
+		<TargetName ID="1">अनल</TargetName>
+	</Name>
+	<Name ID="66">
+		<SourceName>andha intequam</SourceName>
+		<TargetName ID="1">अंधा इंतेक़ाम</TargetName>
+	</Name>
+	<Name ID="67">
+		<SourceName>angelica</SourceName>
+		<TargetName ID="1">एंजेलिका</TargetName>
+	</Name>
+	<Name ID="68">
+		<SourceName>anilatmaj</SourceName>
+		<TargetName ID="1">अनिलात्मज</TargetName>
+	</Name>
+	<Name ID="69">
+		<SourceName>anirvaan</SourceName>
+		<TargetName ID="1">अनिर्वाण</TargetName>
+	</Name>
+	<Name ID="70">
+		<SourceName>anisaa</SourceName>
+		<TargetName ID="1">अनीसा</TargetName>
+	</Name>
+	<Name ID="71">
+		<SourceName>anjum</SourceName>
+		<TargetName ID="1">अंजुम</TargetName>
+	</Name>
+	<Name ID="72">
+		<SourceName>annabella</SourceName>
+		<TargetName ID="1">अन्नाबेला</TargetName>
+	</Name>
+	<Name ID="73">
+		<SourceName>annapurna</SourceName>
+		<TargetName ID="1">अन्नपूर्णा</TargetName>
+	</Name>
+	<Name ID="74">
+		<SourceName>anthony stuart</SourceName>
+		<TargetName ID="1">एंथनी स्टुआर्ट</TargetName>
+	</Name>
+	<Name ID="75">
+		<SourceName>anupshahr</SourceName>
+		<TargetName ID="1">अनुपशहर</TargetName>
+	</Name>
+	<Name ID="76">
+		<SourceName>anusooyaa</SourceName>
+		<TargetName ID="1">अनुसूया</TargetName>
+	</Name>
+	<Name ID="77">
+		<SourceName>anuvaa</SourceName>
+		<TargetName ID="1">अनुवा</TargetName>
+	</Name>
+	<Name ID="78">
+		<SourceName>anwar</SourceName>
+		<TargetName ID="1">अनवर</TargetName>
+	</Name>
+	<Name ID="79">
+		<SourceName>apna ghar</SourceName>
+		<TargetName ID="1">अपना घर</TargetName>
+	</Name>
+	<Name ID="80">
+		<SourceName>apne dam par</SourceName>
+		<TargetName ID="1">अपने दम पर</TargetName>
+	</Name>
+	<Name ID="81">
+		<SourceName>apollo tyres</SourceName>
+		<TargetName ID="1">अपोलो टायर्स</TargetName>
+	</Name>
+	<Name ID="82">
+		<SourceName>ara</SourceName>
+		<TargetName ID="1">आरा</TargetName>
+	</Name>
+	<Name ID="83">
+		<SourceName>arbon</SourceName>
+		<TargetName ID="1">आर्बन</TargetName>
+	</Name>
+	<Name ID="84">
+		<SourceName>archon</SourceName>
+		<TargetName ID="1">आर्कन</TargetName>
+	</Name>
+	<Name ID="85">
+		<SourceName>argheshwar</SourceName>
+		<TargetName ID="1">अर्घेश्वर</TargetName>
+	</Name>
+	<Name ID="86">
+		<SourceName>arivalagan</SourceName>
+		<TargetName ID="1">अरिवलगन</TargetName>
+	</Name>
+	<Name ID="87">
+		<SourceName>arnetha</SourceName>
+		<TargetName ID="1">अर्नेठा</TargetName>
+	</Name>
+	<Name ID="88">
+		<SourceName>arnie</SourceName>
+		<TargetName ID="1">एर्नी</TargetName>
+	</Name>
+	<Name ID="89">
+		<SourceName>artemas</SourceName>
+		<TargetName ID="1">आर्टेमस</TargetName>
+	</Name>
+	<Name ID="90">
+		<SourceName>arya</SourceName>
+		<TargetName ID="1">आर्य</TargetName>
+	</Name>
+	<Name ID="91">
+		<SourceName>asad</SourceName>
+		<TargetName ID="1">असद</TargetName>
+	</Name>
+	<Name ID="92">
+		<SourceName>asahi india</SourceName>
+		<TargetName ID="1">आसही इंडिया</TargetName>
+	</Name>
+	<Name ID="93">
+		<SourceName>asaoti</SourceName>
+		<TargetName ID="1">असौती</TargetName>
+	</Name>
+	<Name ID="94">
+		<SourceName>ashantha de mel</SourceName>
+		<TargetName ID="1">अशांथा डे मेल</TargetName>
+	</Name>
+	<Name ID="95">
+		<SourceName>ashivan</SourceName>
+		<TargetName ID="1">अशिवन</TargetName>
+	</Name>
+	<Name ID="96">
+		<SourceName>asia</SourceName>
+		<TargetName ID="1">आसिया</TargetName>
+		<TargetName ID="2">एशिया</TargetName>
+	</Name>
+	<Name ID="97">
+		<SourceName>asif mohammad</SourceName>
+		<TargetName ID="1">आसिफ मोहम्मद</TargetName>
+	</Name>
+	<Name ID="98">
+		<SourceName>aslana</SourceName>
+		<TargetName ID="1">अस्लाना</TargetName>
+	</Name>
+	<Name ID="99">
+		<SourceName>atchafalaya</SourceName>
+		<TargetName ID="1">अटचाफल्या</TargetName>
+	</Name>
+	<Name ID="100">
+		<SourceName>athar ali khan</SourceName>
+		<TargetName ID="1">आथर अली खान</TargetName>
+	</Name>
+	<Name ID="101">
+		<SourceName>atharvan</SourceName>
+		<TargetName ID="1">अथर्वन</TargetName>
+	</Name>
+	<Name ID="102">
+		<SourceName>attacker</SourceName>
+		<TargetName ID="1">अटैकर</TargetName>
+	</Name>
+	<Name ID="103">
+		<SourceName>attur</SourceName>
+		<TargetName ID="1">अट्‍टूर</TargetName>
+	</Name>
+	<Name ID="104">
+		<SourceName>aurum</SourceName>
+		<TargetName ID="1">ऑरम</TargetName>
+	</Name>
+	<Name ID="105">
+		<SourceName>avani</SourceName>
+		<TargetName ID="1">अवनि</TargetName>
+	</Name>
+	<Name ID="106">
+		<SourceName>avanindra</SourceName>
+		<TargetName ID="1">अवनींद्र</TargetName>
+	</Name>
+	<Name ID="107">
+		<SourceName>azraqi</SourceName>
+		<TargetName ID="1">अज़राकी</TargetName>
+	</Name>
+	<Name ID="108">
+		<SourceName>baap beti</SourceName>
+		<TargetName ID="1">बाप बेटी</TargetName>
+	</Name>
+	<Name ID="109">
+		<SourceName>baaqir</SourceName>
+		<TargetName ID="1">बाकिर</TargetName>
+	</Name>
+	<Name ID="110">
+		<SourceName>baat ek raat ke</SourceName>
+		<TargetName ID="1">बात एक रात की</TargetName>
+	</Name>
+	<Name ID="111">
+		<SourceName>babel</SourceName>
+		<TargetName ID="1">बाबेल</TargetName>
+	</Name>
+	<Name ID="112">
+		<SourceName>badar</SourceName>
+		<TargetName ID="1">बदर</TargetName>
+	</Name>
+	<Name ID="113">
+		<SourceName>badreeprasaad</SourceName>
+		<TargetName ID="1">बद्रीप्रसाद</TargetName>
+	</Name>
+	<Name ID="114">
+		<SourceName>badshahnagar</SourceName>
+		<TargetName ID="1">बादशाहनगर</TargetName>
+	</Name>
+	<Name ID="115">
+		<SourceName>baghawat</SourceName>
+		<TargetName ID="1">बगावत</TargetName>
+	</Name>
+	<Name ID="116">
+		<SourceName>bahuroop</SourceName>
+		<TargetName ID="1">बहुरूप</TargetName>
+	</Name>
+	<Name ID="117">
+		<SourceName>bajwa</SourceName>
+		<TargetName ID="1">बाजवा</TargetName>
+	</Name>
+	<Name ID="118">
+		<SourceName>balak dhruv</SourceName>
+		<TargetName ID="1">बालक ध्रुव</TargetName>
+	</Name>
+	<Name ID="119">
+		<SourceName>balasor</SourceName>
+		<TargetName ID="1">बालासोर</TargetName>
+	</Name>
+	<Name ID="120">
+		<SourceName>balil</SourceName>
+		<TargetName ID="1">बलिल</TargetName>
+	</Name>
+	<Name ID="121">
+		<SourceName>balqees</SourceName>
+		<TargetName ID="1">बल्कीस</TargetName>
+	</Name>
+	<Name ID="122">
+		<SourceName>banajit</SourceName>
+		<TargetName ID="1">बनजित</TargetName>
+	</Name>
+	<Name ID="123">
+		<SourceName>banff</SourceName>
+		<TargetName ID="1">बन्फ़</TargetName>
+	</Name>
+	<Name ID="124">
+		<SourceName>bangui</SourceName>
+		<TargetName ID="1">बैंगई</TargetName>
+	</Name>
+	<Name ID="125">
+		<SourceName>banke lal</SourceName>
+		<TargetName ID="1">बाँके लाल</TargetName>
+	</Name>
+	<Name ID="126">
+		<SourceName>bansi</SourceName>
+		<TargetName ID="1">बंसी</TargetName>
+	</Name>
+	<Name ID="127">
+		<SourceName>bansilaal</SourceName>
+		<TargetName ID="1">बंसीलाल</TargetName>
+	</Name>
+	<Name ID="128">
+		<SourceName>baragaon</SourceName>
+		<TargetName ID="1">बरागांव</TargetName>
+	</Name>
+	<Name ID="129">
+		<SourceName>bardoli</SourceName>
+		<TargetName ID="1">बरदोली</TargetName>
+	</Name>
+	<Name ID="130">
+		<SourceName>bareth</SourceName>
+		<TargetName ID="1">बरेथ</TargetName>
+	</Name>
+	<Name ID="131">
+		<SourceName>barhan</SourceName>
+		<TargetName ID="1">बरहान</TargetName>
+	</Name>
+	<Name ID="132">
+		<SourceName>basit ali</SourceName>
+		<TargetName ID="1">बसित अली</TargetName>
+	</Name>
+	<Name ID="133">
+		<SourceName>batool</SourceName>
+		<TargetName ID="1">बतूल</TargetName>
+	</Name>
+	<Name ID="134">
+		<SourceName>batra</SourceName>
+		<TargetName ID="1">बत्रा</TargetName>
+	</Name>
+	<Name ID="135">
+		<SourceName>bayana junction</SourceName>
+		<TargetName ID="1">बयाना जंक्शन</TargetName>
+	</Name>
+	<Name ID="136">
+		<SourceName>bearn</SourceName>
+		<TargetName ID="1">बर्न</TargetName>
+	</Name>
+	<Name ID="137">
+		<SourceName>bees saal baad</SourceName>
+		<TargetName ID="1">बीस साल बाद</TargetName>
+	</Name>
+	<Name ID="138">
+		<SourceName>behake kadam</SourceName>
+		<TargetName ID="1">बहके कदम</TargetName>
+	</Name>
+	<Name ID="139">
+		<SourceName>bekhbar</SourceName>
+		<TargetName ID="1">बेखबर</TargetName>
+	</Name>
+	<Name ID="140">
+		<SourceName>belgaum</SourceName>
+		<TargetName ID="1">बेलगॉम</TargetName>
+	</Name>
+	<Name ID="141">
+		<SourceName>berchha</SourceName>
+		<TargetName ID="1">बरचा</TargetName>
+	</Name>
+	<Name ID="142">
+		<SourceName>beti</SourceName>
+		<TargetName ID="1">बेटी</TargetName>
+	</Name>
+	<Name ID="143">
+		<SourceName>bhaarateey</SourceName>
+		<TargetName ID="1">भारतीय</TargetName>
+	</Name>
+	<Name ID="144">
+		<SourceName>bhachau</SourceName>
+		<TargetName ID="1">भचउ</TargetName>
+	</Name>
+	<Name ID="145">
+		<SourceName>bhadkamkar</SourceName>
+		<TargetName ID="1">भडकमकर</TargetName>
+	</Name>
+	<Name ID="146">
+		<SourceName>bhadrachalam</SourceName>
+		<TargetName ID="1">भद्राचलम</TargetName>
+	</Name>
+	<Name ID="147">
+		<SourceName>bhagyawati</SourceName>
+		<TargetName ID="1">भाग्यवती</TargetName>
+	</Name>
+	<Name ID="148">
+		<SourceName>bhai saheb</SourceName>
+		<TargetName ID="1">भाई साहब</TargetName>
+	</Name>
+	<Name ID="149">
+		<SourceName>bhamini</SourceName>
+		<TargetName ID="1">भामिनी</TargetName>
+	</Name>
+	<Name ID="150">
+		<SourceName>bhandardara</SourceName>
+		<TargetName ID="1">भंडारदरा</TargetName>
+	</Name>
+	<Name ID="151">
+		<SourceName>bhanuprasad</SourceName>
+		<TargetName ID="1">भानुप्रसाद</TargetName>
+	</Name>
+	<Name ID="152">
+		<SourceName>bhatpur</SourceName>
+		<TargetName ID="1">भटपुर</TargetName>
+	</Name>
+	<Name ID="153">
+		<SourceName>bhedi lutera</SourceName>
+		<TargetName ID="1">भेदी लुटेरा</TargetName>
+	</Name>
+	<Name ID="154">
+		<SourceName>bhel</SourceName>
+		<TargetName ID="1">भेल</TargetName>
+	</Name>
+	<Name ID="155">
+		<SourceName>bheroolaal</SourceName>
+		<TargetName ID="1">भेरूलाल</TargetName>
+	</Name>
+	<Name ID="156">
+		<SourceName>bhilainagar</SourceName>
+		<TargetName ID="1">भिलाईनगर</TargetName>
+	</Name>
+	<Name ID="157">
+		<SourceName>bhildi</SourceName>
+		<TargetName ID="1">भीलड़ी</TargetName>
+	</Name>
+	<Name ID="158">
+		<SourceName>bholi</SourceName>
+		<TargetName ID="1">भोली</TargetName>
+	</Name>
+	<Name ID="159">
+		<SourceName>bhongir</SourceName>
+		<TargetName ID="1">भोंगीर</TargetName>
+	</Name>
+	<Name ID="160">
+		<SourceName>bhootnath</SourceName>
+		<TargetName ID="1">भूतनाथ</TargetName>
+	</Name>
+	<Name ID="161">
+		<SourceName>bhudhar</SourceName>
+		<TargetName ID="1">भूधर</TargetName>
+	</Name>
+	<Name ID="162">
+		<SourceName>bhuranyu</SourceName>
+		<TargetName ID="1">भूरण्यु</TargetName>
+	</Name>
+	<Name ID="163">
+		<SourceName>bichia</SourceName>
+		<TargetName ID="1">बिछिया</TargetName>
+	</Name>
+	<Name ID="164">
+		<SourceName>bikram</SourceName>
+		<TargetName ID="1">बिक्रम</TargetName>
+	</Name>
+	<Name ID="165">
+		<SourceName>bilhaur</SourceName>
+		<TargetName ID="1">बिल्हौर</TargetName>
+	</Name>
+	<Name ID="166">
+		<SourceName>bisla</SourceName>
+		<TargetName ID="1">बिस्ला</TargetName>
+	</Name>
+	<Name ID="167">
+		<SourceName>bismarck</SourceName>
+		<TargetName ID="1">बिस्मार्क</TargetName>
+	</Name>
+	<Name ID="168">
+		<SourceName>bloomberg tower</SourceName>
+		<TargetName ID="1">ब्लूमबर्ग टॉवर</TargetName>
+	</Name>
+	<Name ID="169">
+		<SourceName>blue dart</SourceName>
+		<TargetName ID="1">ब्लू डार्ट</TargetName>
+	</Name>
+	<Name ID="170">
+		<SourceName>bombay masjid</SourceName>
+		<TargetName ID="1">बॉम्बे मस्जिद</TargetName>
+	</Name>
+	<Name ID="171">
+		<SourceName>bombay war</SourceName>
+		<TargetName ID="1">बॉम्बे वार</TargetName>
+	</Name>
+	<Name ID="172">
+		<SourceName>bongaigaon</SourceName>
+		<TargetName ID="1">बॉन्गाईगांव</TargetName>
+	</Name>
+	<Name ID="173">
+		<SourceName>boot polish</SourceName>
+		<TargetName ID="1">बूट पॉलिश</TargetName>
+	</Name>
+	<Name ID="174">
+		<SourceName>bozeman</SourceName>
+		<TargetName ID="1">बॉजमेन</TargetName>
+	</Name>
+	<Name ID="175">
+		<SourceName>bracken</SourceName>
+		<TargetName ID="1">ब्रेकन</TargetName>
+	</Name>
+	<Name ID="176">
+		<SourceName>brazosport</SourceName>
+		<TargetName ID="1">ब्राझोस्पोर्ट</TargetName>
+	</Name>
+	<Name ID="177">
+		<SourceName>brendon bracewell</SourceName>
+		<TargetName ID="1">ब्रेंडन ब्रेसवेल</TargetName>
+	</Name>
+	<Name ID="178">
+		<SourceName>british book awards</SourceName>
+		<TargetName ID="1">ब्रिटिश बुक अवार्ड्‍स</TargetName>
+	</Name>
+	<Name ID="179">
+		<SourceName>brookes</SourceName>
+		<TargetName ID="1">ब्रूक्स</TargetName>
+	</Name>
+	<Name ID="180">
+		<SourceName>bruce medal</SourceName>
+		<TargetName ID="1">ब्रूस मेडल</TargetName>
+	</Name>
+	<Name ID="181">
+		<SourceName>budalur</SourceName>
+		<TargetName ID="1">बुदालुर</TargetName>
+	</Name>
+	<Name ID="182">
+		<SourceName>bunny hop</SourceName>
+		<TargetName ID="1">बनी हॉप</TargetName>
+	</Name>
+	<Name ID="183">
+		<SourceName>burnett</SourceName>
+		<TargetName ID="1">बरनेट</TargetName>
+	</Name>
+	<Name ID="184">
+		<SourceName>burrows</SourceName>
+		<TargetName ID="1">बॉरोज</TargetName>
+	</Name>
+	<Name ID="185">
+		<SourceName>bushra</SourceName>
+		<TargetName ID="1">बुशरा</TargetName>
+	</Name>
+	<Name ID="186">
+		<SourceName>cadmium</SourceName>
+		<TargetName ID="1">कैडमियम</TargetName>
+	</Name>
+	<Name ID="187">
+		<SourceName>caitir</SourceName>
+		<TargetName ID="1">कैतिर</TargetName>
+	</Name>
+	<Name ID="188">
+		<SourceName>cala</SourceName>
+		<TargetName ID="1">कैला</TargetName>
+	</Name>
+	<Name ID="189">
+		<SourceName>camila</SourceName>
+		<TargetName ID="1">कैमिला</TargetName>
+	</Name>
+	<Name ID="190">
+		<SourceName>cape cod</SourceName>
+		<TargetName ID="1">केप कॉड</TargetName>
+	</Name>
+	<Name ID="191">
+		<SourceName>cape maclear</SourceName>
+		<TargetName ID="1">केप मैकलियर</TargetName>
+	</Name>
+	<Name ID="192">
+		<SourceName>caraf</SourceName>
+		<TargetName ID="1">कैराफ</TargetName>
+	</Name>
+	<Name ID="193">
+		<SourceName>carr</SourceName>
+		<TargetName ID="1">कार</TargetName>
+	</Name>
+	<Name ID="194">
+		<SourceName>carson</SourceName>
+		<TargetName ID="1">कार्सन</TargetName>
+	</Name>
+	<Name ID="195">
+		<SourceName>caspian</SourceName>
+		<TargetName ID="1">कास्पियन</TargetName>
+	</Name>
+	<Name ID="196">
+		<SourceName>cathy betts</SourceName>
+		<TargetName ID="1">कॅथे बेट्स</TargetName>
+	</Name>
+	<Name ID="197">
+		<SourceName>catskill</SourceName>
+		<TargetName ID="1">कैस्किल</TargetName>
+	</Name>
+	<Name ID="198">
+		<SourceName>centimes</SourceName>
+		<TargetName ID="1">सेंटाइम्स</TargetName>
+	</Name>
+	<Name ID="199">
+		<SourceName>central michigan university</SourceName>
+		<TargetName ID="1">सेंट्रल मिशिगन यूनिवर्सिटी</TargetName>
+	</Name>
+	<Name ID="200">
+		<SourceName>chaad</SourceName>
+		<TargetName ID="1">चाड</TargetName>
+	</Name>
+	<Name ID="201">
+		<SourceName>chabbra</SourceName>
+		<TargetName ID="1">छाबड़ा</TargetName>
+	</Name>
+	<Name ID="202">
+		<SourceName>chaha</SourceName>
+		<TargetName ID="1">चाहा</TargetName>
+	</Name>
+	<Name ID="203">
+		<SourceName>chainwa</SourceName>
+		<TargetName ID="1">चैनवा</TargetName>
+	</Name>
+	<Name ID="204">
+		<SourceName>chakrapani</SourceName>
+		<TargetName ID="1">चक्रपाणि</TargetName>
+	</Name>
+	<Name ID="205">
+		<SourceName>chakravarty rajagopalachari</SourceName>
+		<TargetName ID="1">चक्रवर्ती राजगोपालाचारी</TargetName>
+	</Name>
+	<Name ID="206">
+		<SourceName>chaksu</SourceName>
+		<TargetName ID="1">चाकसू</TargetName>
+	</Name>
+	<Name ID="207">
+		<SourceName>chaminda vaas</SourceName>
+		<TargetName ID="1">चमिंडा वास</TargetName>
+	</Name>
+	<Name ID="208">
+		<SourceName>chamomile</SourceName>
+		<TargetName ID="1">कैमोमाइल</TargetName>
+	</Name>
+	<Name ID="209">
+		<SourceName>champaka ramanayake</SourceName>
+		<TargetName ID="1">चंपका रामनायक</TargetName>
+	</Name>
+	<Name ID="210">
+		<SourceName>chandan ka palna</SourceName>
+		<TargetName ID="1">चंदन का पालना</TargetName>
+	</Name>
+	<Name ID="211">
+		<SourceName>chandragupta</SourceName>
+		<TargetName ID="1">चंद्रगुप्त</TargetName>
+	</Name>
+	<Name ID="212">
+		<SourceName>chaparmukh junction</SourceName>
+		<TargetName ID="1">चपरमुख जंक्शन</TargetName>
+	</Name>
+	<Name ID="213">
+		<SourceName>chaphekar</SourceName>
+		<TargetName ID="1">चाफेकर</TargetName>
+	</Name>
+	<Name ID="214">
+		<SourceName>charitha buddhika</SourceName>
+		<TargetName ID="1">चरिथा बुद्धिका</TargetName>
+	</Name>
+	<Name ID="215">
+		<SourceName>charles darwin</SourceName>
+		<TargetName ID="1">चार्ल्स डार्विन</TargetName>
+	</Name>
+	<Name ID="216">
+		<SourceName>charusheela</SourceName>
+		<TargetName ID="1">चारुशीला</TargetName>
+	</Name>
+	<Name ID="217">
+		<SourceName>chester</SourceName>
+		<TargetName ID="1">चेस्टर</TargetName>
+	</Name>
+	<Name ID="218">
+		<SourceName>chichagof</SourceName>
+		<TargetName ID="1">चिचागॉफ़</TargetName>
+	</Name>
+	<Name ID="219">
+		<SourceName>chikmangloor</SourceName>
+		<TargetName ID="1">चिकमंगलूर</TargetName>
+	</Name>
+	<Name ID="220">
+		<SourceName>china finance online</SourceName>
+		<TargetName ID="1">चाइना फ़ाइनेंस ऑनलाइन</TargetName>
+	</Name>
+	<Name ID="221">
+		<SourceName>china grentech corporation limited</SourceName>
+		<TargetName ID="1">चाइना ग्रेन्टेक कॉर्पोरेशन लिमिटेड</TargetName>
+	</Name>
+	<Name ID="222">
+		<SourceName>chinna</SourceName>
+		<TargetName ID="1">चिन्ना</TargetName>
+	</Name>
+	<Name ID="223">
+		<SourceName>chinnar reservoir</SourceName>
+		<TargetName ID="1">चिन्नार रिज़रवायर</TargetName>
+	</Name>
+	<Name ID="224">
+		<SourceName>chitahra</SourceName>
+		<TargetName ID="1">चितहरा</TargetName>
+	</Name>
+	<Name ID="225">
+		<SourceName>chor chor</SourceName>
+		<TargetName ID="1">चोर चोर</TargetName>
+	</Name>
+	<Name ID="226">
+		<SourceName>chordophone</SourceName>
+		<TargetName ID="1">कॉरडोफोन</TargetName>
+	</Name>
+	<Name ID="227">
+		<SourceName>christy hefner</SourceName>
+		<TargetName ID="1">क्रिस्टी हैन्फ़र</TargetName>
+	</Name>
+	<Name ID="228">
+		<SourceName>chubb</SourceName>
+		<TargetName ID="1">शुब</TargetName>
+	</Name>
+	<Name ID="229">
+		<SourceName>clara</SourceName>
+		<TargetName ID="1">क्लारा</TargetName>
+	</Name>
+	<Name ID="230">
+		<SourceName>clarence</SourceName>
+		<TargetName ID="1">क्लारेंस</TargetName>
+	</Name>
+	<Name ID="231">
+		<SourceName>clayland</SourceName>
+		<TargetName ID="1">क्लेलैंड</TargetName>
+	</Name>
+	<Name ID="232">
+		<SourceName>cleta</SourceName>
+		<TargetName ID="1">क्लेटा</TargetName>
+	</Name>
+	<Name ID="233">
+		<SourceName>cobalt</SourceName>
+		<TargetName ID="1">कोबाल्ट</TargetName>
+	</Name>
+	<Name ID="234">
+		<SourceName>coborne</SourceName>
+		<TargetName ID="1">कॉबॉर्न</TargetName>
+	</Name>
+	<Name ID="235">
+		<SourceName>collis king</SourceName>
+		<TargetName ID="1">कॉलिस किंग</TargetName>
+	</Name>
+	<Name ID="236">
+		<SourceName>colorado kettle river</SourceName>
+		<TargetName ID="1">कोलोरैडो केटल रिवर</TargetName>
+	</Name>
+	<Name ID="237">
+		<SourceName>columbia</SourceName>
+		<TargetName ID="1">कोलम्बिया</TargetName>
+	</Name>
+	<Name ID="238">
+		<SourceName>comfort</SourceName>
+		<TargetName ID="1">कम्फर्ट</TargetName>
+	</Name>
+	<Name ID="239">
+		<SourceName>compton crook award</SourceName>
+		<TargetName ID="1">कॉम्पटन क्रूक अवार्ड</TargetName>
+	</Name>
+	<Name ID="240">
+		<SourceName>cormac</SourceName>
+		<TargetName ID="1">कॉर्मेक</TargetName>
+	</Name>
+	<Name ID="241">
+		<SourceName>cosco</SourceName>
+		<TargetName ID="1">कॉस्को</TargetName>
+	</Name>
+	<Name ID="242">
+		<SourceName>craig evans</SourceName>
+		<TargetName ID="1">क्रेग ईवंस</TargetName>
+	</Name>
+	<Name ID="243">
+		<SourceName>cranfield university</SourceName>
+		<TargetName ID="1">क्रैनफील्ड यूनिवर्सिटी</TargetName>
+	</Name>
+	<Name ID="244">
+		<SourceName>credit susse</SourceName>
+		<TargetName ID="1">क्रेडिट सुसे</TargetName>
+	</Name>
+	<Name ID="245">
+		<SourceName>cricket</SourceName>
+		<TargetName ID="1">क्रिकेट</TargetName>
+	</Name>
+	<Name ID="246">
+		<SourceName>cricketer</SourceName>
+		<TargetName ID="1">क्रिकेटर</TargetName>
+	</Name>
+	<Name ID="247">
+		<SourceName>cybille</SourceName>
+		<TargetName ID="1">सायबिल</TargetName>
+	</Name>
+	<Name ID="248">
+		<SourceName>cyprus</SourceName>
+		<TargetName ID="1">सायप्रस</TargetName>
+	</Name>
+	<Name ID="249">
+		<SourceName>dabolim</SourceName>
+		<TargetName ID="1">दबोलिम</TargetName>
+	</Name>
+	<Name ID="250">
+		<SourceName>dainik janambhumi</SourceName>
+		<TargetName ID="1">दैन‍िक जन्मभूमि</TargetName>
+	</Name>
+	<Name ID="251">
+		<SourceName>dak babu</SourceName>
+		<TargetName ID="1">डाक बाबू</TargetName>
+	</Name>
+	<Name ID="252">
+		<SourceName>daku aur mahatma</SourceName>
+		<TargetName ID="1">डाकू और महात्मा</TargetName>
+	</Name>
+	<Name ID="253">
+		<SourceName>daku hasina</SourceName>
+		<TargetName ID="1">डाकू हसीना</TargetName>
+	</Name>
+	<Name ID="254">
+		<SourceName>daku rani himmatwali</SourceName>
+		<TargetName ID="1">डाकू रानी हिम्मतवाली</TargetName>
+	</Name>
+	<Name ID="255">
+		<SourceName>dalauda</SourceName>
+		<TargetName ID="1">दलौदा</TargetName>
+	</Name>
+	<Name ID="256">
+		<SourceName>daleville baptist</SourceName>
+		<TargetName ID="1">डेलविले बैपटिस्ट</TargetName>
+	</Name>
+	<Name ID="257">
+		<SourceName>damaad</SourceName>
+		<TargetName ID="1">दामाद</TargetName>
+	</Name>
+	<Name ID="258">
+		<SourceName>dang</SourceName>
+		<TargetName ID="1">डंग</TargetName>
+	</Name>
+	<Name ID="259">
+		<SourceName>darban</SourceName>
+		<TargetName ID="1">दरबान</TargetName>
+	</Name>
+	<Name ID="260">
+		<SourceName>darin</SourceName>
+		<TargetName ID="1">डैरिन</TargetName>
+	</Name>
+	<Name ID="261">
+		<SourceName>darren gough</SourceName>
+		<TargetName ID="1">डॉरेन गॉ</TargetName>
+	</Name>
+	<Name ID="262">
+		<SourceName>darren sammy</SourceName>
+		<TargetName ID="1">डैरन सैम्मी</TargetName>
+	</Name>
+	<Name ID="263">
+		<SourceName>darrin murray</SourceName>
+		<TargetName ID="1">डेरिन मुर्रे</TargetName>
+	</Name>
+	<Name ID="264">
+		<SourceName>darwaza</SourceName>
+		<TargetName ID="1">दरवाज़ा</TargetName>
+	</Name>
+	<Name ID="265">
+		<SourceName>dasha</SourceName>
+		<TargetName ID="1">डैश</TargetName>
+	</Name>
+	<Name ID="266">
+		<SourceName>david terbrugge</SourceName>
+		<TargetName ID="1">डेविड टर्ब्रग</TargetName>
+	</Name>
+	<Name ID="267">
+		<SourceName>de zeven provincien</SourceName>
+		<TargetName ID="1">डी ज़ेवेन प्रोविंसियन</TargetName>
+	</Name>
+	<Name ID="268">
+		<SourceName>deepabali</SourceName>
+		<TargetName ID="1">दीपाबाली</TargetName>
+	</Name>
+	<Name ID="269">
+		<SourceName>deepamala</SourceName>
+		<TargetName ID="1">दीपमाला</TargetName>
+	</Name>
+	<Name ID="270">
+		<SourceName>dekha jayega</SourceName>
+		<TargetName ID="1">देखा जाएगा</TargetName>
+	</Name>
+	<Name ID="271">
+		<SourceName>delhi cantonment</SourceName>
+		<TargetName ID="1">डेल्ही कैंनटॉनमेंट</TargetName>
+	</Name>
+	<Name ID="272">
+		<SourceName>delores</SourceName>
+		<TargetName ID="1">डेलोरेस</TargetName>
+	</Name>
+	<Name ID="273">
+		<SourceName>demi moore</SourceName>
+		<TargetName ID="1">डेमी मूर</TargetName>
+	</Name>
+	<Name ID="274">
+		<SourceName>derick</SourceName>
+		<TargetName ID="1">डेरिक</TargetName>
+	</Name>
+	<Name ID="275">
+		<SourceName>des pardes</SourceName>
+		<TargetName ID="1">देस परदेस</TargetName>
+	</Name>
+	<Name ID="276">
+		<SourceName>deswal</SourceName>
+		<TargetName ID="1">देस्वाल</TargetName>
+	</Name>
+	<Name ID="277">
+		<SourceName>deswell</SourceName>
+		<TargetName ID="1">डेस्वेल</TargetName>
+	</Name>
+	<Name ID="278">
+		<SourceName>deuel</SourceName>
+		<TargetName ID="1">डूएल</TargetName>
+	</Name>
+	<Name ID="279">
+		<SourceName>deuskar</SourceName>
+		<TargetName ID="1">देऊसकर</TargetName>
+	</Name>
+	<Name ID="280">
+		<SourceName>devinderpal</SourceName>
+		<TargetName ID="1">देविंदरपाल</TargetName>
+	</Name>
+	<Name ID="281">
+		<SourceName>devnarayan</SourceName>
+		<TargetName ID="1">देवनारायण</TargetName>
+	</Name>
+	<Name ID="282">
+		<SourceName>devprayag</SourceName>
+		<TargetName ID="1">देवप्रयाग</TargetName>
+	</Name>
+	<Name ID="283">
+		<SourceName>devvrat</SourceName>
+		<TargetName ID="1">देवव्रत</TargetName>
+	</Name>
+	<Name ID="284">
+		<SourceName>dhadvaiwale</SourceName>
+		<TargetName ID="1">धडवईवाले</TargetName>
+	</Name>
+	<Name ID="285">
+		<SourceName>dham</SourceName>
+		<TargetName ID="1">धाम</TargetName>
+	</Name>
+	<Name ID="286">
+		<SourceName>dhamkee</SourceName>
+		<TargetName ID="1">धमकी</TargetName>
+	</Name>
+	<Name ID="287">
+		<SourceName>dharam kanta</SourceName>
+		<TargetName ID="1">धरम काँटा</TargetName>
+	</Name>
+	<Name ID="288">
+		<SourceName>dharam veer</SourceName>
+		<TargetName ID="1">धरम वीर</TargetName>
+	</Name>
+	<Name ID="289">
+		<SourceName>dharangaon</SourceName>
+		<TargetName ID="1">धरनगांव</TargetName>
+	</Name>
+	<Name ID="290">
+		<SourceName>dhobi doctor</SourceName>
+		<TargetName ID="1">धोबी डॉक्टर</TargetName>
+	</Name>
+	<Name ID="291">
+		<SourceName>dhriti</SourceName>
+		<TargetName ID="1">धृति</TargetName>
+	</Name>
+	<Name ID="292">
+		<SourceName>dhumr</SourceName>
+		<TargetName ID="1">धूम्र</TargetName>
+	</Name>
+	<Name ID="293">
+		<SourceName>dhumravarn</SourceName>
+		<TargetName ID="1">धुम्रवर्ण</TargetName>
+	</Name>
+	<Name ID="294">
+		<SourceName>dierdra</SourceName>
+		<TargetName ID="1">डिएर्ड्रा</TargetName>
+	</Name>
+	<Name ID="295">
+		<SourceName>diksha</SourceName>
+		<TargetName ID="1">दीक्षा</TargetName>
+	</Name>
+	<Name ID="296">
+		<SourceName>dilawar</SourceName>
+		<TargetName ID="1">दिलवर</TargetName>
+		<TargetName ID="2">दिलावर</TargetName>
+	</Name>
+	<Name ID="297">
+		<SourceName>dilber</SourceName>
+		<TargetName ID="1">दिलबर</TargetName>
+	</Name>
+	<Name ID="298">
+		<SourceName>dimple</SourceName>
+		<TargetName ID="1">डिंपल</TargetName>
+	</Name>
+	<Name ID="299">
+		<SourceName>dipa</SourceName>
+		<TargetName ID="1">दीपा</TargetName>
+	</Name>
+	<Name ID="300">
+		<SourceName>dishman</SourceName>
+		<TargetName ID="1">दिश्मन</TargetName>
+	</Name>
+	<Name ID="301">
+		<SourceName>do qaidi</SourceName>
+		<TargetName ID="1">दो कैदी</TargetName>
+	</Name>
+	<Name ID="302">
+		<SourceName>dobbelaar</SourceName>
+		<TargetName ID="1">डोबेलार</TargetName>
+	</Name>
+	<Name ID="303">
+		<SourceName>doiwala</SourceName>
+		<TargetName ID="1">दोइवाला</TargetName>
+	</Name>
+	<Name ID="304">
+		<SourceName>dominion</SourceName>
+		<TargetName ID="1">डोमिनियन</TargetName>
+	</Name>
+	<Name ID="305">
+		<SourceName>donagh</SourceName>
+		<TargetName ID="1">दोनघ</TargetName>
+	</Name>
+	<Name ID="306">
+		<SourceName>doyen</SourceName>
+		<TargetName ID="1">डोएन</TargetName>
+	</Name>
+	<Name ID="307">
+		<SourceName>dozakh</SourceName>
+		<TargetName ID="1">दोज़ख</TargetName>
+	</Name>
+	<Name ID="308">
+		<SourceName>draxis health</SourceName>
+		<TargetName ID="1">ड्रेक्सिस हेल्थ</TargetName>
+	</Name>
+	<Name ID="309">
+		<SourceName>dudhani</SourceName>
+		<TargetName ID="1">दूधानी</TargetName>
+	</Name>
+	<Name ID="310">
+		<SourceName>dudhia khurd</SourceName>
+		<TargetName ID="1">दूधिया खुर्द</TargetName>
+	</Name>
+	<Name ID="311">
+		<SourceName>duduk</SourceName>
+		<TargetName ID="1">डुदुक</TargetName>
+	</Name>
+	<Name ID="312">
+		<SourceName>dundlod</SourceName>
+		<TargetName ID="1">दुंदलोद</TargetName>
+	</Name>
+	<Name ID="313">
+		<SourceName>dushmani</SourceName>
+		<TargetName ID="1">दुश्मनी</TargetName>
+	</Name>
+	<Name ID="314">
+		<SourceName>edakkad</SourceName>
+		<TargetName ID="1">इदाक्क्ड़</TargetName>
+	</Name>
+	<Name ID="315">
+		<SourceName>eenadu</SourceName>
+		<TargetName ID="1">इनाडू</TargetName>
+	</Name>
+	<Name ID="316">
+		<SourceName>eisner awards</SourceName>
+		<TargetName ID="1">ईस्नर अवार्ड्‍स</TargetName>
+	</Name>
+	<Name ID="317">
+		<SourceName>ek jaan hai hum</SourceName>
+		<TargetName ID="1">एक जान हैं हम</TargetName>
+	</Name>
+	<Name ID="318">
+		<SourceName>elburz</SourceName>
+		<TargetName ID="1">एल्बुर्ज़</TargetName>
+	</Name>
+	<Name ID="319">
+		<SourceName>electra</SourceName>
+		<TargetName ID="1">इलेक्ट्रा</TargetName>
+	</Name>
+	<Name ID="320">
+		<SourceName>elias</SourceName>
+		<TargetName ID="1">इलियास</TargetName>
+	</Name>
+	<Name ID="321">
+		<SourceName>elizabeth doll</SourceName>
+		<TargetName ID="1">एलिज़ाबेथ डोल</TargetName>
+	</Name>
+	<Name ID="322">
+		<SourceName>emerson</SourceName>
+		<TargetName ID="1">इमर्सन</TargetName>
+	</Name>
+	<Name ID="323">
+		<SourceName>emir</SourceName>
+		<TargetName ID="1">एमिर</TargetName>
+	</Name>
+	<Name ID="324">
+		<SourceName>endeavour</SourceName>
+		<TargetName ID="1">एण्डीवर</TargetName>
+	</Name>
+	<Name ID="325">
+		<SourceName>eolande</SourceName>
+		<TargetName ID="1">इओलैंड</TargetName>
+	</Name>
+	<Name ID="326">
+		<SourceName>ethelda</SourceName>
+		<TargetName ID="1">एथेल्डा</TargetName>
+	</Name>
+	<Name ID="327">
+		<SourceName>evelia</SourceName>
+		<TargetName ID="1">इवेलिया</TargetName>
+	</Name>
+	<Name ID="328">
+		<SourceName>exfo electro-optical engineering</SourceName>
+		<TargetName ID="1">ईएक्सएफ़ओ इलेक्ट्रो-ऑप्टिकल इंजीनियरिंग</TargetName>
+	</Name>
+	<Name ID="329">
+		<SourceName>exports</SourceName>
+		<TargetName ID="1">एक्सपोर्ट्स</TargetName>
+	</Name>
+	<Name ID="330">
+		<SourceName>fadi</SourceName>
+		<TargetName ID="1">फैदी</TargetName>
+	</Name>
+	<Name ID="331">
+		<SourceName>faiq</SourceName>
+		<TargetName ID="1">फै़क</TargetName>
+	</Name>
+	<Name ID="332">
+		<SourceName>faizullapur</SourceName>
+		<TargetName ID="1">फैज़ुलापुर</TargetName>
+	</Name>
+	<Name ID="333">
+		<SourceName>fakeehah</SourceName>
+		<TargetName ID="1">फकीहाह</TargetName>
+	</Name>
+	<Name ID="334">
+		<SourceName>family of god</SourceName>
+		<TargetName ID="1">फ़ैमिली ऑफ गॉड</TargetName>
+	</Name>
+	<Name ID="335">
+		<SourceName>farlington redoubt</SourceName>
+		<TargetName ID="1">फार्लिंगटन रीडाउट</TargetName>
+	</Name>
+	<Name ID="336">
+		<SourceName>faulad</SourceName>
+		<TargetName ID="1">फौलाद</TargetName>
+	</Name>
+	<Name ID="337">
+		<SourceName>fedora</SourceName>
+		<TargetName ID="1">फेडोरा</TargetName>
+	</Name>
+	<Name ID="338">
+		<SourceName>felis shelf</SourceName>
+		<TargetName ID="1">फ़िलीस श्चेल्फी</TargetName>
+	</Name>
+	<Name ID="339">
+		<SourceName>ferdinand</SourceName>
+		<TargetName ID="1">फर्डीनांड</TargetName>
+	</Name>
+	<Name ID="340">
+		<SourceName>ferok</SourceName>
+		<TargetName ID="1">फेरोक</TargetName>
+	</Name>
+	<Name ID="341">
+		<SourceName>fifty fifty</SourceName>
+		<TargetName ID="1">फिफ्टी फिफ्टी</TargetName>
+	</Name>
+	<Name ID="342">
+		<SourceName>finlandia prize for literature</SourceName>
+		<TargetName ID="1">फिनलैंडिया प्राइज़ फॉर लिट्रेचर</TargetName>
+	</Name>
+	<Name ID="343">
+		<SourceName>fiorenza</SourceName>
+		<TargetName ID="1">फियोरेंज़ा</TargetName>
+	</Name>
+	<Name ID="344">
+		<SourceName>flora</SourceName>
+		<TargetName ID="1">फ्लोरा</TargetName>
+	</Name>
+	<Name ID="345">
+		<SourceName>forbesganj</SourceName>
+		<TargetName ID="1">फोर्ब्सगंज</TargetName>
+	</Name>
+	<Name ID="346">
+		<SourceName>fort assiniboine</SourceName>
+		<TargetName ID="1">फोर्ट एसीनिबोइन</TargetName>
+	</Name>
+	<Name ID="347">
+		<SourceName>fort benghisa</SourceName>
+		<TargetName ID="1">फोर्ट बेंघिसा</TargetName>
+	</Name>
+	<Name ID="348">
+		<SourceName>fort bokar</SourceName>
+		<TargetName ID="1">फोर्ट बोकर</TargetName>
+	</Name>
+	<Name ID="349">
+		<SourceName>fort clark</SourceName>
+		<TargetName ID="1">फोर्ट क्लार्क</TargetName>
+	</Name>
+	<Name ID="350">
+		<SourceName>fort columbia</SourceName>
+		<TargetName ID="1">फोर्ट कोलंबिया</TargetName>
+	</Name>
+	<Name ID="351">
+		<SourceName>fort dauphin</SourceName>
+		<TargetName ID="1">फोर्ट डॉफिन</TargetName>
+	</Name>
+	<Name ID="352">
+		<SourceName>fort honswijk</SourceName>
+		<TargetName ID="1">फोर्ट हॉन्सविज़्क</TargetName>
+	</Name>
+	<Name ID="353">
+		<SourceName>fort manoel</SourceName>
+		<TargetName ID="1">फोर्ट मैनोएल</TargetName>
+	</Name>
+	<Name ID="354">
+		<SourceName>fort marlborough</SourceName>
+		<TargetName ID="1">फोर्ट मार्लबोरॉ</TargetName>
+	</Name>
+	<Name ID="355">
+		<SourceName>fort smith</SourceName>
+		<TargetName ID="1">फोर्ट स्मिथ</TargetName>
+	</Name>
+	<Name ID="356">
+		<SourceName>fort tregantle</SourceName>
+		<TargetName ID="1">फोर्ट ट्रेगैन्टल</TargetName>
+	</Name>
+	<Name ID="357">
+		<SourceName>fort wayne</SourceName>
+		<TargetName ID="1">फोर्ट वेन</TargetName>
+	</Name>
+	<Name ID="358">
+		<SourceName>furkating junction</SourceName>
+		<TargetName ID="1">फर्कटिंग जंक्शन</TargetName>
+	</Name>
+	<Name ID="359">
+		<SourceName>fusaylah</SourceName>
+		<TargetName ID="1">फज़ेलाह</TargetName>
+	</Name>
+	<Name ID="360">
+		<SourceName>gagroli</SourceName>
+		<TargetName ID="1">गगरोली</TargetName>
+	</Name>
+	<Name ID="361">
+		<SourceName>gahmar</SourceName>
+		<TargetName ID="1">गेहमर</TargetName>
+	</Name>
+	<Name ID="362">
+		<SourceName>gajadant</SourceName>
+		<TargetName ID="1">गजदंत</TargetName>
+	</Name>
+	<Name ID="363">
+		<SourceName>gajanan</SourceName>
+		<TargetName ID="1">गजानन</TargetName>
+	</Name>
+	<Name ID="364">
+		<SourceName>gamini perera</SourceName>
+		<TargetName ID="1">जेमिनी परेरा</TargetName>
+	</Name>
+	<Name ID="365">
+		<SourceName>gandak</SourceName>
+		<TargetName ID="1">गंडक</TargetName>
+	</Name>
+	<Name ID="366">
+		<SourceName>ganeshvar</SourceName>
+		<TargetName ID="1">गणेश्वर</TargetName>
+	</Name>
+	<Name ID="367">
+		<SourceName>ganga</SourceName>
+		<TargetName ID="1">गंगा</TargetName>
+	</Name>
+	<Name ID="368">
+		<SourceName>gareth</SourceName>
+		<TargetName ID="1">गैरेथ</TargetName>
+	</Name>
+	<Name ID="369">
+		<SourceName>gareth hopkins</SourceName>
+		<TargetName ID="1">गैरेथ हॉप्किंस</TargetName>
+	</Name>
+	<Name ID="370">
+		<SourceName>garnett kruger</SourceName>
+		<TargetName ID="1">गर्नेट क्रुगर</TargetName>
+	</Name>
+	<Name ID="371">
+		<SourceName>gauloise</SourceName>
+		<TargetName ID="1">गॉलोइस</TargetName>
+	</Name>
+	<Name ID="372">
+		<SourceName>gaureeshankar</SourceName>
+		<TargetName ID="1">गौरीशंकर</TargetName>
+	</Name>
+	<Name ID="373">
+		<SourceName>gavotte</SourceName>
+		<TargetName ID="1">गैवोट</TargetName>
+	</Name>
+	<Name ID="374">
+		<SourceName>geoff boycott</SourceName>
+		<TargetName ID="1">जिऑफ बॉयकॉट</TargetName>
+	</Name>
+	<Name ID="375">
+		<SourceName>george bernard shaw</SourceName>
+		<TargetName ID="1">जॉर्ज बर्नार्ड शॉ</TargetName>
+	</Name>
+	<Name ID="376">
+		<SourceName>george van biesbroeck prize</SourceName>
+		<TargetName ID="1">जॉर्ज वैन बिसब्रोएक प्राइज़</TargetName>
+	</Name>
+	<Name ID="377">
+		<SourceName>georgianna</SourceName>
+		<TargetName ID="1">जार्जियाना</TargetName>
+	</Name>
+	<Name ID="378">
+		<SourceName>german</SourceName>
+		<TargetName ID="1">जर्मन</TargetName>
+	</Name>
+	<Name ID="379">
+		<SourceName>ghar dwar</SourceName>
+		<TargetName ID="1">घर द्वार</TargetName>
+	</Name>
+	<Name ID="380">
+		<SourceName>ghaso</SourceName>
+		<TargetName ID="1">घासो</TargetName>
+	</Name>
+	<Name ID="381">
+		<SourceName>ghatam</SourceName>
+		<TargetName ID="1">घातम</TargetName>
+	</Name>
+	<Name ID="382">
+		<SourceName>ghauth</SourceName>
+		<TargetName ID="1">गौथ</TargetName>
+	</Name>
+	<Name ID="383">
+		<SourceName>ghazi</SourceName>
+		<TargetName ID="1">ग़ाज़ी</TargetName>
+	</Name>
+	<Name ID="384">
+		<SourceName>ghorpuri</SourceName>
+		<TargetName ID="1">घोरपुरी</TargetName>
+	</Name>
+	<Name ID="385">
+		<SourceName>ghufayrah</SourceName>
+		<TargetName ID="1">ग़ुफयराह</TargetName>
+	</Name>
+	<Name ID="386">
+		<SourceName>ginny</SourceName>
+		<TargetName ID="1">जीनी</TargetName>
+	</Name>
+	<Name ID="387">
+		<SourceName>giriraaj</SourceName>
+		<TargetName ID="1">गिरिराज</TargetName>
+	</Name>
+	<Name ID="388">
+		<SourceName>girna</SourceName>
+		<TargetName ID="1">गिर्ना</TargetName>
+	</Name>
+	<Name ID="389">
+		<SourceName>gizi</SourceName>
+		<TargetName ID="1">गिज़ी</TargetName>
+	</Name>
+	<Name ID="390">
+		<SourceName>goa</SourceName>
+		<TargetName ID="1">गोवा</TargetName>
+	</Name>
+	<Name ID="391">
+		<SourceName>godel prize award</SourceName>
+		<TargetName ID="1">गोडल प्राइज़ अवार्ड</TargetName>
+	</Name>
+	<Name ID="392">
+		<SourceName>gomantak times</SourceName>
+		<TargetName ID="1">गोमंतक टाइम्स</TargetName>
+	</Name>
+	<Name ID="393">
+		<SourceName>gopika</SourceName>
+		<TargetName ID="1">गोपिका</TargetName>
+	</Name>
+	<Name ID="394">
+		<SourceName>govind</SourceName>
+		<TargetName ID="1">गोविन्द</TargetName>
+	</Name>
+	<Name ID="395">
+		<SourceName>govindgarh malk</SourceName>
+		<TargetName ID="1">गोविंदगढ़ माल्क</TargetName>
+	</Name>
+	<Name ID="396">
+		<SourceName>graeme porter</SourceName>
+		<TargetName ID="1">ग्रीम पोर्टर</TargetName>
+	</Name>
+	<Name ID="397">
+		<SourceName>graeme swann</SourceName>
+		<TargetName ID="1">ग्रीम स्वान</TargetName>
+	</Name>
+	<Name ID="398">
+		<SourceName>greg matthews</SourceName>
+		<TargetName ID="1">ग्रेग मैथ्यूज</TargetName>
+	</Name>
+	<Name ID="399">
+		<SourceName>gridco</SourceName>
+		<TargetName ID="1">ग्रिडको</TargetName>
+	</Name>
+	<Name ID="400">
+		<SourceName>griffiths</SourceName>
+		<TargetName ID="1">ग्रिफिथ्स</TargetName>
+	</Name>
+	<Name ID="401">
+		<SourceName>grimes</SourceName>
+		<TargetName ID="1">ग्रिम्स</TargetName>
+	</Name>
+	<Name ID="402">
+		<SourceName>grinham</SourceName>
+		<TargetName ID="1">ग्रिनहैम</TargetName>
+	</Name>
+	<Name ID="403">
+		<SourceName>grissom</SourceName>
+		<TargetName ID="1">ग्रिसम</TargetName>
+	</Name>
+	<Name ID="404">
+		<SourceName>grizzly</SourceName>
+		<TargetName ID="1">ग्रिज़ली</TargetName>
+	</Name>
+	<Name ID="405">
+		<SourceName>groupe pinault print</SourceName>
+		<TargetName ID="1">ग्रुप पिनॉल्ट प्रिंट</TargetName>
+	</Name>
+	<Name ID="406">
+		<SourceName>guadalupe</SourceName>
+		<TargetName ID="1">गुडालुपे</TargetName>
+	</Name>
+	<Name ID="407">
+		<SourceName>guajira</SourceName>
+		<TargetName ID="1">गुआजिरा</TargetName>
+	</Name>
+	<Name ID="408">
+		<SourceName>guarani</SourceName>
+		<TargetName ID="1">गुरानी</TargetName>
+	</Name>
+	<Name ID="409">
+		<SourceName>guddi</SourceName>
+		<TargetName ID="1">गुड्डी</TargetName>
+	</Name>
+	<Name ID="410">
+		<SourceName>guldhar</SourceName>
+		<TargetName ID="1">गुलधर</TargetName>
+	</Name>
+	<Name ID="411">
+		<SourceName>gundardehi</SourceName>
+		<TargetName ID="1">गुणदरदेही</TargetName>
+	</Name>
+	<Name ID="412">
+		<SourceName>gurgaon</SourceName>
+		<TargetName ID="1">गुड़गाँव</TargetName>
+		<TargetName ID="2">गुड़गांव</TargetName>
+	</Name>
+	<Name ID="413">
+		<SourceName>guru</SourceName>
+		<TargetName ID="1">गुरु</TargetName>
+		<TargetName ID="2">गुरू</TargetName>
+	</Name>
+	<Name ID="414">
+		<SourceName>guru dakshina</SourceName>
+		<TargetName ID="1">गुरु दक्षिणा</TargetName>
+	</Name>
+	<Name ID="415">
+		<SourceName>guru granth sahib</SourceName>
+		<TargetName ID="1">गुरू ग्रंथ साहिब</TargetName>
+	</Name>
+	<Name ID="416">
+		<SourceName>gurudwara khandur sahib</SourceName>
+		<TargetName ID="1">गुरूद्वारा खंडूर साहिब</TargetName>
+	</Name>
+	<Name ID="417">
+		<SourceName>gurudwara likhansar</SourceName>
+		<TargetName ID="1">गुरूद्वारा लिखणसार</TargetName>
+	</Name>
+	<Name ID="418">
+		<SourceName>gurudwara thanda burj</SourceName>
+		<TargetName ID="1">गुरूद्वारा ठंडा बुर्ज</TargetName>
+	</Name>
+	<Name ID="419">
+		<SourceName>hafizur rahman</SourceName>
+		<TargetName ID="1">हफिज़ुर रहमान</TargetName>
+	</Name>
+	<Name ID="420">
+		<SourceName>hailakandi</SourceName>
+		<TargetName ID="1">हलाकांडी</TargetName>
+	</Name>
+	<Name ID="421">
+		<SourceName>hajrah</SourceName>
+		<TargetName ID="1">हजराह</TargetName>
+	</Name>
+	<Name ID="422">
+		<SourceName>hamid</SourceName>
+		<TargetName ID="1">हमीद</TargetName>
+		<TargetName ID="2">हामिद</TargetName>
+	</Name>
+	<Name ID="423">
+		<SourceName>hamidieh</SourceName>
+		<TargetName ID="1">हैमीडीह</TargetName>
+	</Name>
+	<Name ID="424">
+		<SourceName>hannah</SourceName>
+		<TargetName ID="1">हन्नाह</TargetName>
+	</Name>
+	<Name ID="425">
+		<SourceName>hanumaan</SourceName>
+		<TargetName ID="1">हनुमान</TargetName>
+	</Name>
+	<Name ID="426">
+		<SourceName>hartford</SourceName>
+		<TargetName ID="1">हार्टफ़ोर्ड</TargetName>
+	</Name>
+	<Name ID="427">
+		<SourceName>harvard university</SourceName>
+		<TargetName ID="1">हावर्ड यूनिवर्सिटी</TargetName>
+	</Name>
+	<Name ID="428">
+		<SourceName>harvy</SourceName>
+		<TargetName ID="1">हार्वी</TargetName>
+	</Name>
+	<Name ID="429">
+		<SourceName>hashid</SourceName>
+		<TargetName ID="1">हशीद</TargetName>
+	</Name>
+	<Name ID="430">
+		<SourceName>hats' russian war</SourceName>
+		<TargetName ID="1">हैट्स रशियन वार</TargetName>
+	</Name>
+	<Name ID="431">
+		<SourceName>haupango</SourceName>
+		<TargetName ID="1">हॉपैंगो</TargetName>
+	</Name>
+	<Name ID="432">
+		<SourceName>hawwa</SourceName>
+		<TargetName ID="1">हव्वा</TargetName>
+	</Name>
+	<Name ID="433">
+		<SourceName>heer ranjha</SourceName>
+		<TargetName ID="1">हीर रांझा</TargetName>
+	</Name>
+	<Name ID="434">
+		<SourceName>hemang badani</SourceName>
+		<TargetName ID="1">हेमंग बदानी</TargetName>
+	</Name>
+	<Name ID="435">
+		<SourceName>hemchand</SourceName>
+		<TargetName ID="1">हेमचंद</TargetName>
+	</Name>
+	<Name ID="436">
+		<SourceName>henly</SourceName>
+		<TargetName ID="1">हेनली</TargetName>
+	</Name>
+	<Name ID="437">
+		<SourceName>hera</SourceName>
+		<TargetName ID="1">हीरा</TargetName>
+	</Name>
+	<Name ID="438">
+		<SourceName>hermes</SourceName>
+		<TargetName ID="1">हर्मीस</TargetName>
+	</Name>
+	<Name ID="439">
+		<SourceName>hersey</SourceName>
+		<TargetName ID="1">हार्से</TargetName>
+	</Name>
+	<Name ID="440">
+		<SourceName>hewlett - packard</SourceName>
+		<TargetName ID="1">ह्यूलेट-पैकर्ड</TargetName>
+	</Name>
+	<Name ID="441">
+		<SourceName>highlands</SourceName>
+		<TargetName ID="1">हाईलैंड्स</TargetName>
+	</Name>
+	<Name ID="442">
+		<SourceName>himaalay</SourceName>
+		<TargetName ID="1">हिमालय</TargetName>
+	</Name>
+	<Name ID="443">
+		<SourceName>hindustan lever</SourceName>
+		<TargetName ID="1">हिंदुस्तान लीवर</TargetName>
+	</Name>
+	<Name ID="444">
+		<SourceName>hisar</SourceName>
+		<TargetName ID="1">हिसार</TargetName>
+	</Name>
+	<Name ID="445">
+		<SourceName>hoche</SourceName>
+		<TargetName ID="1">हॉक</TargetName>
+	</Name>
+	<Name ID="446">
+		<SourceName>hollis</SourceName>
+		<TargetName ID="1">हॉलिस</TargetName>
+	</Name>
+	<Name ID="447">
+		<SourceName>hollywood walk of fame</SourceName>
+		<TargetName ID="1">हॉलीवुड वॉक ऑफ फेम</TargetName>
+	</Name>
+	<Name ID="448">
+		<SourceName>house of prayer lutheran</SourceName>
+		<TargetName ID="1">हाउस ऑफ प्रेअर लुथेरान</TargetName>
+	</Name>
+	<Name ID="449">
+		<SourceName>hubayshah</SourceName>
+		<TargetName ID="1">हुबायशाह</TargetName>
+	</Name>
+	<Name ID="450">
+		<SourceName>hum sub ustad hain</SourceName>
+		<TargetName ID="1">हम सब उस्ताद हैं</TargetName>
+	</Name>
+	<Name ID="451">
+		<SourceName>huma</SourceName>
+		<TargetName ID="1">हुमा</TargetName>
+	</Name>
+	<Name ID="452">
+		<SourceName>humayun</SourceName>
+		<TargetName ID="1">हुमायूँ</TargetName>
+	</Name>
+	<Name ID="453">
+		<SourceName>huzayl</SourceName>
+		<TargetName ID="1">हुज़ायल</TargetName>
+	</Name>
+	<Name ID="454">
+		<SourceName>ian redpath</SourceName>
+		<TargetName ID="1">इआन रेडपाथ</TargetName>
+	</Name>
+	<Name ID="455">
+		<SourceName>idemitsu kosan</SourceName>
+		<TargetName ID="1">आइडेमित्सु कोसान</TargetName>
+	</Name>
+	<Name ID="456">
+		<SourceName>ikhlas</SourceName>
+		<TargetName ID="1">इखलास</TargetName>
+	</Name>
+	<Name ID="457">
+		<SourceName>iki</SourceName>
+		<TargetName ID="1">इकी</TargetName>
+	</Name>
+	<Name ID="458">
+		<SourceName>iliamna</SourceName>
+		<TargetName ID="1">लियाम्ना</TargetName>
+	</Name>
+	<Name ID="459">
+		<SourceName>incredimail</SourceName>
+		<TargetName ID="1">इंक्रेडिमेल</TargetName>
+	</Name>
+	<Name ID="460">
+		<SourceName>indapurkar</SourceName>
+		<TargetName ID="1">इंदापुरकर</TargetName>
+	</Name>
+	<Name ID="461">
+		<SourceName>inderdeep</SourceName>
+		<TargetName ID="1">इन्दरदीप</TargetName>
+	</Name>
+	<Name ID="462">
+		<SourceName>induja</SourceName>
+		<TargetName ID="1">इन्दुजा</TargetName>
+	</Name>
+	<Name ID="463">
+		<SourceName>indukala</SourceName>
+		<TargetName ID="1">इन्दुकला</TargetName>
+	</Name>
+	<Name ID="464">
+		<SourceName>infotech enter</SourceName>
+		<TargetName ID="1">इंफ़ोटेक एन्टर</TargetName>
+	</Name>
+	<Name ID="465">
+		<SourceName>iran ki ek raat</SourceName>
+		<TargetName ID="1">ईरान की एक रात</TargetName>
+	</Name>
+	<Name ID="466">
+		<SourceName>itihaas</SourceName>
+		<TargetName ID="1">इतिहास</TargetName>
+	</Name>
+	<Name ID="467">
+		<SourceName>izz</SourceName>
+		<TargetName ID="1">इज़्ज़</TargetName>
+	</Name>
+	<Name ID="468">
+		<SourceName>jack heron</SourceName>
+		<TargetName ID="1">जैक हेरन</TargetName>
+	</Name>
+	<Name ID="469">
+		<SourceName>jacqui</SourceName>
+		<TargetName ID="1">जैकी</TargetName>
+	</Name>
+	<Name ID="470">
+		<SourceName>jagannath puri</SourceName>
+		<TargetName ID="1">जगन्नाथ पुरी</TargetName>
+	</Name>
+	<Name ID="471">
+		<SourceName>jagdamba</SourceName>
+		<TargetName ID="1">जगदंबा</TargetName>
+	</Name>
+	<Name ID="472">
+		<SourceName>jahdamah</SourceName>
+		<TargetName ID="1">जहदमाह</TargetName>
+	</Name>
+	<Name ID="473">
+		<SourceName>jai</SourceName>
+		<TargetName ID="1">जय</TargetName>
+	</Name>
+	<Name ID="474">
+		<SourceName>jainism</SourceName>
+		<TargetName ID="1">जैनिज़्म</TargetName>
+	</Name>
+	<Name ID="475">
+		<SourceName>jaiprakash narayan</SourceName>
+		<TargetName ID="1">जयप्रकाश नारायण</TargetName>
+	</Name>
+	<Name ID="476">
+		<SourceName>james laughlin award</SourceName>
+		<TargetName ID="1">जेम्स लॉफलिन अवार्ड</TargetName>
+	</Name>
+	<Name ID="477">
+		<SourceName>janak</SourceName>
+		<TargetName ID="1">जनक</TargetName>
+	</Name>
+	<Name ID="478">
+		<SourceName>janet rino</SourceName>
+		<TargetName ID="1">जेनेट रीनो</TargetName>
+	</Name>
+	<Name ID="479">
+		<SourceName>javed miandad</SourceName>
+		<TargetName ID="1">जावेद मियंदाद</TargetName>
+	</Name>
+	<Name ID="480">
+		<SourceName>jay vijay</SourceName>
+		<TargetName ID="1">जय विजय</TargetName>
+	</Name>
+	<Name ID="481">
+		<SourceName>jayasekera</SourceName>
+		<TargetName ID="1">जयसेकरा</TargetName>
+	</Name>
+	<Name ID="482">
+		<SourceName>jeanne</SourceName>
+		<TargetName ID="1">जीनी</TargetName>
+	</Name>
+	<Name ID="483">
+		<SourceName>jeevan naiya</SourceName>
+		<TargetName ID="1">जीवन नैया</TargetName>
+	</Name>
+	<Name ID="484">
+		<SourceName>jeevan prabhat</SourceName>
+		<TargetName ID="1">जीवन प्रभात</TargetName>
+	</Name>
+	<Name ID="485">
+		<SourceName>jeevan rekha</SourceName>
+		<TargetName ID="1">जीवन रेखा</TargetName>
+	</Name>
+	<Name ID="486">
+		<SourceName>jeff wilson</SourceName>
+		<TargetName ID="1">जेफ विल्सन</TargetName>
+	</Name>
+	<Name ID="487">
+		<SourceName>jemma</SourceName>
+		<TargetName ID="1">जेमा</TargetName>
+	</Name>
+	<Name ID="488">
+		<SourceName>jibran</SourceName>
+		<TargetName ID="1">जिब्रान</TargetName>
+	</Name>
+	<Name ID="489">
+		<SourceName>jimmy hendricks</SourceName>
+		<TargetName ID="1">जिमी हैंड्रिक्स</TargetName>
+	</Name>
+	<Name ID="490">
+		<SourceName>jimuta</SourceName>
+		<TargetName ID="1">जिमुता</TargetName>
+	</Name>
+	<Name ID="491">
+		<SourceName>jinelle</SourceName>
+		<TargetName ID="1">जिनेल</TargetName>
+	</Name>
+	<Name ID="492">
+		<SourceName>jivitesh</SourceName>
+		<TargetName ID="1">जिवितेश</TargetName>
+	</Name>
+	<Name ID="493">
+		<SourceName>jocasta</SourceName>
+		<TargetName ID="1">जोकस्ता</TargetName>
+	</Name>
+	<Name ID="494">
+		<SourceName>jogi</SourceName>
+		<TargetName ID="1">जोगी</TargetName>
+	</Name>
+	<Name ID="495">
+		<SourceName>jograj</SourceName>
+		<TargetName ID="1">जोगराज</TargetName>
+	</Name>
+	<Name ID="496">
+		<SourceName>john f. kennedy</SourceName>
+		<TargetName ID="1">जॉन एफ. केनेडी</TargetName>
+	</Name>
+	<Name ID="497">
+		<SourceName>john penn</SourceName>
+		<TargetName ID="1">जॉन पेन</TargetName>
+	</Name>
+	<Name ID="498">
+		<SourceName>jon kent</SourceName>
+		<TargetName ID="1">जॉन केंट</TargetName>
+	</Name>
+	<Name ID="499">
+		<SourceName>josie</SourceName>
+		<TargetName ID="1">जोसि</TargetName>
+	</Name>
+	<Name ID="500">
+		<SourceName>judaism</SourceName>
+		<TargetName ID="1">जूदाइज़्म</TargetName>
+	</Name>
+	<Name ID="501">
+		<SourceName>jungle king</SourceName>
+		<TargetName ID="1">जंगल किंग</TargetName>
+	</Name>
+	<Name ID="502">
+		<SourceName>justice choudhary</SourceName>
+		<TargetName ID="1">जस्टिस चौधरी</TargetName>
+	</Name>
+	<Name ID="503">
+		<SourceName>jwalamukhi</SourceName>
+		<TargetName ID="1">ज्वालामुखी</TargetName>
+	</Name>
+	<Name ID="504">
+		<SourceName>kaamanaa</SourceName>
+		<TargetName ID="1">कामना</TargetName>
+	</Name>
+	<Name ID="505">
+		<SourceName>kaaran</SourceName>
+		<TargetName ID="1">कारण</TargetName>
+	</Name>
+	<Name ID="506">
+		<SourceName>kachchi kali</SourceName>
+		<TargetName ID="1">कच्ची कली</TargetName>
+	</Name>
+	<Name ID="507">
+		<SourceName>kacia</SourceName>
+		<TargetName ID="1">केसिया</TargetName>
+	</Name>
+	<Name ID="508">
+		<SourceName>kailaash</SourceName>
+		<TargetName ID="1">कैलाश</TargetName>
+	</Name>
+	<Name ID="509">
+		<SourceName>kaise kahoon</SourceName>
+		<TargetName ID="1">कैसे कहूँ</TargetName>
+	</Name>
+	<Name ID="510">
+		<SourceName>kalea</SourceName>
+		<TargetName ID="1">कैलिया</TargetName>
+	</Name>
+	<Name ID="511">
+		<SourceName>kamal</SourceName>
+		<TargetName ID="1">कमल</TargetName>
+		<TargetName ID="2">कमाल</TargetName>
+	</Name>
+	<Name ID="512">
+		<SourceName>kamesh</SourceName>
+		<TargetName ID="1">कामेश</TargetName>
+	</Name>
+	<Name ID="513">
+		<SourceName>kamyab</SourceName>
+		<TargetName ID="1">कामयाब</TargetName>
+	</Name>
+	<Name ID="514">
+		<SourceName>kanakpriya</SourceName>
+		<TargetName ID="1">कनकप्रिया</TargetName>
+	</Name>
+	<Name ID="515">
+		<SourceName>kanchan aur ganga</SourceName>
+		<TargetName ID="1">कंचन और गंगा</TargetName>
+	</Name>
+	<Name ID="516">
+		<SourceName>kanwal</SourceName>
+		<TargetName ID="1">कंवल</TargetName>
+	</Name>
+	<Name ID="517">
+		<SourceName>karin</SourceName>
+		<TargetName ID="1">कैरिन</TargetName>
+	</Name>
+	<Name ID="518">
+		<SourceName>kartik</SourceName>
+		<TargetName ID="1">कार्तिक</TargetName>
+	</Name>
+	<Name ID="519">
+		<SourceName>kasia</SourceName>
+		<TargetName ID="1">कैसिया</TargetName>
+	</Name>
+	<Name ID="520">
+		<SourceName>katak</SourceName>
+		<TargetName ID="1">कटक</TargetName>
+	</Name>
+	<Name ID="521">
+		<SourceName>kattora</SourceName>
+		<TargetName ID="1">कत्तौरा</TargetName>
+	</Name>
+	<Name ID="522">
+		<SourceName>katy</SourceName>
+		<TargetName ID="1">कैटी</TargetName>
+	</Name>
+	<Name ID="523">
+		<SourceName>kaumudhi</SourceName>
+		<TargetName ID="1">कौमुदी</TargetName>
+	</Name>
+	<Name ID="524">
+		<SourceName>kaustav</SourceName>
+		<TargetName ID="1">कौस्तव</TargetName>
+	</Name>
+	<Name ID="525">
+		<SourceName>keene</SourceName>
+		<TargetName ID="1">कीन</TargetName>
+	</Name>
+	<Name ID="526">
+		<SourceName>kennan</SourceName>
+		<TargetName ID="1">केनन</TargetName>
+	</Name>
+	<Name ID="527">
+		<SourceName>keshihan</SourceName>
+		<TargetName ID="1">केशिहन</TargetName>
+	</Name>
+	<Name ID="528">
+		<SourceName>kevin duers</SourceName>
+		<TargetName ID="1">केविन डुअर्स</TargetName>
+	</Name>
+	<Name ID="529">
+		<SourceName>khahera</SourceName>
+		<TargetName ID="1">खहेरा</TargetName>
+	</Name>
+	<Name ID="530">
+		<SourceName>kharqa</SourceName>
+		<TargetName ID="1">ख़ार्का</TargetName>
+	</Name>
+	<Name ID="531">
+		<SourceName>khatoon</SourceName>
+		<TargetName ID="1">खातून</TargetName>
+	</Name>
+	<Name ID="532">
+		<SourceName>khattda</SourceName>
+		<TargetName ID="1">खट्टड़ा</TargetName>
+	</Name>
+	<Name ID="533">
+		<SourceName>khel kismat ka</SourceName>
+		<TargetName ID="1">खेल किस्मत का</TargetName>
+	</Name>
+	<Name ID="534">
+		<SourceName>khoj</SourceName>
+		<TargetName ID="1">खोज</TargetName>
+	</Name>
+	<Name ID="535">
+		<SourceName>khuddar</SourceName>
+		<TargetName ID="1">खुद्दार</TargetName>
+	</Name>
+	<Name ID="536">
+		<SourceName>khufia mahal</SourceName>
+		<TargetName ID="1">खुफिया महल</TargetName>
+	</Name>
+	<Name ID="537">
+		<SourceName>khuraymah</SourceName>
+		<TargetName ID="1">खुरायमाह</TargetName>
+	</Name>
+	<Name ID="538">
+		<SourceName>khwaja mir dard</SourceName>
+		<TargetName ID="1">ख्वाजा मीर दर्द</TargetName>
+	</Name>
+	<Name ID="539">
+		<SourceName>khwaja nizamuddin chishti</SourceName>
+		<TargetName ID="1">ख्वाजा निज़ामुद्दीन चिस्ती</TargetName>
+	</Name>
+	<Name ID="540">
+		<SourceName>kintan</SourceName>
+		<TargetName ID="1">किंतन</TargetName>
+	</Name>
+	<Name ID="541">
+		<SourceName>kiranmay</SourceName>
+		<TargetName ID="1">किरण्मय</TargetName>
+	</Name>
+	<Name ID="542">
+		<SourceName>kiril</SourceName>
+		<TargetName ID="1">किरिल</TargetName>
+	</Name>
+	<Name ID="543">
+		<SourceName>klamath</SourceName>
+		<TargetName ID="1">क्लामथ</TargetName>
+	</Name>
+	<Name ID="544">
+		<SourceName>konark surya</SourceName>
+		<TargetName ID="1">कोणार्क सूर्य</TargetName>
+	</Name>
+	<Name ID="545">
+		<SourceName>koning der nederlanden</SourceName>
+		<TargetName ID="1">कॉनिंग दर नीदरलैंडन</TargetName>
+	</Name>
+	<Name ID="546">
+		<SourceName>kori</SourceName>
+		<TargetName ID="1">कोरी</TargetName>
+	</Name>
+	<Name ID="547">
+		<SourceName>kristy</SourceName>
+		<TargetName ID="1">क्रिस्टी</TargetName>
+	</Name>
+	<Name ID="548">
+		<SourceName>kufra</SourceName>
+		<TargetName ID="1">कुफ़्रा</TargetName>
+	</Name>
+	<Name ID="549">
+		<SourceName>kumari</SourceName>
+		<TargetName ID="1">कुमारी</TargetName>
+	</Name>
+	<Name ID="550">
+		<SourceName>kunte</SourceName>
+		<TargetName ID="1">कुंटे</TargetName>
+	</Name>
+	<Name ID="551">
+		<SourceName>kuntee</SourceName>
+		<TargetName ID="1">कुंती</TargetName>
+	</Name>
+	<Name ID="552">
+		<SourceName>kush</SourceName>
+		<TargetName ID="1">कुश</TargetName>
+	</Name>
+	<Name ID="553">
+		<SourceName>kusumaadhiraaj</SourceName>
+		<TargetName ID="1">कुसुमाधिराज</TargetName>
+	</Name>
+	<Name ID="554">
+		<SourceName>kyushu</SourceName>
+		<TargetName ID="1">क्यूशू</TargetName>
+	</Name>
+	<Name ID="555">
+		<SourceName>laalamani</SourceName>
+		<TargetName ID="1">लालमणि</TargetName>
+	</Name>
+	<Name ID="556">
+		<SourceName>lagu</SourceName>
+		<TargetName ID="1">लागू</TargetName>
+	</Name>
+	<Name ID="557">
+		<SourceName>lahore fort</SourceName>
+		<TargetName ID="1">लाहौर फोर्ट</TargetName>
+	</Name>
+	<Name ID="558">
+		<SourceName>lakshmishree</SourceName>
+		<TargetName ID="1">लक्ष्मीश्री</TargetName>
+	</Name>
+	<Name ID="559">
+		<SourceName>lal kunwar</SourceName>
+		<TargetName ID="1">लाल कुँवर</TargetName>
+	</Name>
+	<Name ID="560">
+		<SourceName>lal patthar</SourceName>
+		<TargetName ID="1">लाल पत्थर</TargetName>
+	</Name>
+	<Name ID="561">
+		<SourceName>lalaatikaa</SourceName>
+		<TargetName ID="1">ललाटिका</TargetName>
+	</Name>
+	<Name ID="562">
+		<SourceName>lalan</SourceName>
+		<TargetName ID="1">ललन</TargetName>
+	</Name>
+	<Name ID="563">
+		<SourceName>lance klusener</SourceName>
+		<TargetName ID="1">लैन्स क्लूजनर</TargetName>
+	</Name>
+	<Name ID="564">
+		<SourceName>landler</SourceName>
+		<TargetName ID="1">लैंडर</TargetName>
+	</Name>
+	<Name ID="565">
+		<SourceName>larissa</SourceName>
+		<TargetName ID="1">लैरीसा</TargetName>
+	</Name>
+	<Name ID="566">
+		<SourceName>latona</SourceName>
+		<TargetName ID="1">लैटोना</TargetName>
+	</Name>
+	<Name ID="567">
+		<SourceName>lawaate</SourceName>
+		<TargetName ID="1">लवाटे</TargetName>
+	</Name>
+	<Name ID="568">
+		<SourceName>lawrence school</SourceName>
+		<TargetName ID="1">लॉरेंस स्कूल</TargetName>
+	</Name>
+	<Name ID="569">
+		<SourceName>layyah</SourceName>
+		<TargetName ID="1">लय्याह</TargetName>
+	</Name>
+	<Name ID="570">
+		<SourceName>leatrix</SourceName>
+		<TargetName ID="1">लीट्रिक्स</TargetName>
+	</Name>
+	<Name ID="571">
+		<SourceName>lebanon</SourceName>
+		<TargetName ID="1">लेबनॉन</TargetName>
+	</Name>
+	<Name ID="572">
+		<SourceName>leelaaraam</SourceName>
+		<TargetName ID="1">लीलाराम</TargetName>
+	</Name>
+	<Name ID="573">
+		<SourceName>lemhi</SourceName>
+		<TargetName ID="1">लेम्ही</TargetName>
+	</Name>
+	<Name ID="574">
+		<SourceName>liberace</SourceName>
+		<TargetName ID="1">लिब्रेस</TargetName>
+	</Name>
+	<Name ID="575">
+		<SourceName>light house</SourceName>
+		<TargetName ID="1">लाइट हाउस</TargetName>
+	</Name>
+	<Name ID="576">
+		<SourceName>lilianna</SourceName>
+		<TargetName ID="1">लिलियाना</TargetName>
+	</Name>
+	<Name ID="577">
+		<SourceName>linaeve</SourceName>
+		<TargetName ID="1">लिनाएव</TargetName>
+	</Name>
+	<Name ID="578">
+		<SourceName>lincoln university</SourceName>
+		<TargetName ID="1">लिंकन यूनिवर्सिटी</TargetName>
+	</Name>
+	<Name ID="579">
+		<SourceName>lion</SourceName>
+		<TargetName ID="1">लायन</TargetName>
+	</Name>
+	<Name ID="580">
+		<SourceName>liverpool community</SourceName>
+		<TargetName ID="1">लिवरपूल कम्युनिटी</TargetName>
+	</Name>
+	<Name ID="581">
+		<SourceName>lokmat</SourceName>
+		<TargetName ID="1">लोकमत</TargetName>
+	</Name>
+	<Name ID="582">
+		<SourceName>los marmoles</SourceName>
+		<TargetName ID="1">लॉस मार्मोल्स</TargetName>
+	</Name>
+	<Name ID="583">
+		<SourceName>lothringen</SourceName>
+		<TargetName ID="1">लॉथरिंगन</TargetName>
+	</Name>
+	<Name ID="584">
+		<SourceName>love in simla</SourceName>
+		<TargetName ID="1">लव इन शिमला</TargetName>
+	</Name>
+	<Name ID="585">
+		<SourceName>lucia</SourceName>
+		<TargetName ID="1">ल्यूसी</TargetName>
+	</Name>
+	<Name ID="586">
+		<SourceName>luciano</SourceName>
+		<TargetName ID="1">ल्युसिआनो</TargetName>
+	</Name>
+	<Name ID="587">
+		<SourceName>lucky number</SourceName>
+		<TargetName ID="1">लकी नंबर</TargetName>
+	</Name>
+	<Name ID="588">
+		<SourceName>luktuke</SourceName>
+		<TargetName ID="1">लुकतुके</TargetName>
+	</Name>
+	<Name ID="589">
+		<SourceName>maadhavee</SourceName>
+		<TargetName ID="1">माधवी</TargetName>
+	</Name>
+	<Name ID="590">
+		<SourceName>macronix international</SourceName>
+		<TargetName ID="1">मैक्रॉनिक्स इंटरनेशनल</TargetName>
+	</Name>
+	<Name ID="591">
+		<SourceName>madan manjari</SourceName>
+		<TargetName ID="1">मदन मंजरी</TargetName>
+	</Name>
+	<Name ID="592">
+		<SourceName>madhu</SourceName>
+		<TargetName ID="1">मधु</TargetName>
+	</Name>
+	<Name ID="593">
+		<SourceName>madivan</SourceName>
+		<TargetName ID="1">मादिवन</TargetName>
+	</Name>
+	<Name ID="594">
+		<SourceName>mafizur rahman</SourceName>
+		<TargetName ID="1">मफिज़र रहमान</TargetName>
+	</Name>
+	<Name ID="595">
+		<SourceName>maghavaajit</SourceName>
+		<TargetName ID="1">मघवाजित</TargetName>
+	</Name>
+	<Name ID="596">
+		<SourceName>mahaashvetaa</SourceName>
+		<TargetName ID="1">महाश्वेता</TargetName>
+	</Name>
+	<Name ID="597">
+		<SourceName>mahaavat</SourceName>
+		<TargetName ID="1">महावत</TargetName>
+	</Name>
+	<Name ID="598">
+		<SourceName>mahabali hanuman</SourceName>
+		<TargetName ID="1">महाबली हनुमान</TargetName>
+	</Name>
+	<Name ID="599">
+		<SourceName>mahasweta</SourceName>
+		<TargetName ID="1">महाश्वेता</TargetName>
+	</Name>
+	<Name ID="600">
+		<SourceName>mahijuba</SourceName>
+		<TargetName ID="1">महिजुबा</TargetName>
+	</Name>
+	<Name ID="601">
+		<SourceName>mahira</SourceName>
+		<TargetName ID="1">महिरा</TargetName>
+	</Name>
+	<Name ID="602">
+		<SourceName>mahish</SourceName>
+		<TargetName ID="1">महिश</TargetName>
+	</Name>
+	<Name ID="603">
+		<SourceName>mahotsaah</SourceName>
+		<TargetName ID="1">महोत्साह</TargetName>
+	</Name>
+	<Name ID="604">
+		<SourceName>mainaa</SourceName>
+		<TargetName ID="1">मैना</TargetName>
+	</Name>
+	<Name ID="605">
+		<SourceName>makayla</SourceName>
+		<TargetName ID="1">मकायला</TargetName>
+	</Name>
+	<Name ID="606">
+		<SourceName>malayala manorama</SourceName>
+		<TargetName ID="1">मालायला मनोरमा</TargetName>
+	</Name>
+	<Name ID="607">
+		<SourceName>malpasset dam</SourceName>
+		<TargetName ID="1">मैल्पसेट डैम</TargetName>
+	</Name>
+	<Name ID="608">
+		<SourceName>mangatraam</SourceName>
+		<TargetName ID="1">मंगतराम</TargetName>
+	</Name>
+	<Name ID="609">
+		<SourceName>manimuthar reservoir</SourceName>
+		<TargetName ID="1">मणिमुथर रिज़रवायर</TargetName>
+	</Name>
+	<Name ID="610">
+		<SourceName>maniram</SourceName>
+		<TargetName ID="1">मणिराम</TargetName>
+	</Name>
+	<Name ID="611">
+		<SourceName>manish</SourceName>
+		<TargetName ID="1">मनीष</TargetName>
+	</Name>
+	<Name ID="612">
+		<SourceName>manmatha</SourceName>
+		<TargetName ID="1">मन्मथ</TargetName>
+	</Name>
+	<Name ID="613">
+		<SourceName>manuhaar</SourceName>
+		<TargetName ID="1">मनुहार</TargetName>
+	</Name>
+	<Name ID="614">
+		<SourceName>manzar</SourceName>
+		<TargetName ID="1">मंज़र</TargetName>
+	</Name>
+	<Name ID="615">
+		<SourceName>mar mitenge</SourceName>
+		<TargetName ID="1">मर मिटेंगे</TargetName>
+	</Name>
+	<Name ID="616">
+		<SourceName>marasi</SourceName>
+		<TargetName ID="1">मरासी</TargetName>
+	</Name>
+	<Name ID="617">
+		<SourceName>mardav</SourceName>
+		<TargetName ID="1">मार्दव</TargetName>
+	</Name>
+	<Name ID="618">
+		<SourceName>maricopa</SourceName>
+		<TargetName ID="1">मेरीकोपा</TargetName>
+	</Name>
+	<Name ID="619">
+		<SourceName>marigaon</SourceName>
+		<TargetName ID="1">मारीगाँव</TargetName>
+	</Name>
+	<Name ID="620">
+		<SourceName>marigold</SourceName>
+		<TargetName ID="1">मैरीगोल्ड</TargetName>
+	</Name>
+	<Name ID="621">
+		<SourceName>marissa</SourceName>
+		<TargetName ID="1">मैरिसा</TargetName>
+	</Name>
+	<Name ID="622">
+		<SourceName>martin suji</SourceName>
+		<TargetName ID="1">मार्टिन सूजी</TargetName>
+	</Name>
+	<Name ID="623">
+		<SourceName>masada</SourceName>
+		<TargetName ID="1">मसाडा</TargetName>
+	</Name>
+	<Name ID="624">
+		<SourceName>mastani</SourceName>
+		<TargetName ID="1">मस्तानी</TargetName>
+	</Name>
+	<Name ID="625">
+		<SourceName>mateenadaas</SourceName>
+		<TargetName ID="1">मतीनदास</TargetName>
+	</Name>
+	<Name ID="626">
+		<SourceName>maurilio</SourceName>
+		<TargetName ID="1">मौरिलिओ</TargetName>
+	</Name>
+	<Name ID="627">
+		<SourceName>mawsil</SourceName>
+		<TargetName ID="1">मावसिल</TargetName>
+	</Name>
+	<Name ID="628">
+		<SourceName>maxima</SourceName>
+		<TargetName ID="1">मक्सिमा</TargetName>
+	</Name>
+	<Name ID="629">
+		<SourceName>mazda motor</SourceName>
+		<TargetName ID="1">माज़दा मोटर</TargetName>
+	</Name>
+	<Name ID="630">
+		<SourceName>mednipur</SourceName>
+		<TargetName ID="1">मेदनीपुर</TargetName>
+	</Name>
+	<Name ID="631">
+		<SourceName>meera shyam</SourceName>
+		<TargetName ID="1">मीरा श्याम</TargetName>
+	</Name>
+	<Name ID="632">
+		<SourceName>meet one greet one</SourceName>
+		<TargetName ID="1">मीट वन ग्रीट वन</TargetName>
+	</Name>
+	<Name ID="633">
+		<SourceName>mehmaan</SourceName>
+		<TargetName ID="1">मेहमान</TargetName>
+	</Name>
+	<Name ID="634">
+		<SourceName>mehrunissa</SourceName>
+		<TargetName ID="1">मेहरुन्निसा</TargetName>
+	</Name>
+	<Name ID="635">
+		<SourceName>melodeon</SourceName>
+		<TargetName ID="1">मैलोडियन</TargetName>
+	</Name>
+	<Name ID="636">
+		<SourceName>mengkuang dam</SourceName>
+		<TargetName ID="1">मेंगक्वांग डैम</TargetName>
+	</Name>
+	<Name ID="637">
+		<SourceName>mera muqadar</SourceName>
+		<TargetName ID="1">मेरा मुक़द्दर</TargetName>
+	</Name>
+	<Name ID="638">
+		<SourceName>mera suhag</SourceName>
+		<TargetName ID="1">मेरा सुहाग</TargetName>
+	</Name>
+	<Name ID="639">
+		<SourceName>meri asha</SourceName>
+		<TargetName ID="1">मेरी आशा</TargetName>
+	</Name>
+	<Name ID="640">
+		<SourceName>meru betiri</SourceName>
+		<TargetName ID="1">मेरु बेतिरी</TargetName>
+	</Name>
+	<Name ID="641">
+		<SourceName>messeturm</SourceName>
+		<TargetName ID="1">मेसेटर्म</TargetName>
+	</Name>
+	<Name ID="642">
+		<SourceName>mevan pieris</SourceName>
+		<TargetName ID="1">मेवन पाइरिस</TargetName>
+	</Name>
+	<Name ID="643">
+		<SourceName>mian mir</SourceName>
+		<TargetName ID="1">मिलन मीर</TargetName>
+	</Name>
+	<Name ID="644">
+		<SourceName>michael bevan</SourceName>
+		<TargetName ID="1">माइकल बेवन</TargetName>
+	</Name>
+	<Name ID="645">
+		<SourceName>mike atherton</SourceName>
+		<TargetName ID="1">माइक एथर्टन</TargetName>
+	</Name>
+	<Name ID="646">
+		<SourceName>minjonet</SourceName>
+		<TargetName ID="1">मिंजोनेट</TargetName>
+	</Name>
+	<Name ID="647">
+		<SourceName>modern youth</SourceName>
+		<TargetName ID="1">मॉडर्न यूथ</TargetName>
+	</Name>
+	<Name ID="648">
+		<SourceName>monitor</SourceName>
+		<TargetName ID="1">मॉनीटर</TargetName>
+	</Name>
+	<Name ID="649">
+		<SourceName>monrovia</SourceName>
+		<TargetName ID="1">मोनरोविया</TargetName>
+	</Name>
+	<Name ID="650">
+		<SourceName>mookambika</SourceName>
+		<TargetName ID="1">मूकांबिका</TargetName>
+	</Name>
+	<Name ID="651">
+		<SourceName>morag</SourceName>
+		<TargetName ID="1">मोरग</TargetName>
+	</Name>
+	<Name ID="652">
+		<SourceName>mount abu</SourceName>
+		<TargetName ID="1">माउंट आबू</TargetName>
+	</Name>
+	<Name ID="653">
+		<SourceName>mradul</SourceName>
+		<TargetName ID="1">मृदुल</TargetName>
+	</Name>
+	<Name ID="654">
+		<SourceName>mudit</SourceName>
+		<TargetName ID="1">मुदित</TargetName>
+	</Name>
+	<Name ID="655">
+		<SourceName>mudra</SourceName>
+		<TargetName ID="1">मुद्रा</TargetName>
+	</Name>
+	<Name ID="656">
+		<SourceName>muhriz</SourceName>
+		<TargetName ID="1">मुहरिज़</TargetName>
+	</Name>
+	<Name ID="657">
+		<SourceName>mujaddid</SourceName>
+		<TargetName ID="1">मुजद्दिद</TargetName>
+	</Name>
+	<Name ID="658">
+		<SourceName>mukadam</SourceName>
+		<TargetName ID="1">मुकादम</TargetName>
+	</Name>
+	<Name ID="659">
+		<SourceName>mukhataar</SourceName>
+		<TargetName ID="1">मुखतार</TargetName>
+	</Name>
+	<Name ID="660">
+		<SourceName>mukulit</SourceName>
+		<TargetName ID="1">मुकुलित</TargetName>
+	</Name>
+	<Name ID="661">
+		<SourceName>mukunda</SourceName>
+		<TargetName ID="1">मुकुन्द</TargetName>
+	</Name>
+	<Name ID="662">
+		<SourceName>mukut</SourceName>
+		<TargetName ID="1">मुकुट</TargetName>
+	</Name>
+	<Name ID="663">
+		<SourceName>municipal gallery of rhodes</SourceName>
+		<TargetName ID="1">म्युन‍िस‍िपल गैलरी ऑफ रोड्स</TargetName>
+	</Name>
+	<Name ID="664">
+		<SourceName>munsif daily</SourceName>
+		<TargetName ID="1">मुंसिफ डेल्ही</TargetName>
+	</Name>
+	<Name ID="665">
+		<SourceName>muqaddar</SourceName>
+		<TargetName ID="1">मुकद्दर</TargetName>
+	</Name>
+	<Name ID="666">
+		<SourceName>muqtasid</SourceName>
+		<TargetName ID="1">मुक़्तसिद</TargetName>
+	</Name>
+	<Name ID="667">
+		<SourceName>murari</SourceName>
+		<TargetName ID="1">मुरारी</TargetName>
+	</Name>
+	<Name ID="668">
+		<SourceName>murti</SourceName>
+		<TargetName ID="1">मूर्ति</TargetName>
+	</Name>
+	<Name ID="669">
+		<SourceName>mushtaq ahmed</SourceName>
+		<TargetName ID="1">मुश्ताक अहमद</TargetName>
+	</Name>
+	<Name ID="670">
+		<SourceName>mustafeed</SourceName>
+		<TargetName ID="1">मुस्तफीद</TargetName>
+	</Name>
+	<Name ID="671">
+		<SourceName>naatak</SourceName>
+		<TargetName ID="1">नाटक</TargetName>
+	</Name>
+	<Name ID="672">
+		<SourceName>nabhan</SourceName>
+		<TargetName ID="1">नभन</TargetName>
+	</Name>
+	<Name ID="673">
+		<SourceName>nahanni</SourceName>
+		<TargetName ID="1">ना‍हान्नी</TargetName>
+	</Name>
+	<Name ID="674">
+		<SourceName>nai</SourceName>
+		<TargetName ID="1">नाइ</TargetName>
+	</Name>
+	<Name ID="675">
+		<SourceName>naimish</SourceName>
+		<TargetName ID="1">नैमिश</TargetName>
+	</Name>
+	<Name ID="676">
+		<SourceName>nairit</SourceName>
+		<TargetName ID="1">नैरित</TargetName>
+	</Name>
+	<Name ID="677">
+		<SourceName>najiyah</SourceName>
+		<TargetName ID="1">नाजिया</TargetName>
+	</Name>
+	<Name ID="678">
+		<SourceName>nanda devi</SourceName>
+		<TargetName ID="1">नंदा देवी</TargetName>
+	</Name>
+	<Name ID="679">
+		<SourceName>nasa medal for exceptional scientific achievement</SourceName>
+		<TargetName ID="1">नासा मेडल फॉर एक्सेप्शनल साइंटीफिक अचीवमेंट</TargetName>
+	</Name>
+	<Name ID="680">
+		<SourceName>nashwa</SourceName>
+		<TargetName ID="1">नश्वा</TargetName>
+	</Name>
+	<Name ID="681">
+		<SourceName>nathan bracken</SourceName>
+		<TargetName ID="1">नाथन ब्रेकन</TargetName>
+	</Name>
+	<Name ID="682">
+		<SourceName>national medal of science</SourceName>
+		<TargetName ID="1">नेशनल मेडल ऑफ साइंस</TargetName>
+	</Name>
+	<Name ID="683">
+		<SourceName>naved ashraf</SourceName>
+		<TargetName ID="1">नावेद अशरफ</TargetName>
+	</Name>
+	<Name ID="684">
+		<SourceName>naved latif</SourceName>
+		<TargetName ID="1">नावेद लतीफ</TargetName>
+	</Name>
+	<Name ID="685">
+		<SourceName>naya rasta</SourceName>
+		<TargetName ID="1">नय रास्ता</TargetName>
+	</Name>
+	<Name ID="686">
+		<SourceName>nazar ka shikar</SourceName>
+		<TargetName ID="1">नज़र का शिकार</TargetName>
+	</Name>
+	<Name ID="687">
+		<SourceName>neelabja</SourceName>
+		<TargetName ID="1">नीलाब्जा</TargetName>
+	</Name>
+	<Name ID="688">
+		<SourceName>neelmani</SourceName>
+		<TargetName ID="1">नीलमणि</TargetName>
+	</Name>
+	<Name ID="689">
+		<SourceName>neemuch</SourceName>
+		<TargetName ID="1">नीमच</TargetName>
+	</Name>
+	<Name ID="690">
+		<SourceName>neodymium</SourceName>
+		<TargetName ID="1">नीयोडिमियम</TargetName>
+	</Name>
+	<Name ID="691">
+		<SourceName>newbery honor</SourceName>
+		<TargetName ID="1">न्यूबेरी हॉनर</TargetName>
+	</Name>
+	<Name ID="692">
+		<SourceName>niamur rashid</SourceName>
+		<TargetName ID="1">नियामुर रशीद</TargetName>
+	</Name>
+	<Name ID="693">
+		<SourceName>nice-systems limited</SourceName>
+		<TargetName ID="1">नाइस-सिस्टम्स लिमिटेड</TargetName>
+	</Name>
+	<Name ID="694">
+		<SourceName>nicholas pirama</SourceName>
+		<TargetName ID="1">निकोलस पिरामल</TargetName>
+	</Name>
+	<Name ID="695">
+		<SourceName>nikunja</SourceName>
+		<TargetName ID="1">निकुंजा</TargetName>
+	</Name>
+	<Name ID="696">
+		<SourceName>nilagriv</SourceName>
+		<TargetName ID="1">नीलाग्रीव</TargetName>
+	</Name>
+	<Name ID="697">
+		<SourceName>nilima</SourceName>
+		<TargetName ID="1">नीलिमा</TargetName>
+	</Name>
+	<Name ID="698">
+		<SourceName>ninad</SourceName>
+		<TargetName ID="1">निनाद</TargetName>
+	</Name>
+	<Name ID="699">
+		<SourceName>niraj</SourceName>
+		<TargetName ID="1">नीरज</TargetName>
+	</Name>
+	<Name ID="700">
+		<SourceName>nityagopal</SourceName>
+		<TargetName ID="1">नित्यगोपाल</TargetName>
+	</Name>
+	<Name ID="701">
+		<SourceName>nityanand</SourceName>
+		<TargetName ID="1">नित्यानन्द</TargetName>
+	</Name>
+	<Name ID="702">
+		<SourceName>nityasundar</SourceName>
+		<TargetName ID="1">नित्यसुन्दर</TargetName>
+	</Name>
+	<Name ID="703">
+		<SourceName>noleta</SourceName>
+		<TargetName ID="1">नोलेटा</TargetName>
+	</Name>
+	<Name ID="704">
+		<SourceName>noopur</SourceName>
+		<TargetName ID="1">नूपुर</TargetName>
+	</Name>
+	<Name ID="705">
+		<SourceName>noor jahan</SourceName>
+		<TargetName ID="1">नूर जहाँ</TargetName>
+	</Name>
+	<Name ID="706">
+		<SourceName>noorie</SourceName>
+		<TargetName ID="1">नूरी</TargetName>
+	</Name>
+	<Name ID="707">
+		<SourceName>noorjehan</SourceName>
+		<TargetName ID="1">नूरजहाँ</TargetName>
+	</Name>
+	<Name ID="708">
+		<SourceName>nordland</SourceName>
+		<TargetName ID="1">नॉरलैंड</TargetName>
+	</Name>
+	<Name ID="709">
+		<SourceName>oklahoma city</SourceName>
+		<TargetName ID="1">ओक्लाहोमा सिटी</TargetName>
+	</Name>
+	<Name ID="710">
+		<SourceName>oliver cromwell</SourceName>
+		<TargetName ID="1">ऑलीवर क्रॉमवेल</TargetName>
+	</Name>
+	<Name ID="711">
+		<SourceName>omar khaiyyam</SourceName>
+		<TargetName ID="1">ओमर खैय्यम</TargetName>
+	</Name>
+	<Name ID="712">
+		<SourceName>ophira</SourceName>
+		<TargetName ID="1">ओफिरा</TargetName>
+	</Name>
+	<Name ID="713">
+		<SourceName>orbotech</SourceName>
+		<TargetName ID="1">ऑर्बोटेक</TargetName>
+	</Name>
+	<Name ID="714">
+		<SourceName>orchid chemical</SourceName>
+		<TargetName ID="1">ऑर्किड केमिकल्स</TargetName>
+	</Name>
+	<Name ID="715">
+		<SourceName>order of the crown</SourceName>
+		<TargetName ID="1">ऑडर ऑफ द क्राउन</TargetName>
+	</Name>
+	<Name ID="716">
+		<SourceName>origins award</SourceName>
+		<TargetName ID="1">ऑरिजिन्स अवार्ड</TargetName>
+	</Name>
+	<Name ID="717">
+		<SourceName>orthofix</SourceName>
+		<TargetName ID="1">ऑर्थोफ़िक्स</TargetName>
+	</Name>
+	<Name ID="718">
+		<SourceName>osman</SourceName>
+		<TargetName ID="1">उस्मान</TargetName>
+	</Name>
+	<Name ID="719">
+		<SourceName>ova</SourceName>
+		<TargetName ID="1">ओवा</TargetName>
+	</Name>
+	<Name ID="720">
+		<SourceName>pallab</SourceName>
+		<TargetName ID="1">पल्लब</TargetName>
+	</Name>
+	<Name ID="721">
+		<SourceName>panama city</SourceName>
+		<TargetName ID="1">पनामा सिटी</TargetName>
+	</Name>
+	<Name ID="722">
+		<SourceName>panchayat</SourceName>
+		<TargetName ID="1">पंचायत</TargetName>
+	</Name>
+	<Name ID="723">
+		<SourceName>pandhari</SourceName>
+		<TargetName ID="1">पंढरी</TargetName>
+	</Name>
+	<Name ID="724">
+		<SourceName>pannagesh</SourceName>
+		<TargetName ID="1">पन्नागेश</TargetName>
+	</Name>
+	<Name ID="725">
+		<SourceName>parichay</SourceName>
+		<TargetName ID="1">परिचय</TargetName>
+	</Name>
+	<Name ID="726">
+		<SourceName>paris orly</SourceName>
+		<TargetName ID="1">पेरिस ऑरले</TargetName>
+	</Name>
+	<Name ID="727">
+		<SourceName>parivartan</SourceName>
+		<TargetName ID="1">परिवर्तन</TargetName>
+	</Name>
+	<Name ID="728">
+		<SourceName>parma missionary baptist</SourceName>
+		<TargetName ID="1">पार्मा मिशनरी बैपटिस्ट</TargetName>
+	</Name>
+	<Name ID="729">
+		<SourceName>pashupati</SourceName>
+		<TargetName ID="1">पशुपति</TargetName>
+	</Name>
+	<Name ID="730">
+		<SourceName>patterson thompson</SourceName>
+		<TargetName ID="1">पैटर्सन थॉमप्सन</TargetName>
+	</Name>
+	<Name ID="731">
+		<SourceName>peace</SourceName>
+		<TargetName ID="1">पीस</TargetName>
+	</Name>
+	<Name ID="732">
+		<SourceName>pechiparai</SourceName>
+		<TargetName ID="1">पेचीपराई</TargetName>
+	</Name>
+	<Name ID="733">
+		<SourceName>peder skram</SourceName>
+		<TargetName ID="1">पेडर स्क्रेम</TargetName>
+	</Name>
+	<Name ID="734">
+		<SourceName>pendse</SourceName>
+		<TargetName ID="1">पेंडसे</TargetName>
+	</Name>
+	<Name ID="735">
+		<SourceName>penganga</SourceName>
+		<TargetName ID="1">पेनगंगा</TargetName>
+	</Name>
+	<Name ID="736">
+		<SourceName>pensioner</SourceName>
+		<TargetName ID="1">पेंशनर</TargetName>
+	</Name>
+	<Name ID="737">
+		<SourceName>petrobrás</SourceName>
+		<TargetName ID="1">पेट्रोब्रस</TargetName>
+	</Name>
+	<Name ID="738">
+		<SourceName>phadatare</SourceName>
+		<TargetName ID="1">फडतरे</TargetName>
+	</Name>
+	<Name ID="739">
+		<SourceName>phagun</SourceName>
+		<TargetName ID="1">फागुन</TargetName>
+	</Name>
+	<Name ID="740">
+		<SourceName>phil carlson</SourceName>
+		<TargetName ID="1">फिल कार्लसन</TargetName>
+	</Name>
+	<Name ID="741">
+		<SourceName>phil defreitas</SourceName>
+		<TargetName ID="1">फिल डेफ्रेटास</TargetName>
+	</Name>
+	<Name ID="742">
+		<SourceName>phil simmons</SourceName>
+		<TargetName ID="1">फिल सिमंस</TargetName>
+	</Name>
+	<Name ID="743">
+		<SourceName>philadelphia</SourceName>
+		<TargetName ID="1">फिलाडेल्फ़िया</TargetName>
+	</Name>
+	<Name ID="744">
+		<SourceName>phyliss</SourceName>
+		<TargetName ID="1">फिलिस</TargetName>
+	</Name>
+	<Name ID="745">
+		<SourceName>physiology</SourceName>
+		<TargetName ID="1">फिजियोलॉजी</TargetName>
+	</Name>
+	<Name ID="746">
+		<SourceName>pink</SourceName>
+		<TargetName ID="1">पिंक</TargetName>
+	</Name>
+	<Name ID="747">
+		<SourceName>polly</SourceName>
+		<TargetName ID="1">पोली</TargetName>
+	</Name>
+	<Name ID="748">
+		<SourceName>poojit</SourceName>
+		<TargetName ID="1">पूजित</TargetName>
+	</Name>
+	<Name ID="749">
+		<SourceName>poonam ki raat</SourceName>
+		<TargetName ID="1">पूनम की रात</TargetName>
+	</Name>
+	<Name ID="750">
+		<SourceName>powerful</SourceName>
+		<TargetName ID="1">पावरफुल</TargetName>
+	</Name>
+	<Name ID="751">
+		<SourceName>prajaapat</SourceName>
+		<TargetName ID="1">प्रजापत</TargetName>
+	</Name>
+	<Name ID="752">
+		<SourceName>prarthana</SourceName>
+		<TargetName ID="1">प्रार्थना</TargetName>
+	</Name>
+	<Name ID="753">
+		<SourceName>prasannjit</SourceName>
+		<TargetName ID="1">प्रसन्नजित</TargetName>
+	</Name>
+	<Name ID="754">
+		<SourceName>pratima</SourceName>
+		<TargetName ID="1">प्रतिमा</TargetName>
+	</Name>
+	<Name ID="755">
+		<SourceName>praveen</SourceName>
+		<TargetName ID="1">प्रवीण</TargetName>
+	</Name>
+	<Name ID="756">
+		<SourceName>pretorius</SourceName>
+		<TargetName ID="1">प्रिटॉरियस</TargetName>
+	</Name>
+	<Name ID="757">
+		<SourceName>pro football hall of fame</SourceName>
+		<TargetName ID="1">प्रो फुटबॉल हॉल ऑफ फेम</TargetName>
+	</Name>
+	<Name ID="758">
+		<SourceName>procter</SourceName>
+		<TargetName ID="1">प्रॉक्टर</TargetName>
+	</Name>
+	<Name ID="759">
+		<SourceName>prometheus</SourceName>
+		<TargetName ID="1">प्रोमिथेउस</TargetName>
+	</Name>
+	<Name ID="760">
+		<SourceName>pryor</SourceName>
+		<TargetName ID="1">प्रयॉर</TargetName>
+	</Name>
+	<Name ID="761">
+		<SourceName>punarnava</SourceName>
+		<TargetName ID="1">पुनर्नवा</TargetName>
+	</Name>
+	<Name ID="762">
+		<SourceName>pushparaaj</SourceName>
+		<TargetName ID="1">पुष्पराज</TargetName>
+	</Name>
+	<Name ID="763">
+		<SourceName>pyar ka toofan</SourceName>
+		<TargetName ID="1">प्यार का तूफान</TargetName>
+	</Name>
+	<Name ID="764">
+		<SourceName>pyas</SourceName>
+		<TargetName ID="1">प्यास</TargetName>
+	</Name>
+	<Name ID="765">
+		<SourceName>qaidi</SourceName>
+		<TargetName ID="1">कैदी</TargetName>
+	</Name>
+	<Name ID="766">
+		<SourceName>raagini</SourceName>
+		<TargetName ID="1">रागिनी</TargetName>
+	</Name>
+	<Name ID="767">
+		<SourceName>raajamuni</SourceName>
+		<TargetName ID="1">राजमुनि</TargetName>
+	</Name>
+	<Name ID="768">
+		<SourceName>raasavihaaree</SourceName>
+		<TargetName ID="1">रासविहारी</TargetName>
+	</Name>
+	<Name ID="769">
+		<SourceName>raghavendra</SourceName>
+		<TargetName ID="1">राघवेंद्र</TargetName>
+	</Name>
+	<Name ID="770">
+		<SourceName>raichur</SourceName>
+		<TargetName ID="1">रायचूर</TargetName>
+	</Name>
+	<Name ID="771">
+		<SourceName>rain calcining</SourceName>
+		<TargetName ID="1">रेन कैल्सिंइंग</TargetName>
+	</Name>
+	<Name ID="772">
+		<SourceName>raj nartaki</SourceName>
+		<TargetName ID="1">राज नर्तकी</TargetName>
+	</Name>
+	<Name ID="773">
+		<SourceName>raje</SourceName>
+		<TargetName ID="1">राजे</TargetName>
+	</Name>
+	<Name ID="774">
+		<SourceName>rajeshwar</SourceName>
+		<TargetName ID="1">राजेश्वर</TargetName>
+	</Name>
+	<Name ID="775">
+		<SourceName>ram avtar</SourceName>
+		<TargetName ID="1">राम अवतार</TargetName>
+	</Name>
+	<Name ID="776">
+		<SourceName>rambaan</SourceName>
+		<TargetName ID="1">रामबाण</TargetName>
+	</Name>
+	<Name ID="777">
+		<SourceName>rambha</SourceName>
+		<TargetName ID="1">रम्भा</TargetName>
+	</Name>
+	<Name ID="778">
+		<SourceName>ramuwalia</SourceName>
+		<TargetName ID="1">रामूवालिया</TargetName>
+	</Name>
+	<Name ID="779">
+		<SourceName>ranajay</SourceName>
+		<TargetName ID="1">रणजय</TargetName>
+	</Name>
+	<Name ID="780">
+		<SourceName>rance</SourceName>
+		<TargetName ID="1">रैंस</TargetName>
+	</Name>
+	<Name ID="781">
+		<SourceName>randheer</SourceName>
+		<TargetName ID="1">रणधीर</TargetName>
+	</Name>
+	<Name ID="782">
+		<SourceName>rasaal</SourceName>
+		<TargetName ID="1">रसाल</TargetName>
+	</Name>
+	<Name ID="783">
+		<SourceName>rasheed</SourceName>
+		<TargetName ID="1">रशीद</TargetName>
+	</Name>
+	<Name ID="784">
+		<SourceName>rasikaa</SourceName>
+		<TargetName ID="1">रसिका</TargetName>
+	</Name>
+	<Name ID="785">
+		<SourceName>reporter raju</SourceName>
+		<TargetName ID="1">रिपोर्टर राजू</TargetName>
+	</Name>
+	<Name ID="786">
+		<SourceName>reykjavik</SourceName>
+		<TargetName ID="1">रिकज़विक</TargetName>
+	</Name>
+	<Name ID="787">
+		<SourceName>richmond</SourceName>
+		<TargetName ID="1">रिचमंड</TargetName>
+	</Name>
+	<Name ID="788">
+		<SourceName>rick</SourceName>
+		<TargetName ID="1">रिक</TargetName>
+	</Name>
+	<Name ID="789">
+		<SourceName>robin uthappa</SourceName>
+		<TargetName ID="1">रॉबिन उथाप्पा</TargetName>
+	</Name>
+	<Name ID="790">
+		<SourceName>rochelle</SourceName>
+		<TargetName ID="1">रोशेल</TargetName>
+	</Name>
+	<Name ID="791">
+		<SourceName>roden</SourceName>
+		<TargetName ID="1">रोडन</TargetName>
+	</Name>
+	<Name ID="792">
+		<SourceName>roland butcher</SourceName>
+		<TargetName ID="1">रॉलेंड बुचर</TargetName>
+	</Name>
+	<Name ID="793">
+		<SourceName>romantic india</SourceName>
+		<TargetName ID="1">रोमांटिक इंडिया</TargetName>
+	</Name>
+	<Name ID="794">
+		<SourceName>romesh kaluwitharana</SourceName>
+		<TargetName ID="1">रोमेश कालुविथराणा</TargetName>
+	</Name>
+	<Name ID="795">
+		<SourceName>roseanne</SourceName>
+		<TargetName ID="1">रोज़ीन</TargetName>
+	</Name>
+	<Name ID="796">
+		<SourceName>roshanee</SourceName>
+		<TargetName ID="1">रोशनी</TargetName>
+	</Name>
+	<Name ID="797">
+		<SourceName>rudy</SourceName>
+		<TargetName ID="1">रुडी</TargetName>
+	</Name>
+	<Name ID="798">
+		<SourceName>rupaiya</SourceName>
+		<TargetName ID="1">रुपैया</TargetName>
+	</Name>
+	<Name ID="799">
+		<SourceName>russell krovi</SourceName>
+		<TargetName ID="1">रसेल क्रोवी</TargetName>
+	</Name>
+	<Name ID="800">
+		<SourceName>saadat</SourceName>
+		<TargetName ID="1">सादात</TargetName>
+	</Name>
+	<Name ID="801">
+		<SourceName>sach</SourceName>
+		<TargetName ID="1">सच</TargetName>
+	</Name>
+	<Name ID="802">
+		<SourceName>sachche ka bolbala</SourceName>
+		<TargetName ID="1">सच्चे का बोलबाला</TargetName>
+	</Name>
+	<Name ID="803">
+		<SourceName>sachin tendulkar</SourceName>
+		<TargetName ID="1">सचिन तेंडुलकर</TargetName>
+	</Name>
+	<Name ID="804">
+		<SourceName>sadiqah</SourceName>
+		<TargetName ID="1">सदीकाह</TargetName>
+	</Name>
+	<Name ID="805">
+		<SourceName>saheb</SourceName>
+		<TargetName ID="1">साहब</TargetName>
+	</Name>
+	<Name ID="806">
+		<SourceName>sailaab</SourceName>
+		<TargetName ID="1">सैलाब</TargetName>
+	</Name>
+	<Name ID="807">
+		<SourceName>sailesh</SourceName>
+		<TargetName ID="1">सैलेश</TargetName>
+	</Name>
+	<Name ID="808">
+		<SourceName>saint helens fort</SourceName>
+		<TargetName ID="1">सेंट हेलेन्स फोर्ट</TargetName>
+	</Name>
+	<Name ID="809">
+		<SourceName>sainte marie</SourceName>
+		<TargetName ID="1">सेंट मेरी</TargetName>
+	</Name>
+	<Name ID="810">
+		<SourceName>saipratap</SourceName>
+		<TargetName ID="1">साईप्रताप</TargetName>
+	</Name>
+	<Name ID="811">
+		<SourceName>sajan</SourceName>
+		<TargetName ID="1">सजन</TargetName>
+	</Name>
+	<Name ID="812">
+		<SourceName>sajeewa de silva</SourceName>
+		<TargetName ID="1">सजीवा डे सिल्वा</TargetName>
+	</Name>
+	<Name ID="813">
+		<SourceName>sajni</SourceName>
+		<TargetName ID="1">सजनी</TargetName>
+	</Name>
+	<Name ID="814">
+		<SourceName>salil ankola</SourceName>
+		<TargetName ID="1">सलिल अंकोला</TargetName>
+	</Name>
+	<Name ID="815">
+		<SourceName>samaj patan</SourceName>
+		<TargetName ID="1">समाज पतन</TargetName>
+	</Name>
+	<Name ID="816">
+		<SourceName>sambad</SourceName>
+		<TargetName ID="1">संबद</TargetName>
+	</Name>
+	<Name ID="817">
+		<SourceName>sambaran</SourceName>
+		<TargetName ID="1">समबरन</TargetName>
+	</Name>
+	<Name ID="818">
+		<SourceName>samrendru</SourceName>
+		<TargetName ID="1">समरेंदु</TargetName>
+	</Name>
+	<Name ID="819">
+		<SourceName>san martino</SourceName>
+		<TargetName ID="1">सैन मार्टिनो</TargetName>
+	</Name>
+	<Name ID="820">
+		<SourceName>san paolo imi</SourceName>
+		<TargetName ID="1">सन पेओलो मी</TargetName>
+	</Name>
+	<Name ID="821">
+		<SourceName>sanghera</SourceName>
+		<TargetName ID="1">संघेरा</TargetName>
+	</Name>
+	<Name ID="822">
+		<SourceName>sant ravidas ki amar kahani</SourceName>
+		<TargetName ID="1">संत रविदास की अमर कहानी</TargetName>
+	</Name>
+	<Name ID="823">
+		<SourceName>santos</SourceName>
+		<TargetName ID="1">सेंटोज़</TargetName>
+	</Name>
+	<Name ID="824">
+		<SourceName>sarayu</SourceName>
+		<TargetName ID="1">सरयू</TargetName>
+	</Name>
+	<Name ID="825">
+		<SourceName>sareen</SourceName>
+		<TargetName ID="1">सरीन</TargetName>
+	</Name>
+	<Name ID="826">
+		<SourceName>sariska</SourceName>
+		<TargetName ID="1">सरिस्का</TargetName>
+	</Name>
+	<Name ID="827">
+		<SourceName>saskatchewan</SourceName>
+		<TargetName ID="1">सैस्कैचवान</TargetName>
+	</Name>
+	<Name ID="828">
+		<SourceName>sati anjani</SourceName>
+		<TargetName ID="1">सती अंजनी</TargetName>
+	</Name>
+	<Name ID="829">
+		<SourceName>sati nagkanaya</SourceName>
+		<TargetName ID="1">सती नागकन्या</TargetName>
+	</Name>
+	<Name ID="830">
+		<SourceName>satnam overseas</SourceName>
+		<TargetName ID="1">सतनाम ओवरसीस</TargetName>
+	</Name>
+	<Name ID="831">
+		<SourceName>satyaki</SourceName>
+		<TargetName ID="1">सत्याकि</TargetName>
+	</Name>
+	<Name ID="832">
+		<SourceName>sau saal baad</SourceName>
+		<TargetName ID="1">सौ साल बाद</TargetName>
+	</Name>
+	<Name ID="833">
+		<SourceName>saunders</SourceName>
+		<TargetName ID="1">सॉन्डर्स</TargetName>
+	</Name>
+	<Name ID="834">
+		<SourceName>scotia sea</SourceName>
+		<TargetName ID="1">स्कॉटिया सी</TargetName>
+	</Name>
+	<Name ID="835">
+		<SourceName>seemaant</SourceName>
+		<TargetName ID="1">सीमांत</TargetName>
+	</Name>
+	<Name ID="836">
+		<SourceName>sekere</SourceName>
+		<TargetName ID="1">सेकरे</TargetName>
+	</Name>
+	<Name ID="837">
+		<SourceName>seliya</SourceName>
+		<TargetName ID="1">सेलिया</TargetName>
+	</Name>
+	<Name ID="838">
+		<SourceName>senegal</SourceName>
+		<TargetName ID="1">सेनेगल</TargetName>
+	</Name>
+	<Name ID="839">
+		<SourceName>seringapatam</SourceName>
+		<TargetName ID="1">सेरिंगापटम</TargetName>
+	</Name>
+	<Name ID="840">
+		<SourceName>sevaaraam</SourceName>
+		<TargetName ID="1">सेवाराम</TargetName>
+	</Name>
+	<Name ID="841">
+		<SourceName>shaitan</SourceName>
+		<TargetName ID="1">शैतान</TargetName>
+	</Name>
+	<Name ID="842">
+		<SourceName>shake hands</SourceName>
+		<TargetName ID="1">शेक हैंड्‍स</TargetName>
+	</Name>
+	<Name ID="843">
+		<SourceName>shampa</SourceName>
+		<TargetName ID="1">शम्पा</TargetName>
+	</Name>
+	<Name ID="844">
+		<SourceName>shamsheer e arab</SourceName>
+		<TargetName ID="1">शमशीर ए अरब</TargetName>
+	</Name>
+	<Name ID="845">
+		<SourceName>shan</SourceName>
+		<TargetName ID="1">शान</TargetName>
+	</Name>
+	<Name ID="846">
+		<SourceName>shanghai museum</SourceName>
+		<TargetName ID="1">शंघाई म्युज़ियम</TargetName>
+	</Name>
+	<Name ID="847">
+		<SourceName>shanpaak</SourceName>
+		<TargetName ID="1">शंपाक</TargetName>
+	</Name>
+	<Name ID="848">
+		<SourceName>sharadini</SourceName>
+		<TargetName ID="1">शारदिनी</TargetName>
+	</Name>
+	<Name ID="849">
+		<SourceName>sharon stone</SourceName>
+		<TargetName ID="1">शेरॉन स्टोन</TargetName>
+	</Name>
+	<Name ID="850">
+		<SourceName>shatrughn</SourceName>
+		<TargetName ID="1">शत्रुघ्न</TargetName>
+	</Name>
+	<Name ID="851">
+		<SourceName>shery</SourceName>
+		<TargetName ID="1">शेरी</TargetName>
+	</Name>
+	<Name ID="852">
+		<SourceName>shimane maru</SourceName>
+		<TargetName ID="1">शिमेन मारू</TargetName>
+	</Name>
+	<Name ID="853">
+		<SourceName>shoaib akhtar</SourceName>
+		<TargetName ID="1">शोएब खान</TargetName>
+	</Name>
+	<Name ID="854">
+		<SourceName>shoeb</SourceName>
+		<TargetName ID="1">शोएब</TargetName>
+	</Name>
+	<Name ID="855">
+		<SourceName>shotput</SourceName>
+		<TargetName ID="1">शॉटपुट</TargetName>
+	</Name>
+	<Name ID="856">
+		<SourceName>shreshth</SourceName>
+		<TargetName ID="1">श्रेष्ठ</TargetName>
+	</Name>
+	<Name ID="857">
+		<SourceName>shridevi</SourceName>
+		<TargetName ID="1">श्रीदेवी</TargetName>
+	</Name>
+	<Name ID="858">
+		<SourceName>shridhar</SourceName>
+		<TargetName ID="1">श्रीधर</TargetName>
+	</Name>
+	<Name ID="859">
+		<SourceName>shripad</SourceName>
+		<TargetName ID="1">श्रीपद</TargetName>
+	</Name>
+	<Name ID="860">
+		<SourceName>shu'a</SourceName>
+		<TargetName ID="1">शुआ</TargetName>
+	</Name>
+	<Name ID="861">
+		<SourceName>shubhang</SourceName>
+		<TargetName ID="1">शुभांग</TargetName>
+	</Name>
+	<Name ID="862">
+		<SourceName>shungare</SourceName>
+		<TargetName ID="1">शुंगारे</TargetName>
+	</Name>
+	<Name ID="863">
+		<SourceName>shurayh</SourceName>
+		<TargetName ID="1">शुरायह</TargetName>
+	</Name>
+	<Name ID="864">
+		<SourceName>shyaamaa</SourceName>
+		<TargetName ID="1">श्यामा</TargetName>
+	</Name>
+	<Name ID="865">
+		<SourceName>sihlsee</SourceName>
+		<TargetName ID="1">सिहल्सी</TargetName>
+	</Name>
+	<Name ID="866">
+		<SourceName>silvain</SourceName>
+		<TargetName ID="1">सिल्वैन</TargetName>
+	</Name>
+	<Name ID="867">
+		<SourceName>silver standard resources</SourceName>
+		<TargetName ID="1">सिल्वर स्टैंडर्ड रिसोर्सेज़</TargetName>
+	</Name>
+	<Name ID="868">
+		<SourceName>simon katich</SourceName>
+		<TargetName ID="1">साइमन कैटिच</TargetName>
+	</Name>
+	<Name ID="869">
+		<SourceName>sipahiya</SourceName>
+		<TargetName ID="1">सिपहिया</TargetName>
+	</Name>
+	<Name ID="870">
+		<SourceName>siraalee</SourceName>
+		<TargetName ID="1">सिराली</TargetName>
+	</Name>
+	<Name ID="871">
+		<SourceName>siran</SourceName>
+		<TargetName ID="1">सिरन</TargetName>
+	</Name>
+	<Name ID="872">
+		<SourceName>siusan</SourceName>
+		<TargetName ID="1">सिउसन</TargetName>
+	</Name>
+	<Name ID="873">
+		<SourceName>skipper</SourceName>
+		<TargetName ID="1">स्किपर</TargetName>
+	</Name>
+	<Name ID="874">
+		<SourceName>slowman</SourceName>
+		<TargetName ID="1">स्लोमेन</TargetName>
+	</Name>
+	<Name ID="875">
+		<SourceName>sneha</SourceName>
+		<TargetName ID="1">स्नेहा</TargetName>
+	</Name>
+	<Name ID="876">
+		<SourceName>snigdhaa</SourceName>
+		<TargetName ID="1">स्निग्धा</TargetName>
+	</Name>
+	<Name ID="877">
+		<SourceName>sohani</SourceName>
+		<TargetName ID="1">सोहनी</TargetName>
+	</Name>
+	<Name ID="878">
+		<SourceName>sohni</SourceName>
+		<TargetName ID="1">सोहनी</TargetName>
+	</Name>
+	<Name ID="879">
+		<SourceName>solferino</SourceName>
+		<TargetName ID="1">सोल्फेरिनो</TargetName>
+	</Name>
+	<Name ID="880">
+		<SourceName>som</SourceName>
+		<TargetName ID="1">सोम</TargetName>
+	</Name>
+	<Name ID="881">
+		<SourceName>somakaantaa</SourceName>
+		<TargetName ID="1">सोमकांता</TargetName>
+	</Name>
+	<Name ID="882">
+		<SourceName>southern iron</SourceName>
+		<TargetName ID="1">साउदर्न आयरन</TargetName>
+	</Name>
+	<Name ID="883">
+		<SourceName>sowani</SourceName>
+		<TargetName ID="1">सोवानी</TargetName>
+	</Name>
+	<Name ID="884">
+		<SourceName>sparsh</SourceName>
+		<TargetName ID="1">स्पर्श</TargetName>
+	</Name>
+	<Name ID="885">
+		<SourceName>spathareion museum of the shadow theatre</SourceName>
+		<TargetName ID="1">स्पाथेर‍ियन म्युज़ियम ऑफ द शैडो थ‍िएटर</TargetName>
+	</Name>
+	<Name ID="886">
+		<SourceName>stats chippac</SourceName>
+		<TargetName ID="1">स्टेट्सचिपपैक</TargetName>
+	</Name>
+	<Name ID="887">
+		<SourceName>steve martin</SourceName>
+		<TargetName ID="1">स्टीव मार्टिन</TargetName>
+	</Name>
+	<Name ID="888">
+		<SourceName>stevens</SourceName>
+		<TargetName ID="1">स्टीवन्स</TargetName>
+	</Name>
+	<Name ID="889">
+		<SourceName>stolt-nielsen</SourceName>
+		<TargetName ID="1">स्टॉल्ट निलसन</TargetName>
+	</Name>
+	<Name ID="890">
+		<SourceName>stride arcolab</SourceName>
+		<TargetName ID="1">स्ट्राइड आर्कोलैब</TargetName>
+	</Name>
+	<Name ID="891">
+		<SourceName>subhaashachandr</SourceName>
+		<TargetName ID="1">सुभाषचंद्र</TargetName>
+	</Name>
+	<Name ID="892">
+		<SourceName>suchi</SourceName>
+		<TargetName ID="1">सुचि</TargetName>
+	</Name>
+	<Name ID="893">
+		<SourceName>sudarshan</SourceName>
+		<TargetName ID="1">सुदर्शन</TargetName>
+	</Name>
+	<Name ID="894">
+		<SourceName>suhrewardi</SourceName>
+		<TargetName ID="1">सुहरेवर्दी</TargetName>
+	</Name>
+	<Name ID="895">
+		<SourceName>sujaya</SourceName>
+		<TargetName ID="1">सुजया</TargetName>
+	</Name>
+	<Name ID="896">
+		<SourceName>sukhija</SourceName>
+		<TargetName ID="1">सुखीजा</TargetName>
+	</Name>
+	<Name ID="897">
+		<SourceName>sulaiman</SourceName>
+		<TargetName ID="1">सुलेमान</TargetName>
+		<TargetName ID="2">सुलैमान</TargetName>
+	</Name>
+	<Name ID="898">
+		<SourceName>sultanah</SourceName>
+		<TargetName ID="1">सुल्तानाह</TargetName>
+	</Name>
+	<Name ID="899">
+		<SourceName>summerside united methodist</SourceName>
+		<TargetName ID="1">समरसाइड यूनाइटेड मेथोडिस्ट</TargetName>
+	</Name>
+	<Name ID="900">
+		<SourceName>sun microsystems</SourceName>
+		<TargetName ID="1">सन माइक्रोसिस्टम</TargetName>
+	</Name>
+	<Name ID="901">
+		<SourceName>sunopta</SourceName>
+		<TargetName ID="1">सनऑप्टा</TargetName>
+	</Name>
+	<Name ID="902">
+		<SourceName>surgery</SourceName>
+		<TargetName ID="1">सर्जरी</TargetName>
+	</Name>
+	<Name ID="903">
+		<SourceName>susan sarandon</SourceName>
+		<TargetName ID="1">सुज़ेन सेरेन्डॉन</TargetName>
+	</Name>
+	<Name ID="904">
+		<SourceName>suwo</SourceName>
+		<TargetName ID="1">सूवो</TargetName>
+	</Name>
+	<Name ID="905">
+		<SourceName>swan</SourceName>
+		<TargetName ID="1">स्वान</TargetName>
+		<TargetName ID="2">स्वैन</TargetName>
+	</Name>
+	<Name ID="906">
+		<SourceName>syed akhtar imam quadri</SourceName>
+		<TargetName ID="1">सय्यद अख्तर इमाम क़ादरी</TargetName>
+	</Name>
+	<Name ID="907">
+		<SourceName>syndicate bank</SourceName>
+		<TargetName ID="1">सिंडीकेट बैंक</TargetName>
+	</Name>
+	<Name ID="908">
+		<SourceName>talakkad</SourceName>
+		<TargetName ID="1">तलक्कड</TargetName>
+	</Name>
+	<Name ID="909">
+		<SourceName>talika</SourceName>
+		<TargetName ID="1">तालिका</TargetName>
+	</Name>
+	<Name ID="910">
+		<SourceName>tanuj</SourceName>
+		<TargetName ID="1">तनुज</TargetName>
+	</Name>
+	<Name ID="911">
+		<SourceName>tanwir</SourceName>
+		<TargetName ID="1">तनवीर</TargetName>
+	</Name>
+	<Name ID="912">
+		<SourceName>target</SourceName>
+		<TargetName ID="1">टारगेट</TargetName>
+	</Name>
+	<Name ID="913">
+		<SourceName>tariqah</SourceName>
+		<TargetName ID="1">तारि़काह</TargetName>
+	</Name>
+	<Name ID="914">
+		<SourceName>tarulata</SourceName>
+		<TargetName ID="1">तरुलता</TargetName>
+	</Name>
+	<Name ID="915">
+		<SourceName>taryn</SourceName>
+		<TargetName ID="1">टैरिन</TargetName>
+	</Name>
+	<Name ID="916">
+		<SourceName>tata tea</SourceName>
+		<TargetName ID="1">टाटा टी</TargetName>
+	</Name>
+	<Name ID="917">
+		<SourceName>tazwell</SourceName>
+		<TargetName ID="1">टैज़वेल</TargetName>
+	</Name>
+	<Name ID="918">
+		<SourceName>tejaa</SourceName>
+		<TargetName ID="1">तेजा</TargetName>
+	</Name>
+	<Name ID="919">
+		<SourceName>tejaswini</SourceName>
+		<TargetName ID="1">तेजस्विनी</TargetName>
+	</Name>
+	<Name ID="920">
+		<SourceName>tel aviv</SourceName>
+		<TargetName ID="1">तेल अविव</TargetName>
+	</Name>
+	<Name ID="921">
+		<SourceName>tera karam mera dharam</SourceName>
+		<TargetName ID="1">तेरा करम मेरा धरम</TargetName>
+	</Name>
+	<Name ID="922">
+		<SourceName>thames valley university</SourceName>
+		<TargetName ID="1">थेम्स वैली यूनिवर्सिटी</TargetName>
+	</Name>
+	<Name ID="923">
+		<SourceName>thar</SourceName>
+		<TargetName ID="1">थार</TargetName>
+	</Name>
+	<Name ID="924">
+		<SourceName>the times of india</SourceName>
+		<TargetName ID="1">द टाइम्स ऑफ इंडिया</TargetName>
+	</Name>
+	<Name ID="925">
+		<SourceName>thuringen</SourceName>
+		<TargetName ID="1">थरिंगन</TargetName>
+	</Name>
+	<Name ID="926">
+		<SourceName>thyra</SourceName>
+		<TargetName ID="1">थायरा</TargetName>
+	</Name>
+	<Name ID="927">
+		<SourceName>tilak</SourceName>
+		<TargetName ID="1">तिलक</TargetName>
+	</Name>
+	<Name ID="928">
+		<SourceName>timin</SourceName>
+		<TargetName ID="1">तिमिन</TargetName>
+	</Name>
+	<Name ID="929">
+		<SourceName>tirap</SourceName>
+		<TargetName ID="1">तिरप</TargetName>
+	</Name>
+	<Name ID="930">
+		<SourceName>toiyabe</SourceName>
+		<TargetName ID="1">तोईयाबे</TargetName>
+	</Name>
+	<Name ID="931">
+		<SourceName>tony</SourceName>
+		<TargetName ID="1">टोनी</TargetName>
+	</Name>
+	<Name ID="932">
+		<SourceName>toofan</SourceName>
+		<TargetName ID="1">तूफान</TargetName>
+	</Name>
+	<Name ID="933">
+		<SourceName>torie</SourceName>
+		<TargetName ID="1">टोरी</TargetName>
+	</Name>
+	<Name ID="934">
+		<SourceName>tress</SourceName>
+		<TargetName ID="1">ट्रेसी</TargetName>
+	</Name>
+	<Name ID="935">
+		<SourceName>trevelian</SourceName>
+		<TargetName ID="1">ट्रेवेलियन</TargetName>
+	</Name>
+	<Name ID="936">
+		<SourceName>trinity biotech</SourceName>
+		<TargetName ID="1">ट्रिनिटी बायोटेक</TargetName>
+	</Name>
+	<Name ID="937">
+		<SourceName>truda</SourceName>
+		<TargetName ID="1">ट्रूडा</TargetName>
+	</Name>
+	<Name ID="938">
+		<SourceName>truly</SourceName>
+		<TargetName ID="1">ट्रूली</TargetName>
+	</Name>
+	<Name ID="939">
+		<SourceName>trump world tower</SourceName>
+		<TargetName ID="1">ट्रम्प वर्ल्ड टॉवर</TargetName>
+	</Name>
+	<Name ID="940">
+		<SourceName>tube investment</SourceName>
+		<TargetName ID="1">ट्यूब इन्वेस्टमेंट</TargetName>
+	</Name>
+	<Name ID="941">
+		<SourceName>tungabhadra</SourceName>
+		<TargetName ID="1">तुंगभद्रा</TargetName>
+	</Name>
+	<Name ID="942">
+		<SourceName>two prudential plaza</SourceName>
+		<TargetName ID="1">टू प्रुडेन्शियल प्लाज़ा</TargetName>
+	</Name>
+	<Name ID="943">
+		<SourceName>ubeja</SourceName>
+		<TargetName ID="1">उबेजा</TargetName>
+	</Name>
+	<Name ID="944">
+		<SourceName>umapati</SourceName>
+		<TargetName ID="1">उमापति</TargetName>
+	</Name>
+	<Name ID="945">
+		<SourceName>ummayyah</SourceName>
+		<TargetName ID="1">उम्मय्याह</TargetName>
+	</Name>
+	<Name ID="946">
+		<SourceName>university of alaska</SourceName>
+		<TargetName ID="1">यूनिवर्सिटी ऑफ अलास्का</TargetName>
+	</Name>
+	<Name ID="947">
+		<SourceName>university of dundee</SourceName>
+		<TargetName ID="1">यूनिवर्सिटी ऑफ डंडी</TargetName>
+	</Name>
+	<Name ID="948">
+		<SourceName>university of hull</SourceName>
+		<TargetName ID="1">यूनिवर्सिटी ऑफ हल</TargetName>
+	</Name>
+	<Name ID="949">
+		<SourceName>university of keele</SourceName>
+		<TargetName ID="1">यूनिवर्सिटी ऑफ कीले</TargetName>
+	</Name>
+	<Name ID="950">
+		<SourceName>university of sunderland</SourceName>
+		<TargetName ID="1">यूनिवर्सिटी ऑफ सुंदरलैंड</TargetName>
+	</Name>
+	<Name ID="951">
+		<SourceName>urania</SourceName>
+		<TargetName ID="1">यूरेनिया</TargetName>
+	</Name>
+	<Name ID="952">
+		<SourceName>ursala</SourceName>
+		<TargetName ID="1">उर्सला</TargetName>
+	</Name>
+	<Name ID="953">
+		<SourceName>uttar kannada</SourceName>
+		<TargetName ID="1">उत्तर कन्नड़</TargetName>
+	</Name>
+	<Name ID="954">
+		<SourceName>vajra</SourceName>
+		<TargetName ID="1">वज्र</TargetName>
+	</Name>
+	<Name ID="955">
+		<SourceName>valentino</SourceName>
+		<TargetName ID="1">वैलेंटिनो</TargetName>
+	</Name>
+	<Name ID="956">
+		<SourceName>valli</SourceName>
+		<TargetName ID="1">वल्ली</TargetName>
+	</Name>
+	<Name ID="957">
+		<SourceName>van</SourceName>
+		<TargetName ID="1">वन</TargetName>
+	</Name>
+	<Name ID="958">
+		<SourceName>vanoise</SourceName>
+		<TargetName ID="1">वैनॉइस</TargetName>
+	</Name>
+	<Name ID="959">
+		<SourceName>vardha</SourceName>
+		<TargetName ID="1">वर्धा</TargetName>
+	</Name>
+	<Name ID="960">
+		<SourceName>velaa</SourceName>
+		<TargetName ID="1">वेला</TargetName>
+	</Name>
+	<Name ID="961">
+		<SourceName>venkatesh</SourceName>
+		<TargetName ID="1">वेंकटेश</TargetName>
+	</Name>
+	<Name ID="962">
+		<SourceName>venkateshvar</SourceName>
+		<TargetName ID="1">वेंकटेश्वर</TargetName>
+	</Name>
+	<Name ID="963">
+		<SourceName>veolia environnement</SourceName>
+		<TargetName ID="1">वेओलिया एनवायरमेंट</TargetName>
+	</Name>
+	<Name ID="964">
+		<SourceName>vidya vardhaka sangha high school, bangalore</SourceName>
+		<TargetName ID="1">विद्या वर्धक संघ हाई स्कूल, बैंगलोर</TargetName>
+	</Name>
+	<Name ID="965">
+		<SourceName>vidyut</SourceName>
+		<TargetName ID="1">विद्युत</TargetName>
+	</Name>
+	<Name ID="966">
+		<SourceName>vijaynagar</SourceName>
+		<TargetName ID="1">विजयनगर</TargetName>
+	</Name>
+	<Name ID="967">
+		<SourceName>vimohinee</SourceName>
+		<TargetName ID="1">विमोहिनी</TargetName>
+	</Name>
+	<Name ID="968">
+		<SourceName>viplaav</SourceName>
+		<TargetName ID="1">विप्लाव</TargetName>
+	</Name>
+	<Name ID="969">
+		<SourceName>viresh</SourceName>
+		<TargetName ID="1">विरेश</TargetName>
+	</Name>
+	<Name ID="970">
+		<SourceName>vishalgad</SourceName>
+		<TargetName ID="1">विशालगढ़</TargetName>
+	</Name>
+	<Name ID="971">
+		<SourceName>vishram</SourceName>
+		<TargetName ID="1">विश्राम</TargetName>
+	</Name>
+	<Name ID="972">
+		<SourceName>visisht seva medal</SourceName>
+		<TargetName ID="1">विशिष्ट सेवा मेडल</TargetName>
+	</Name>
+	<Name ID="973">
+		<SourceName>vittorio emanuele</SourceName>
+		<TargetName ID="1">विक्टोरियो इमानुएल</TargetName>
+	</Name>
+	<Name ID="974">
+		<SourceName>vrandaavaneshvaree</SourceName>
+		<TargetName ID="1">वृंदावनेश्वरी</TargetName>
+	</Name>
+	<Name ID="975">
+		<SourceName>vytis</SourceName>
+		<TargetName ID="1">वायटिस</TargetName>
+	</Name>
+	<Name ID="976">
+		<SourceName>wachhar</SourceName>
+		<TargetName ID="1">वच्चर</TargetName>
+	</Name>
+	<Name ID="977">
+		<SourceName>waite</SourceName>
+		<TargetName ID="1">वैट</TargetName>
+	</Name>
+	<Name ID="978">
+		<SourceName>walker museum</SourceName>
+		<TargetName ID="1">वॉकर म्युज़ियम</TargetName>
+	</Name>
+	<Name ID="979">
+		<SourceName>walkley award</SourceName>
+		<TargetName ID="1">वॉक्ले अवार्ड</TargetName>
+	</Name>
+	<Name ID="980">
+		<SourceName>walt disney</SourceName>
+		<TargetName ID="1">वॉल्ट डिज़्नी</TargetName>
+	</Name>
+	<Name ID="981">
+		<SourceName>warner</SourceName>
+		<TargetName ID="1">वार्नर</TargetName>
+	</Name>
+	<Name ID="982">
+		<SourceName>washington</SourceName>
+		<TargetName ID="1">वॉशिंगटन</TargetName>
+		<TargetName ID="2">वॉशिंग्टन</TargetName>
+	</Name>
+	<Name ID="983">
+		<SourceName>watan ke rakhwale</SourceName>
+		<TargetName ID="1">वतन के रखवाले</TargetName>
+	</Name>
+	<Name ID="984">
+		<SourceName>wazeera</SourceName>
+		<TargetName ID="1">वज़ीरा</TargetName>
+	</Name>
+	<Name ID="985">
+		<SourceName>weddell</SourceName>
+		<TargetName ID="1">वेडेल</TargetName>
+	</Name>
+	<Name ID="986">
+		<SourceName>willa</SourceName>
+		<TargetName ID="1">विलार्ड</TargetName>
+	</Name>
+	<Name ID="987">
+		<SourceName>wockhardt</SourceName>
+		<TargetName ID="1">वॉकहार्ड</TargetName>
+	</Name>
+	<Name ID="988">
+		<SourceName>woodward</SourceName>
+		<TargetName ID="1">वुडवर्ड</TargetName>
+	</Name>
+	<Name ID="989">
+		<SourceName>yaqeen</SourceName>
+		<TargetName ID="1">य़कीन</TargetName>
+	</Name>
+	<Name ID="990">
+		<SourceName>yaqub</SourceName>
+		<TargetName ID="1">य़ाकुब</TargetName>
+	</Name>
+	<Name ID="991">
+		<SourceName>yar</SourceName>
+		<TargetName ID="1">यार</TargetName>
+	</Name>
+	<Name ID="992">
+		<SourceName>yasir arafat</SourceName>
+		<TargetName ID="1">यासिर अराफत</TargetName>
+	</Name>
+	<Name ID="993">
+		<SourceName>yehiam fort</SourceName>
+		<TargetName ID="1">येहैम फोर्ट</TargetName>
+	</Name>
+	<Name ID="994">
+		<SourceName>yograj</SourceName>
+		<TargetName ID="1">योगराज</TargetName>
+	</Name>
+	<Name ID="995">
+		<SourceName>yukon</SourceName>
+		<TargetName ID="1">यूकॉन</TargetName>
+	</Name>
+	<Name ID="996">
+		<SourceName>yuvraj singh</SourceName>
+		<TargetName ID="1">युवराज सिंह</TargetName>
+	</Name>
+	<Name ID="997">
+		<SourceName>zahoor elahi</SourceName>
+		<TargetName ID="1">ज़हूर इलाही</TargetName>
+	</Name>
+	<Name ID="998">
+		<SourceName>zaleel</SourceName>
+		<TargetName ID="1">ज़लील</TargetName>
+	</Name>
+	<Name ID="999">
+		<SourceName>zayb</SourceName>
+		<TargetName ID="1">ज़ैब</TargetName>
+	</Name>
+	<Name ID="1000">
+		<SourceName>zorion</SourceName>
+		<TargetName ID="1">ज़ोरियन</TargetName>
+	</Name>
+</TransliterationCorpus>

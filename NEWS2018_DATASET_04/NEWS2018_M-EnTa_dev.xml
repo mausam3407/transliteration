@@ -1,0 +1,4023 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TransliterationCorpus CorpusFormat="UTF-8" CorpusID="M-EnTa" CorpusSize="1000" CorpusType="Development" NameSource="Mixed" SourceLang="English" TargetLang="Tamil">
+	<Name ID="1">
+		<SourceName>aachaaryasutaa</SourceName>
+		<TargetName ID="1">ஆசார்யாசுதா</TargetName>
+	</Name>
+	<Name ID="2">
+		<SourceName>aachaarysuta</SourceName>
+		<TargetName ID="1">ஆசார்யாசுதா</TargetName>
+	</Name>
+	<Name ID="3">
+		<SourceName>aadat se majboor</SourceName>
+		<TargetName ID="1">ஆதாத் சே மஜ்பூர்</TargetName>
+	</Name>
+	<Name ID="4">
+		<SourceName>aadityvardhan</SourceName>
+		<TargetName ID="1">ஆதித்வர்தன்</TargetName>
+	</Name>
+	<Name ID="5">
+		<SourceName>aag ka gola</SourceName>
+		<TargetName ID="1">ஆக் கா கோலா</TargetName>
+	</Name>
+	<Name ID="6">
+		<SourceName>aaj ka daur</SourceName>
+		<TargetName ID="1">ஆஜ் கா தவுர்</TargetName>
+	</Name>
+	<Name ID="7">
+		<SourceName>aaj ka gundaraj</SourceName>
+		<TargetName ID="1">ஆஜ் கா குண்டாராஜ்</TargetName>
+	</Name>
+	<Name ID="8">
+		<SourceName>aakaankshaa</SourceName>
+		<TargetName ID="1">ஆகான்க்ஷா</TargetName>
+	</Name>
+	<Name ID="9">
+		<SourceName>aanandee</SourceName>
+		<TargetName ID="1">ஆனந்தினீ</TargetName>
+	</Name>
+	<Name ID="10">
+		<SourceName>aao pyar karen</SourceName>
+		<TargetName ID="1">ஆவோ பியார் கரேன்</TargetName>
+	</Name>
+	<Name ID="11">
+		<SourceName>aaqil</SourceName>
+		<TargetName ID="1">ஆகுல்</TargetName>
+	</Name>
+	<Name ID="12">
+		<SourceName>aayega aanewala</SourceName>
+		<TargetName ID="1">ஆயேகே ஆனீவாலா</TargetName>
+	</Name>
+	<Name ID="13">
+		<SourceName>aayi yaad teri</SourceName>
+		<TargetName ID="1">ஆயி யாத் தேரி</TargetName>
+	</Name>
+	<Name ID="14">
+		<SourceName>abdul baaqi</SourceName>
+		<TargetName ID="1">அப்துல் பாகி</TargetName>
+	</Name>
+	<Name ID="15">
+		<SourceName>abdul hafeed</SourceName>
+		<TargetName ID="1">அப்துல் ஹாஃபீத்</TargetName>
+	</Name>
+	<Name ID="16">
+		<SourceName>abdul jabbaar</SourceName>
+		<TargetName ID="1">அப்துல் ஜப்பார்</TargetName>
+	</Name>
+	<Name ID="17">
+		<SourceName>abdul malik</SourceName>
+		<TargetName ID="1">அப்துல் மாலிக்</TargetName>
+	</Name>
+	<Name ID="18">
+		<SourceName>abdul mannan</SourceName>
+		<TargetName ID="1">அப்துல் மன்னன்</TargetName>
+	</Name>
+	<Name ID="19">
+		<SourceName>abdul muhaaymeen</SourceName>
+		<TargetName ID="1">அப்துல் முஹாய்மின்</TargetName>
+	</Name>
+	<Name ID="20">
+		<SourceName>abdul wahhab</SourceName>
+		<TargetName ID="1">அப்துல் வாஹ்ஹப்</TargetName>
+	</Name>
+	<Name ID="21">
+		<SourceName>abdur raheem</SourceName>
+		<TargetName ID="1">அப்துர் ரஹீம்</TargetName>
+	</Name>
+	<Name ID="22">
+		<SourceName>abdus shafee</SourceName>
+		<TargetName ID="1">அப்துஸ் ஷாஃபீ</TargetName>
+	</Name>
+	<Name ID="23">
+		<SourceName>abey kuruvilla</SourceName>
+		<TargetName ID="1">அபே குருவில்லா</TargetName>
+	</Name>
+	<Name ID="24">
+		<SourceName>abhijaatya</SourceName>
+		<TargetName ID="1">அபிஜாத்யா</TargetName>
+	</Name>
+	<Name ID="25">
+		<SourceName>abhijvala</SourceName>
+		<TargetName ID="1">அபிஜ்வலா</TargetName>
+	</Name>
+	<Name ID="26">
+		<SourceName>abhijwalaa</SourceName>
+		<TargetName ID="1">அபிஜ்வலா</TargetName>
+	</Name>
+	<Name ID="27">
+		<SourceName>abhisyanta</SourceName>
+		<TargetName ID="1">அபிஸ்யன்தா</TargetName>
+	</Name>
+	<Name ID="28">
+		<SourceName>abrar</SourceName>
+		<TargetName ID="1">அப்ரர்</TargetName>
+	</Name>
+	<Name ID="29">
+		<SourceName>absi</SourceName>
+		<TargetName ID="1">அப்ஸி</TargetName>
+	</Name>
+	<Name ID="30">
+		<SourceName>achal</SourceName>
+		<TargetName ID="1">அச்சல்</TargetName>
+	</Name>
+	<Name ID="31">
+		<SourceName>achyut</SourceName>
+		<TargetName ID="1">அச்சியுத்</TargetName>
+	</Name>
+	<Name ID="32">
+		<SourceName>ackland art museum</SourceName>
+		<TargetName ID="1">ஆக்லாண்ட் ஆர்ட் மியூஸியம்</TargetName>
+	</Name>
+	<Name ID="33">
+		<SourceName>adhrit</SourceName>
+		<TargetName ID="1">அத்ரித்</TargetName>
+	</Name>
+	<Name ID="34">
+		<SourceName>adib</SourceName>
+		<TargetName ID="1">அதிப்</TargetName>
+	</Name>
+	<Name ID="35">
+		<SourceName>advaki</SourceName>
+		<TargetName ID="1">அத்வாகி</TargetName>
+	</Name>
+	<Name ID="36">
+		<SourceName>afra</SourceName>
+		<TargetName ID="1">அஃப்ரா</TargetName>
+	</Name>
+	<Name ID="37">
+		<SourceName>aggie</SourceName>
+		<TargetName ID="1">அக்கி</TargetName>
+	</Name>
+	<Name ID="38">
+		<SourceName>agnihotri</SourceName>
+		<TargetName ID="1">அக்னிஹோத்ரி</TargetName>
+	</Name>
+	<Name ID="39">
+		<SourceName>agnikaal</SourceName>
+		<TargetName ID="1">அக்னிகால்</TargetName>
+	</Name>
+	<Name ID="40">
+		<SourceName>agra city</SourceName>
+		<TargetName ID="1">ஆக்ரா சிட்டி</TargetName>
+	</Name>
+	<Name ID="41">
+		<SourceName>ahad</SourceName>
+		<TargetName ID="1">அஹாத்</TargetName>
+	</Name>
+	<Name ID="42">
+		<SourceName>ahmar</SourceName>
+		<TargetName ID="1">அஹ்மர்</TargetName>
+		<TargetName ID="2">அஹ்மார்</TargetName>
+	</Name>
+	<Name ID="43">
+		<SourceName>aidh</SourceName>
+		<TargetName ID="1">ஐத்</TargetName>
+	</Name>
+	<Name ID="44">
+		<SourceName>aimee</SourceName>
+		<TargetName ID="1">ஐமீ</TargetName>
+	</Name>
+	<Name ID="45">
+		<SourceName>airell</SourceName>
+		<TargetName ID="1">ஐரெல்</TargetName>
+	</Name>
+	<Name ID="46">
+		<SourceName>airlia</SourceName>
+		<TargetName ID="1">ஐர்லியா</TargetName>
+	</Name>
+	<Name ID="47">
+		<SourceName>aitana</SourceName>
+		<TargetName ID="1">ஐடானா</TargetName>
+	</Name>
+	<Name ID="48">
+		<SourceName>ajawaad</SourceName>
+		<TargetName ID="1">அஜவாத்</TargetName>
+	</Name>
+	<Name ID="49">
+		<SourceName>ajir asom</SourceName>
+		<TargetName ID="1">அஜிர் அஸோம்</TargetName>
+	</Name>
+	<Name ID="50">
+		<SourceName>ajish</SourceName>
+		<TargetName ID="1">அஜிஷ்</TargetName>
+	</Name>
+	<Name ID="51">
+		<SourceName>akalmand</SourceName>
+		<TargetName ID="1">அகல்மந்த்</TargetName>
+	</Name>
+	<Name ID="52">
+		<SourceName>akeel</SourceName>
+		<TargetName ID="1">அகீல்</TargetName>
+	</Name>
+	<Name ID="53">
+		<SourceName>akitsu maru</SourceName>
+		<TargetName ID="1">அகிட்ஸு மாரு</TargetName>
+	</Name>
+	<Name ID="54">
+		<SourceName>akutagawa prize</SourceName>
+		<TargetName ID="1">அகூடகாவா ப்ரைஸ்</TargetName>
+	</Name>
+	<Name ID="55">
+		<SourceName>alamnagar</SourceName>
+		<TargetName ID="1">அலம்நகர்</TargetName>
+	</Name>
+	<Name ID="56">
+		<SourceName>alban</SourceName>
+		<TargetName ID="1">அல்பன்</TargetName>
+	</Name>
+	<Name ID="57">
+		<SourceName>alcan</SourceName>
+		<TargetName ID="1">அல்கன்</TargetName>
+	</Name>
+	<Name ID="58">
+		<SourceName>aldona</SourceName>
+		<TargetName ID="1">அல்டோனா</TargetName>
+	</Name>
+	<Name ID="59">
+		<SourceName>alexia</SourceName>
+		<TargetName ID="1">அலெக்ஸியா</TargetName>
+	</Name>
+	<Name ID="60">
+		<SourceName>alger hiss</SourceName>
+		<TargetName ID="1">ஆல்கர் ஹிஸ்</TargetName>
+	</Name>
+	<Name ID="61">
+		<SourceName>alhad</SourceName>
+		<TargetName ID="1">அல்ஹாத்</TargetName>
+	</Name>
+	<Name ID="62">
+		<SourceName>allahabad city</SourceName>
+		<TargetName ID="1">அலஹாபாத் சிட்டி</TargetName>
+	</Name>
+	<Name ID="63">
+		<SourceName>alpanaa</SourceName>
+		<TargetName ID="1">அல்பானா</TargetName>
+	</Name>
+	<Name ID="64">
+		<SourceName>alpesh vadher</SourceName>
+		<TargetName ID="1">அல்பேஷ் வாதெர்</TargetName>
+	</Name>
+	<Name ID="65">
+		<SourceName>amaanda</SourceName>
+		<TargetName ID="1">அமான்டா</TargetName>
+	</Name>
+	<Name ID="66">
+		<SourceName>amaatullah</SourceName>
+		<TargetName ID="1">அமாடுல்லா</TargetName>
+	</Name>
+	<Name ID="67">
+		<SourceName>amadis</SourceName>
+		<TargetName ID="1">அமாதிஸ்</TargetName>
+	</Name>
+	<Name ID="68">
+		<SourceName>amani</SourceName>
+		<TargetName ID="1">அமானி</TargetName>
+	</Name>
+	<Name ID="69">
+		<SourceName>amanjeet</SourceName>
+		<TargetName ID="1">அமன்ஜீத்</TargetName>
+	</Name>
+	<Name ID="70">
+		<SourceName>amara</SourceName>
+		<TargetName ID="1">அமரா</TargetName>
+	</Name>
+	<Name ID="71">
+		<SourceName>ameenaa</SourceName>
+		<TargetName ID="1">அமீனா</TargetName>
+	</Name>
+	<Name ID="72">
+		<SourceName>american international building</SourceName>
+		<TargetName ID="1">அமெரிக்கன் இன்டர்நேஷனல் பில்டிங்</TargetName>
+	</Name>
+	<Name ID="73">
+		<SourceName>amit mishra</SourceName>
+		<TargetName ID="1">அமித் மிஷரா</TargetName>
+	</Name>
+	<Name ID="74">
+		<SourceName>amitaabh</SourceName>
+		<TargetName ID="1">அமிதாப்</TargetName>
+	</Name>
+	<Name ID="75">
+		<SourceName>amli</SourceName>
+		<TargetName ID="1">ஆம்லி</TargetName>
+	</Name>
+	<Name ID="76">
+		<SourceName>amurt</SourceName>
+		<TargetName ID="1">அமுர்த்</TargetName>
+	</Name>
+	<Name ID="77">
+		<SourceName>anaamikaa</SourceName>
+		<TargetName ID="1">அனாமிக்கா</TargetName>
+	</Name>
+	<Name ID="78">
+		<SourceName>anagh</SourceName>
+		<TargetName ID="1">அனாக்</TargetName>
+	</Name>
+	<Name ID="79">
+		<SourceName>anahita</SourceName>
+		<TargetName ID="1">அனஹிதா</TargetName>
+	</Name>
+	<Name ID="80">
+		<SourceName>anandpur sahib</SourceName>
+		<TargetName ID="1">ஆனந்த்பூர் சாஹிப்</TargetName>
+	</Name>
+	<Name ID="81">
+		<SourceName>anantnag</SourceName>
+		<TargetName ID="1">அனன்த்னாக்</TargetName>
+	</Name>
+	<Name ID="82">
+		<SourceName>anatola</SourceName>
+		<TargetName ID="1">அனடோலா</TargetName>
+	</Name>
+	<Name ID="83">
+		<SourceName>andre</SourceName>
+		<TargetName ID="1">ஆன்ட்ர்</TargetName>
+	</Name>
+	<Name ID="84">
+		<SourceName>andros museum of modern art</SourceName>
+		<TargetName ID="1">ஆன்டிரோஸ் மியூஸியம் ஆஃப் மாடர்ன் ஆர்ட்</TargetName>
+	</Name>
+	<Name ID="85">
+		<SourceName>andy</SourceName>
+		<TargetName ID="1">ஆண்டி</TargetName>
+	</Name>
+	<Name ID="86">
+		<SourceName>angaraaj</SourceName>
+		<TargetName ID="1">அங்கராஜ்</TargetName>
+	</Name>
+	<Name ID="87">
+		<SourceName>angoothi</SourceName>
+		<TargetName ID="1">அங்கூதி</TargetName>
+	</Name>
+	<Name ID="88">
+		<SourceName>anhoni</SourceName>
+		<TargetName ID="1">அன்ஹோனி</TargetName>
+	</Name>
+	<Name ID="89">
+		<SourceName>anil dalpat</SourceName>
+		<TargetName ID="1">அனில் தல்பாத்</TargetName>
+	</Name>
+	<Name ID="90">
+		<SourceName>anjaana</SourceName>
+		<TargetName ID="1">அஞ்ஜானா</TargetName>
+	</Name>
+	<Name ID="91">
+		<SourceName>ankushee</SourceName>
+		<TargetName ID="1">அன்குஷீ</TargetName>
+	</Name>
+	<Name ID="92">
+		<SourceName>anmol moti</SourceName>
+		<TargetName ID="1">அன்மோல் மோட்டி</TargetName>
+	</Name>
+	<Name ID="93">
+		<SourceName>anokha andaz</SourceName>
+		<TargetName ID="1">அனோகா அந்தாஸ்</TargetName>
+	</Name>
+	<Name ID="94">
+		<SourceName>anokhi ada</SourceName>
+		<TargetName ID="1">அன்கி அடா</TargetName>
+	</Name>
+	<Name ID="95">
+		<SourceName>anoop</SourceName>
+		<TargetName ID="1">அனூப்</TargetName>
+	</Name>
+	<Name ID="96">
+		<SourceName>anpadh</SourceName>
+		<TargetName ID="1">அன்பத்</TargetName>
+	</Name>
+	<Name ID="97">
+		<SourceName>antietam</SourceName>
+		<TargetName ID="1">அன்டியேடம்</TargetName>
+	</Name>
+	<Name ID="98">
+		<SourceName>anugaamita</SourceName>
+		<TargetName ID="1">அனுகாமித்தா</TargetName>
+	</Name>
+	<Name ID="99">
+		<SourceName>anugamita</SourceName>
+		<TargetName ID="1">அனுகாமித்தா</TargetName>
+	</Name>
+	<Name ID="100">
+		<SourceName>anumati</SourceName>
+		<TargetName ID="1">அனுமதி</TargetName>
+	</Name>
+	<Name ID="101">
+		<SourceName>anupam</SourceName>
+		<TargetName ID="1">அனுபம்</TargetName>
+	</Name>
+	<Name ID="102">
+		<SourceName>anvil</SourceName>
+		<TargetName ID="1">அன்வில்</TargetName>
+		<TargetName ID="2">ஆன்வில்</TargetName>
+	</Name>
+	<Name ID="103">
+		<SourceName>aparajita</SourceName>
+		<TargetName ID="1">அபராஜித்தா</TargetName>
+	</Name>
+	<Name ID="104">
+		<SourceName>apollo tyres</SourceName>
+		<TargetName ID="1">அப்போலோ டயர்ஸ்</TargetName>
+	</Name>
+	<Name ID="105">
+		<SourceName>apurvaa</SourceName>
+		<TargetName ID="1">அபூர்வா</TargetName>
+	</Name>
+	<Name ID="106">
+		<SourceName>arav</SourceName>
+		<TargetName ID="1">அரவ்</TargetName>
+	</Name>
+	<Name ID="107">
+		<SourceName>argentina</SourceName>
+		<TargetName ID="1">அர்ஜன்டீனா</TargetName>
+	</Name>
+	<Name ID="108">
+		<SourceName>aric</SourceName>
+		<TargetName ID="1">அரிக்</TargetName>
+	</Name>
+	<Name ID="109">
+		<SourceName>arindam</SourceName>
+		<TargetName ID="1">அரின்தாம்</TargetName>
+	</Name>
+	<Name ID="110">
+		<SourceName>arivumadhi</SourceName>
+		<TargetName ID="1">அரிவுமதி</TargetName>
+	</Name>
+	<Name ID="111">
+		<SourceName>arkansas</SourceName>
+		<TargetName ID="1">அர்கான்சாஸ்</TargetName>
+	</Name>
+	<Name ID="112">
+		<SourceName>arnold</SourceName>
+		<TargetName ID="1">அர்னால்ட்</TargetName>
+	</Name>
+	<Name ID="113">
+		<SourceName>arvin</SourceName>
+		<TargetName ID="1">அர்வின்</TargetName>
+	</Name>
+	<Name ID="114">
+		<SourceName>asavari</SourceName>
+		<TargetName ID="1">அசாவாரி</TargetName>
+	</Name>
+	<Name ID="115">
+		<SourceName>ashrafi miya kichocha sharif</SourceName>
+		<TargetName ID="1">அஷ்ராஃப்பி மியா கிசோசா ஷாரிஃப்</TargetName>
+	</Name>
+	<Name ID="116">
+		<SourceName>asiya</SourceName>
+		<TargetName ID="1">அஸியா</TargetName>
+	</Name>
+	<Name ID="117">
+		<SourceName>astatine</SourceName>
+		<TargetName ID="1">அஸ்டாடின்</TargetName>
+	</Name>
+	<Name ID="118">
+		<SourceName>ati visisht seva medal</SourceName>
+		<TargetName ID="1">ஆதி விசிஷ்ட் சேவா மெடல்</TargetName>
+	</Name>
+	<Name ID="119">
+		<SourceName>atmabhu</SourceName>
+		<TargetName ID="1">அத்மாபு</TargetName>
+	</Name>
+	<Name ID="120">
+		<SourceName>atmaja</SourceName>
+		<TargetName ID="1">அத்மஜா</TargetName>
+	</Name>
+	<Name ID="121">
+		<SourceName>atri</SourceName>
+		<TargetName ID="1">அட்ரி</TargetName>
+	</Name>
+	<Name ID="122">
+		<SourceName>atyachar</SourceName>
+		<TargetName ID="1">அத்யசார்</TargetName>
+	</Name>
+	<Name ID="123">
+		<SourceName>aurar</SourceName>
+		<TargetName ID="1">அவ்ரர்</TargetName>
+	</Name>
+	<Name ID="124">
+		<SourceName>aurat aur parinda</SourceName>
+		<TargetName ID="1">ஔரத் ஔர் பரிந்தா</TargetName>
+	</Name>
+	<Name ID="125">
+		<SourceName>aurav</SourceName>
+		<TargetName ID="1">ஆரவ்</TargetName>
+	</Name>
+	<Name ID="126">
+		<SourceName>awara zindagi</SourceName>
+		<TargetName ID="1">ஆவாரா ஜிந்தகி</TargetName>
+	</Name>
+	<Name ID="127">
+		<SourceName>axcan pharma</SourceName>
+		<TargetName ID="1">ஆக்ஸன் பார்மா</TargetName>
+	</Name>
+	<Name ID="128">
+		<SourceName>aziz</SourceName>
+		<TargetName ID="1">அஸிஸ்</TargetName>
+	</Name>
+	<Name ID="129">
+		<SourceName>azmat rana</SourceName>
+		<TargetName ID="1">அஸ்மத் ரானா</TargetName>
+	</Name>
+	<Name ID="130">
+		<SourceName>azraqee</SourceName>
+		<TargetName ID="1">அஸ்ராக்கி</TargetName>
+	</Name>
+	<Name ID="131">
+		<SourceName>baalgopaal</SourceName>
+		<TargetName ID="1">பால்கோபால்</TargetName>
+	</Name>
+	<Name ID="132">
+		<SourceName>baankebiharee</SourceName>
+		<TargetName ID="1">பாங்கேபிஹாரி</TargetName>
+	</Name>
+	<Name ID="133">
+		<SourceName>baankebihari</SourceName>
+		<TargetName ID="1">பாங்கேபிஹாரி</TargetName>
+	</Name>
+	<Name ID="134">
+		<SourceName>babagon dam</SourceName>
+		<TargetName ID="1">பாபாகோன் டேம்</TargetName>
+	</Name>
+	<Name ID="135">
+		<SourceName>babar</SourceName>
+		<TargetName ID="1">பாபர்</TargetName>
+	</Name>
+	<Name ID="136">
+		<SourceName>babu</SourceName>
+		<TargetName ID="1">பாபு</TargetName>
+	</Name>
+	<Name ID="137">
+		<SourceName>badami</SourceName>
+		<TargetName ID="1">படாமி</TargetName>
+		<TargetName ID="2">பதாமி</TargetName>
+	</Name>
+	<Name ID="138">
+		<SourceName>badampahar</SourceName>
+		<TargetName ID="1">பதாம்பஹார்</TargetName>
+	</Name>
+	<Name ID="139">
+		<SourceName>badawi</SourceName>
+		<TargetName ID="1">பதாவி</TargetName>
+	</Name>
+	<Name ID="140">
+		<SourceName>baghi</SourceName>
+		<TargetName ID="1">பாகி</TargetName>
+	</Name>
+	<Name ID="141">
+		<SourceName>bahaadur</SourceName>
+		<TargetName ID="1">பஹதூர்</TargetName>
+	</Name>
+	<Name ID="142">
+		<SourceName>bahar</SourceName>
+		<TargetName ID="1">பஹர்</TargetName>
+		<TargetName ID="2">பஹார்</TargetName>
+	</Name>
+	<Name ID="143">
+		<SourceName>baharon ke sapne</SourceName>
+		<TargetName ID="1">பயரோன் கே சாப்னே</TargetName>
+	</Name>
+	<Name ID="144">
+		<SourceName>bahjoi</SourceName>
+		<TargetName ID="1">பஹ்ஜோய்</TargetName>
+	</Name>
+	<Name ID="145">
+		<SourceName>bahlawan</SourceName>
+		<TargetName ID="1">பஹல்வான்</TargetName>
+	</Name>
+	<Name ID="146">
+		<SourceName>bahut din hue</SourceName>
+		<TargetName ID="1">பாஹுத் தின் ஹியு</TargetName>
+	</Name>
+	<Name ID="147">
+		<SourceName>baidyanathdham</SourceName>
+		<TargetName ID="1">பைத்யநாத்தம்</TargetName>
+	</Name>
+	<Name ID="148">
+		<SourceName>baje ghunghru</SourceName>
+		<TargetName ID="1">பஜே குங்ரு</TargetName>
+	</Name>
+	<Name ID="149">
+		<SourceName>balaghat</SourceName>
+		<TargetName ID="1">பாலாகாட்</TargetName>
+	</Name>
+	<Name ID="150">
+		<SourceName>balak</SourceName>
+		<TargetName ID="1">பாலக்</TargetName>
+	</Name>
+	<Name ID="151">
+		<SourceName>balangir</SourceName>
+		<TargetName ID="1">பலாங்கிர்</TargetName>
+	</Name>
+	<Name ID="152">
+		<SourceName>balharshah</SourceName>
+		<TargetName ID="1">பல்லார்ஷா</TargetName>
+	</Name>
+	<Name ID="153">
+		<SourceName>ballari</SourceName>
+		<TargetName ID="1">பல்லாரி</TargetName>
+	</Name>
+	<Name ID="154">
+		<SourceName>balli</SourceName>
+		<TargetName ID="1">பாலி</TargetName>
+		<TargetName ID="2">பால்லி</TargetName>
+	</Name>
+	<Name ID="155">
+		<SourceName>bamra</SourceName>
+		<TargetName ID="1">பாம்ரா</TargetName>
+	</Name>
+	<Name ID="156">
+		<SourceName>bandhu</SourceName>
+		<TargetName ID="1">பந்து</TargetName>
+	</Name>
+	<Name ID="157">
+		<SourceName>bankebihaaree</SourceName>
+		<TargetName ID="1">பாங்கேபிஹாரி</TargetName>
+	</Name>
+	<Name ID="158">
+		<SourceName>bankimchandra chatarjee</SourceName>
+		<TargetName ID="1">பங்கிம்சந்திர சாட்டர்ஜி</TargetName>
+	</Name>
+	<Name ID="159">
+		<SourceName>bansipur</SourceName>
+		<TargetName ID="1">பன்ஸிபூர்</TargetName>
+	</Name>
+	<Name ID="160">
+		<SourceName>baqi</SourceName>
+		<TargetName ID="1">பாகி</TargetName>
+	</Name>
+	<Name ID="161">
+		<SourceName>baral</SourceName>
+		<TargetName ID="1">பாரல்</TargetName>
+	</Name>
+	<Name ID="162">
+		<SourceName>barkha bahar</SourceName>
+		<TargetName ID="1">பர்க்கா பஹர்</TargetName>
+	</Name>
+	<Name ID="163">
+		<SourceName>barks</SourceName>
+		<TargetName ID="1">பார்க்ஸ்</TargetName>
+	</Name>
+	<Name ID="164">
+		<SourceName>barrancas</SourceName>
+		<TargetName ID="1">பாரான்காஸ்</TargetName>
+	</Name>
+	<Name ID="165">
+		<SourceName>baruni</SourceName>
+		<TargetName ID="1">பருணி</TargetName>
+	</Name>
+	<Name ID="166">
+		<SourceName>baton baton mein</SourceName>
+		<TargetName ID="1">பதோன் பதோன் மெயின்</TargetName>
+	</Name>
+	<Name ID="167">
+		<SourceName>baudhdh</SourceName>
+		<TargetName ID="1">பௌத்</TargetName>
+	</Name>
+	<Name ID="168">
+		<SourceName>beck's futures</SourceName>
+		<TargetName ID="1">பெக்ஸ் ஃப்யூச்சர்ஸ்</TargetName>
+	</Name>
+	<Name ID="169">
+		<SourceName>bellsouth</SourceName>
+		<TargetName ID="1">பெல்சௌத்</TargetName>
+	</Name>
+	<Name ID="170">
+		<SourceName>benbow</SourceName>
+		<TargetName ID="1">பென்போ</TargetName>
+	</Name>
+	<Name ID="171">
+		<SourceName>besroli</SourceName>
+		<TargetName ID="1">பேர்ஸோலி</TargetName>
+	</Name>
+	<Name ID="172">
+		<SourceName>bhaatvadekar</SourceName>
+		<TargetName ID="1">பாத்வதேகர்</TargetName>
+	</Name>
+	<Name ID="173">
+		<SourceName>bhai jaan</SourceName>
+		<TargetName ID="1">பாய் ஜான்</TargetName>
+	</Name>
+	<Name ID="174">
+		<SourceName>bhanapur</SourceName>
+		<TargetName ID="1">பனாபூர்</TargetName>
+	</Name>
+	<Name ID="175">
+		<SourceName>bharat</SourceName>
+		<TargetName ID="1">பாரத்</TargetName>
+	</Name>
+	<Name ID="176">
+		<SourceName>bharat ke shaheed</SourceName>
+		<TargetName ID="1">பாரத் கே ஷஹீத்</TargetName>
+	</Name>
+	<Name ID="177">
+		<SourceName>bhawani bhattacharya</SourceName>
+		<TargetName ID="1">பவானி பட்டாச்சார்யா</TargetName>
+	</Name>
+	<Name ID="178">
+		<SourceName>bheegi palken</SourceName>
+		<TargetName ID="1">பீகி பால்கன்</TargetName>
+	</Name>
+	<Name ID="179">
+		<SourceName>bheema</SourceName>
+		<TargetName ID="1">பீமா</TargetName>
+	</Name>
+	<Name ID="180">
+		<SourceName>bhilad</SourceName>
+		<TargetName ID="1">பிலாத்</TargetName>
+	</Name>
+	<Name ID="181">
+		<SourceName>bhojudih junction</SourceName>
+		<TargetName ID="1">போஜுதி ஜங்ஷன்</TargetName>
+	</Name>
+	<Name ID="182">
+		<SourceName>bhoke</SourceName>
+		<TargetName ID="1">போக்கே</TargetName>
+	</Name>
+	<Name ID="183">
+		<SourceName>bhopatkar</SourceName>
+		<TargetName ID="1">போபத்கர்</TargetName>
+	</Name>
+	<Name ID="184">
+		<SourceName>bhuranyu</SourceName>
+		<TargetName ID="1">பூரண்யூ</TargetName>
+	</Name>
+	<Name ID="185">
+		<SourceName>bihiya</SourceName>
+		<TargetName ID="1">பிஹியா</TargetName>
+	</Name>
+	<Name ID="186">
+		<SourceName>bijoor</SourceName>
+		<TargetName ID="1">பிஜூர்</TargetName>
+	</Name>
+	<Name ID="187">
+		<SourceName>bikhare moti</SourceName>
+		<TargetName ID="1">பிகாரே மோதி</TargetName>
+	</Name>
+	<Name ID="188">
+		<SourceName>bilaspur junction</SourceName>
+		<TargetName ID="1">பிலாஸ்பூர் ஜங்ஷன்</TargetName>
+	</Name>
+	<Name ID="189">
+		<SourceName>binnaguri</SourceName>
+		<TargetName ID="1">பின்னகுரி</TargetName>
+	</Name>
+	<Name ID="190">
+		<SourceName>bioprogress</SourceName>
+		<TargetName ID="1">பையோபிராகிரெஸ்</TargetName>
+	</Name>
+	<Name ID="191">
+		<SourceName>bishnupur</SourceName>
+		<TargetName ID="1">பிஷ்ணுபூர்</TargetName>
+	</Name>
+	<Name ID="192">
+		<SourceName>bismuth</SourceName>
+		<TargetName ID="1">பிஸ்முத்</TargetName>
+	</Name>
+	<Name ID="193">
+		<SourceName>bitragunta</SourceName>
+		<TargetName ID="1">பித்ரகுண்டா</TargetName>
+	</Name>
+	<Name ID="194">
+		<SourceName>bitterroot</SourceName>
+		<TargetName ID="1">பிட்டேரூட்</TargetName>
+	</Name>
+	<Name ID="195">
+		<SourceName>bodwad</SourceName>
+		<TargetName ID="1">போட்வாட்</TargetName>
+	</Name>
+	<Name ID="196">
+		<SourceName>bombay war</SourceName>
+		<TargetName ID="1">பாம்பே வார்</TargetName>
+	</Name>
+	<Name ID="197">
+		<SourceName>bonaventure</SourceName>
+		<TargetName ID="1">போனவென்ச்சர்</TargetName>
+	</Name>
+	<Name ID="198">
+		<SourceName>bonnai</SourceName>
+		<TargetName ID="1">பொன்னை</TargetName>
+	</Name>
+	<Name ID="199">
+		<SourceName>brahamdev</SourceName>
+		<TargetName ID="1">ப்ரஹம்தேவ்</TargetName>
+	</Name>
+	<Name ID="200">
+		<SourceName>bridgestone</SourceName>
+		<TargetName ID="1">பிரிட்ஜ்ஸ்டோன்</TargetName>
+	</Name>
+	<Name ID="201">
+		<SourceName>british book awards</SourceName>
+		<TargetName ID="1">ப்ரிட்டிஷ் புக் அவார்ட்ஸ்</TargetName>
+	</Name>
+	<Name ID="202">
+		<SourceName>brooke walker</SourceName>
+		<TargetName ID="1">புரூக் வாக்கர்</TargetName>
+	</Name>
+	<Name ID="203">
+		<SourceName>brookings wesleyan</SourceName>
+		<TargetName ID="1">புரூகிங்ஸ் வெச்லேயன்</TargetName>
+	</Name>
+	<Name ID="204">
+		<SourceName>bruce willis</SourceName>
+		<TargetName ID="1">ப்ரூஸ் வில்லிஸ்</TargetName>
+	</Name>
+	<Name ID="205">
+		<SourceName>budalur</SourceName>
+		<TargetName ID="1">புடால்பூர்</TargetName>
+	</Name>
+	<Name ID="206">
+		<SourceName>buddy holly</SourceName>
+		<TargetName ID="1">பட்டி ஹோலி</TargetName>
+	</Name>
+	<Name ID="207">
+		<SourceName>bundi fort</SourceName>
+		<TargetName ID="1">புன்டி ஃப்போர்ட்</TargetName>
+	</Name>
+	<Name ID="208">
+		<SourceName>burbara</SourceName>
+		<TargetName ID="1">புர்பாரா</TargetName>
+	</Name>
+	<Name ID="209">
+		<SourceName>burhanpur</SourceName>
+		<TargetName ID="1">புர்ஹன்பூர்</TargetName>
+	</Name>
+	<Name ID="210">
+		<SourceName>busayrah</SourceName>
+		<TargetName ID="1">புசாய்ரா</TargetName>
+	</Name>
+	<Name ID="211">
+		<SourceName>buzdil</SourceName>
+		<TargetName ID="1">பஸ்தில்</TargetName>
+	</Name>
+	<Name ID="212">
+		<SourceName>caliana</SourceName>
+		<TargetName ID="1">காலியானா</TargetName>
+	</Name>
+	<Name ID="213">
+		<SourceName>canyon</SourceName>
+		<TargetName ID="1">கேன்யன்</TargetName>
+	</Name>
+	<Name ID="214">
+		<SourceName>cargill</SourceName>
+		<TargetName ID="1">கார்கில்</TargetName>
+	</Name>
+	<Name ID="215">
+		<SourceName>carli simon</SourceName>
+		<TargetName ID="1">கார்லி சைமன்</TargetName>
+	</Name>
+	<Name ID="216">
+		<SourceName>carlyn</SourceName>
+		<TargetName ID="1">கார்லின்</TargetName>
+	</Name>
+	<Name ID="217">
+		<SourceName>carmel convent school, chandigarh</SourceName>
+		<TargetName ID="1">கார்மெல் கான்வெண்ட் ஸ்கூல், சண்டிகர்</TargetName>
+	</Name>
+	<Name ID="218">
+		<SourceName>carmen</SourceName>
+		<TargetName ID="1">கார்மென்</TargetName>
+	</Name>
+	<Name ID="219">
+		<SourceName>cartoon museum</SourceName>
+		<TargetName ID="1">கார்டூன் மியூஸியம்</TargetName>
+	</Name>
+	<Name ID="220">
+		<SourceName>catherine zeta - jones</SourceName>
+		<TargetName ID="1">கேத்தரின் ஜேட்டா ஜோன்ஸ்</TargetName>
+	</Name>
+	<Name ID="221">
+		<SourceName>centennial</SourceName>
+		<TargetName ID="1">செண்டனியல்</TargetName>
+	</Name>
+	<Name ID="222">
+		<SourceName>central chronicle</SourceName>
+		<TargetName ID="1">சென்டிரல் கிரானிக்கல்</TargetName>
+	</Name>
+	<Name ID="223">
+		<SourceName>ceram</SourceName>
+		<TargetName ID="1">செரம்</TargetName>
+	</Name>
+	<Name ID="224">
+		<SourceName>cerelia</SourceName>
+		<TargetName ID="1">செரிலியா</TargetName>
+	</Name>
+	<Name ID="225">
+		<SourceName>chaggan</SourceName>
+		<TargetName ID="1">சாக்கன்</TargetName>
+	</Name>
+	<Name ID="226">
+		<SourceName>chakravyuh</SourceName>
+		<TargetName ID="1">சக்ரவுயுக்</TargetName>
+	</Name>
+	<Name ID="227">
+		<SourceName>chalis chor</SourceName>
+		<TargetName ID="1">சாலிஸ் சோர்</TargetName>
+	</Name>
+	<Name ID="228">
+		<SourceName>chandi pooja</SourceName>
+		<TargetName ID="1">சண்டி பூஜா</TargetName>
+	</Name>
+	<Name ID="229">
+		<SourceName>chandramukhi</SourceName>
+		<TargetName ID="1">சந்திரமுகி</TargetName>
+	</Name>
+	<Name ID="230">
+		<SourceName>chandrapura</SourceName>
+		<TargetName ID="1">சந்திராபூரா</TargetName>
+	</Name>
+	<Name ID="231">
+		<SourceName>chandrasekhara</SourceName>
+		<TargetName ID="1">சந்திரசேகரா</TargetName>
+	</Name>
+	<Name ID="232">
+		<SourceName>chanpatia</SourceName>
+		<TargetName ID="1">சன்பாடியா</TargetName>
+	</Name>
+	<Name ID="233">
+		<SourceName>charitra</SourceName>
+		<TargetName ID="1">சரித்ரா</TargetName>
+	</Name>
+	<Name ID="234">
+		<SourceName>charlee</SourceName>
+		<TargetName ID="1">சார்லீ</TargetName>
+	</Name>
+	<Name ID="235">
+		<SourceName>chastity</SourceName>
+		<TargetName ID="1">சேஸ்ட்டிட்டி</TargetName>
+	</Name>
+	<Name ID="236">
+		<SourceName>chengalpattu</SourceName>
+		<TargetName ID="1">செங்கல்பட்டு</TargetName>
+	</Name>
+	<Name ID="237">
+		<SourceName>chetna</SourceName>
+		<TargetName ID="1">சேத்னா</TargetName>
+	</Name>
+	<Name ID="238">
+		<SourceName>chhapi</SourceName>
+		<TargetName ID="1">சாப்பி</TargetName>
+	</Name>
+	<Name ID="239">
+		<SourceName>chharodi</SourceName>
+		<TargetName ID="1">சரோடி</TargetName>
+	</Name>
+	<Name ID="240">
+		<SourceName>chifley</SourceName>
+		<TargetName ID="1">சிப்லி</TargetName>
+	</Name>
+	<Name ID="241">
+		<SourceName>chilean</SourceName>
+		<TargetName ID="1">சிலியன்</TargetName>
+	</Name>
+	<Name ID="242">
+		<SourceName>chimanimani</SourceName>
+		<TargetName ID="1">சிமனிமனி</TargetName>
+	</Name>
+	<Name ID="243">
+		<SourceName>chinchli</SourceName>
+		<TargetName ID="1">சின்ஜ்லி</TargetName>
+	</Name>
+	<Name ID="244">
+		<SourceName>chinmayananda</SourceName>
+		<TargetName ID="1">சின்மையானந்தா</TargetName>
+	</Name>
+	<Name ID="245">
+		<SourceName>chitose</SourceName>
+		<TargetName ID="1">சிட்டோசெ</TargetName>
+	</Name>
+	<Name ID="246">
+		<SourceName>chitrangada</SourceName>
+		<TargetName ID="1">சித்ராங்கதா</TargetName>
+	</Name>
+	<Name ID="247">
+		<SourceName>chitrarekha</SourceName>
+		<TargetName ID="1">சித்ராரேகா</TargetName>
+	</Name>
+	<Name ID="248">
+		<SourceName>chittapur</SourceName>
+		<TargetName ID="1">சித்தாபூர்</TargetName>
+	</Name>
+	<Name ID="249">
+		<SourceName>chittaranjan</SourceName>
+		<TargetName ID="1">சித்தரஞ்சன்</TargetName>
+		<TargetName ID="2">சித்தாரஞ்சன்</TargetName>
+	</Name>
+	<Name ID="250">
+		<SourceName>chorvad road</SourceName>
+		<TargetName ID="1">சோர்வாட் ரோட்</TargetName>
+	</Name>
+	<Name ID="251">
+		<SourceName>choudhary</SourceName>
+		<TargetName ID="1">செளதரி</TargetName>
+	</Name>
+	<Name ID="252">
+		<SourceName>christ united methodist</SourceName>
+		<TargetName ID="1">கிறிஸ்ட் யுனைட்டெட் மெதோடிஸ்ட்</TargetName>
+	</Name>
+	<Name ID="253">
+		<SourceName>christiana</SourceName>
+		<TargetName ID="1">கிரிஸ்டியானா</TargetName>
+	</Name>
+	<Name ID="254">
+		<SourceName>chynna</SourceName>
+		<TargetName ID="1">சைன்னா</TargetName>
+	</Name>
+	<Name ID="255">
+		<SourceName>cigna</SourceName>
+		<TargetName ID="1">சிக்னா</TargetName>
+	</Name>
+	<Name ID="256">
+		<SourceName>city union bank</SourceName>
+		<TargetName ID="1">சிட்டி யூனியன் பேங்க்</TargetName>
+	</Name>
+	<Name ID="257">
+		<SourceName>clara</SourceName>
+		<TargetName ID="1">கிளாரா</TargetName>
+	</Name>
+	<Name ID="258">
+		<SourceName>clea</SourceName>
+		<TargetName ID="1">கிளியா</TargetName>
+	</Name>
+	<Name ID="259">
+		<SourceName>clemenceau</SourceName>
+		<TargetName ID="1">கிளிமென்சியா</TargetName>
+		<TargetName ID="2">கிளெமென்சியா</TargetName>
+	</Name>
+	<Name ID="260">
+		<SourceName>clementine</SourceName>
+		<TargetName ID="1">கிளெமண்டைன்</TargetName>
+	</Name>
+	<Name ID="261">
+		<SourceName>clyde</SourceName>
+		<TargetName ID="1">க்லைட்</TargetName>
+	</Name>
+	<Name ID="262">
+		<SourceName>cochraine</SourceName>
+		<TargetName ID="1">காச்ரேய்ன்</TargetName>
+	</Name>
+	<Name ID="263">
+		<SourceName>colin powell</SourceName>
+		<TargetName ID="1">காலின் பாவல்</TargetName>
+	</Name>
+	<Name ID="264">
+		<SourceName>comcast</SourceName>
+		<TargetName ID="1">காம்காஸ்ட்</TargetName>
+	</Name>
+	<Name ID="265">
+		<SourceName>commtouch software</SourceName>
+		<TargetName ID="1">காம்டச் சாப்ட்வேர்</TargetName>
+	</Name>
+	<Name ID="266">
+		<SourceName>cooke</SourceName>
+		<TargetName ID="1">கூக்</TargetName>
+	</Name>
+	<Name ID="267">
+		<SourceName>corporation bank</SourceName>
+		<TargetName ID="1">கார்ப்பரேஷன் பேங்க்</TargetName>
+	</Name>
+	<Name ID="268">
+		<SourceName>cottage grove christian reformed</SourceName>
+		<TargetName ID="1">காட்டேஜ் குரோவ் கிறிஸ்டியன் ரிபார்ம்ட்</TargetName>
+	</Name>
+	<Name ID="269">
+		<SourceName>cox</SourceName>
+		<TargetName ID="1">காக்ஸ்</TargetName>
+	</Name>
+	<Name ID="270">
+		<SourceName>cyril</SourceName>
+		<TargetName ID="1">சிரில்</TargetName>
+	</Name>
+	<Name ID="271">
+		<SourceName>cytheria</SourceName>
+		<TargetName ID="1">சிதெரியா</TargetName>
+	</Name>
+	<Name ID="272">
+		<SourceName>daaku</SourceName>
+		<TargetName ID="1">தாகு</TargetName>
+	</Name>
+	<Name ID="273">
+		<SourceName>dabhade</SourceName>
+		<TargetName ID="1">தபதே</TargetName>
+	</Name>
+	<Name ID="274">
+		<SourceName>dabra</SourceName>
+		<TargetName ID="1">தாப்ரா</TargetName>
+		<TargetName ID="2">டாப்ரா</TargetName>
+	</Name>
+	<Name ID="275">
+		<SourceName>dafiyah</SourceName>
+		<TargetName ID="1">டாஃபியா</TargetName>
+	</Name>
+	<Name ID="276">
+		<SourceName>dahana</SourceName>
+		<TargetName ID="1">டஹானா</TargetName>
+	</Name>
+	<Name ID="277">
+		<SourceName>dahina zainabad</SourceName>
+		<TargetName ID="1">தாஹினா ஜாய்னாபாத்</TargetName>
+	</Name>
+	<Name ID="278">
+		<SourceName>dahleez</SourceName>
+		<TargetName ID="1">தஹ்லீஸ்</TargetName>
+	</Name>
+	<Name ID="279">
+		<SourceName>daku ki ladki</SourceName>
+		<TargetName ID="1">தாக்கு கி லட்கி</TargetName>
+	</Name>
+	<Name ID="280">
+		<SourceName>damara</SourceName>
+		<TargetName ID="1">தமாரா</TargetName>
+	</Name>
+	<Name ID="281">
+		<SourceName>damul</SourceName>
+		<TargetName ID="1">தாமுல்</TargetName>
+	</Name>
+	<Name ID="282">
+		<SourceName>darabaar</SourceName>
+		<TargetName ID="1">தர்பார்</TargetName>
+	</Name>
+	<Name ID="283">
+		<SourceName>darin</SourceName>
+		<TargetName ID="1">டேரின்</TargetName>
+	</Name>
+	<Name ID="284">
+		<SourceName>darke</SourceName>
+		<TargetName ID="1">டார்கெ</TargetName>
+	</Name>
+	<Name ID="285">
+		<SourceName>darlene</SourceName>
+		<TargetName ID="1">டார்லீன்</TargetName>
+	</Name>
+	<Name ID="286">
+		<SourceName>dauphin</SourceName>
+		<TargetName ID="1">டாப்பின்</TargetName>
+	</Name>
+	<Name ID="287">
+		<SourceName>dayakar</SourceName>
+		<TargetName ID="1">தயாகர்</TargetName>
+	</Name>
+	<Name ID="288">
+		<SourceName>deanna</SourceName>
+		<TargetName ID="1">டீயனா</TargetName>
+	</Name>
+	<Name ID="289">
+		<SourceName>debra winger</SourceName>
+		<TargetName ID="1">டெப்ரா விங்கர்</TargetName>
+	</Name>
+	<Name ID="290">
+		<SourceName>decker</SourceName>
+		<TargetName ID="1">டெக்கர்</TargetName>
+	</Name>
+	<Name ID="291">
+		<SourceName>deep</SourceName>
+		<TargetName ID="1">தீப்</TargetName>
+	</Name>
+	<Name ID="292">
+		<SourceName>deepan</SourceName>
+		<TargetName ID="1">தீபன்</TargetName>
+	</Name>
+	<Name ID="293">
+		<SourceName>deeptimoyee</SourceName>
+		<TargetName ID="1">தீப்திமாயி</TargetName>
+	</Name>
+	<Name ID="294">
+		<SourceName>dekalb-peachtree</SourceName>
+		<TargetName ID="1">டெக்கல்ப்-பீச்ட்ரீ</TargetName>
+	</Name>
+	<Name ID="295">
+		<SourceName>dennis rodman</SourceName>
+		<TargetName ID="1">டென்னிஸ் ராட்மேன்</TargetName>
+	</Name>
+	<Name ID="296">
+		<SourceName>deoband</SourceName>
+		<TargetName ID="1">டியோபேண்ட்</TargetName>
+	</Name>
+	<Name ID="297">
+		<SourceName>deswal</SourceName>
+		<TargetName ID="1">தேஸ்வல்</TargetName>
+	</Name>
+	<Name ID="298">
+		<SourceName>devang gandhi</SourceName>
+		<TargetName ID="1">தேவாங் காந்தி</TargetName>
+	</Name>
+	<Name ID="299">
+		<SourceName>devar</SourceName>
+		<TargetName ID="1">திவார்</TargetName>
+	</Name>
+	<Name ID="300">
+		<SourceName>devasree</SourceName>
+		<TargetName ID="1">தேவஸ்ரீ</TargetName>
+	</Name>
+	<Name ID="301">
+		<SourceName>devlali</SourceName>
+		<TargetName ID="1">தேவ்லாலி</TargetName>
+	</Name>
+	<Name ID="302">
+		<SourceName>dharani</SourceName>
+		<TargetName ID="1">தரணி</TargetName>
+	</Name>
+	<Name ID="303">
+		<SourceName>dhoble</SourceName>
+		<TargetName ID="1">தோப்லே</TargetName>
+	</Name>
+	<Name ID="304">
+		<SourceName>dial</SourceName>
+		<TargetName ID="1">டயல்</TargetName>
+	</Name>
+	<Name ID="305">
+		<SourceName>diane</SourceName>
+		<TargetName ID="1">டையேன்</TargetName>
+	</Name>
+	<Name ID="306">
+		<SourceName>dil daulat duniya</SourceName>
+		<TargetName ID="1">தில் தௌலத் துனியா</TargetName>
+	</Name>
+	<Name ID="307">
+		<SourceName>dil deke dekho</SourceName>
+		<TargetName ID="1">தில் தேகே தேகோ</TargetName>
+	</Name>
+	<Name ID="308">
+		<SourceName>dil ki basti</SourceName>
+		<TargetName ID="1">தில் கி பஸ்தி</TargetName>
+	</Name>
+	<Name ID="309">
+		<SourceName>dil tujh ko diya</SourceName>
+		<TargetName ID="1">தில் துஜ் கோ தியா</TargetName>
+	</Name>
+	<Name ID="310">
+		<SourceName>dil-e-nadan</SourceName>
+		<TargetName ID="1">தில்-ஏ-நதன்</TargetName>
+	</Name>
+	<Name ID="311">
+		<SourceName>dilbari</SourceName>
+		<TargetName ID="1">தில்பரி</TargetName>
+	</Name>
+	<Name ID="312">
+		<SourceName>dildaar</SourceName>
+		<TargetName ID="1">தில்தர்</TargetName>
+	</Name>
+	<Name ID="313">
+		<SourceName>dirt bike racing</SourceName>
+		<TargetName ID="1">டேர்ட் பைக் ரேசிங்</TargetName>
+	</Name>
+	<Name ID="314">
+		<SourceName>divis labs</SourceName>
+		<TargetName ID="1">டிவிஸ் லேப்ஸ்</TargetName>
+	</Name>
+	<Name ID="315">
+		<SourceName>diwankhavati</SourceName>
+		<TargetName ID="1">திவான்காவதி</TargetName>
+	</Name>
+	<Name ID="316">
+		<SourceName>do dost</SourceName>
+		<TargetName ID="1">தோ தோஸ்த்</TargetName>
+	</Name>
+	<Name ID="317">
+		<SourceName>doctor shaitan</SourceName>
+		<TargetName ID="1">டாக்டர் ஷைதான்</TargetName>
+	</Name>
+	<Name ID="318">
+		<SourceName>doda</SourceName>
+		<TargetName ID="1">டோடா</TargetName>
+	</Name>
+	<Name ID="319">
+		<SourceName>dodada</SourceName>
+		<TargetName ID="1">டோதாதா</TargetName>
+	</Name>
+	<Name ID="320">
+		<SourceName>dohara</SourceName>
+		<TargetName ID="1">டோஹாரா</TargetName>
+	</Name>
+	<Name ID="321">
+		<SourceName>dohollah</SourceName>
+		<TargetName ID="1">டோஹோல்லா</TargetName>
+	</Name>
+	<Name ID="322">
+		<SourceName>domodedovo</SourceName>
+		<TargetName ID="1">டோமோடிடோவோ</TargetName>
+	</Name>
+	<Name ID="323">
+		<SourceName>donald</SourceName>
+		<TargetName ID="1">டொனால்ட்</TargetName>
+	</Name>
+	<Name ID="324">
+		<SourceName>dorpveld</SourceName>
+		<TargetName ID="1">டார்ப்வெல்ட்</TargetName>
+	</Name>
+	<Name ID="325">
+		<SourceName>dubaha</SourceName>
+		<TargetName ID="1">துபாஹா</TargetName>
+	</Name>
+	<Name ID="326">
+		<SourceName>duncan fletcher</SourceName>
+		<TargetName ID="1">டன்கன் ஃப்ளெட்சர்</TargetName>
+	</Name>
+	<Name ID="327">
+		<SourceName>duniya jhukti hai</SourceName>
+		<TargetName ID="1">துனியா ஜுக்தி ஹை</TargetName>
+	</Name>
+	<Name ID="328">
+		<SourceName>eastman kodak</SourceName>
+		<TargetName ID="1">ஈஸ்ட்மேன் கோடக்</TargetName>
+	</Name>
+	<Name ID="329">
+		<SourceName>economic</SourceName>
+		<TargetName ID="1">எக்கானமிக்</TargetName>
+	</Name>
+	<Name ID="330">
+		<SourceName>eithne</SourceName>
+		<TargetName ID="1">ஐத்ன்</TargetName>
+	</Name>
+	<Name ID="331">
+		<SourceName>ek aur sangram</SourceName>
+		<TargetName ID="1">ஏக் ஔர் சங்ரம்</TargetName>
+	</Name>
+	<Name ID="332">
+		<SourceName>ek baar chale aao</SourceName>
+		<TargetName ID="1">ஏக் பார் சாலே ஆவோ</TargetName>
+	</Name>
+	<Name ID="333">
+		<SourceName>ek bechara</SourceName>
+		<TargetName ID="1">ஏக் பேச்சரா</TargetName>
+	</Name>
+	<Name ID="334">
+		<SourceName>ek gaon ki kahani</SourceName>
+		<TargetName ID="1">ஏக் கோன் கி கஹானி</TargetName>
+	</Name>
+	<Name ID="335">
+		<SourceName>ek shriman ek shrimati</SourceName>
+		<TargetName ID="1">ஏக் ஸ்ரீமன் ஏக் ஸ்ரீமதி</TargetName>
+	</Name>
+	<Name ID="336">
+		<SourceName>electrolux</SourceName>
+		<TargetName ID="1">எலக்ட்ரோலக்ஸ்</TargetName>
+	</Name>
+	<Name ID="337">
+		<SourceName>ellenabad</SourceName>
+		<TargetName ID="1">எல்லெனாபாத்</TargetName>
+	</Name>
+	<Name ID="338">
+		<SourceName>elroy</SourceName>
+		<TargetName ID="1">எல்ராய்</TargetName>
+	</Name>
+	<Name ID="339">
+		<SourceName>elvin</SourceName>
+		<TargetName ID="1">எல்வின்</TargetName>
+	</Name>
+	<Name ID="340">
+		<SourceName>emarat</SourceName>
+		<TargetName ID="1">இமாராத்</TargetName>
+	</Name>
+	<Name ID="341">
+		<SourceName>emele abo</SourceName>
+		<TargetName ID="1">எமிலி அபோ</TargetName>
+	</Name>
+	<Name ID="342">
+		<SourceName>enterprise</SourceName>
+		<TargetName ID="1">என்டர்பிரைஸ்</TargetName>
+	</Name>
+	<Name ID="343">
+		<SourceName>erbium</SourceName>
+		<TargetName ID="1">எர்பியம்</TargetName>
+	</Name>
+	<Name ID="344">
+		<SourceName>essam</SourceName>
+		<TargetName ID="1">எஸ்ஸாம்</TargetName>
+	</Name>
+	<Name ID="345">
+		<SourceName>eugene</SourceName>
+		<TargetName ID="1">இயுஜின்</TargetName>
+	</Name>
+	<Name ID="346">
+		<SourceName>euridice</SourceName>
+		<TargetName ID="1">இயுரிதிஸ்</TargetName>
+	</Name>
+	<Name ID="347">
+		<SourceName>evelien</SourceName>
+		<TargetName ID="1">இவ்லியன்</TargetName>
+	</Name>
+	<Name ID="348">
+		<SourceName>everton mattis</SourceName>
+		<TargetName ID="1">எவர்டன் மாட்டிஸ்</TargetName>
+	</Name>
+	<Name ID="349">
+		<SourceName>faith</SourceName>
+		<TargetName ID="1">ஃபெயித்</TargetName>
+	</Name>
+	<Name ID="350">
+		<SourceName>fakir badshah</SourceName>
+		<TargetName ID="1">ஃபகிர் பாட்ஷா</TargetName>
+	</Name>
+	<Name ID="351">
+		<SourceName>falaq</SourceName>
+		<TargetName ID="1">ஃபலாக்</TargetName>
+	</Name>
+	<Name ID="352">
+		<SourceName>falna</SourceName>
+		<TargetName ID="1">ஃபால்னா</TargetName>
+	</Name>
+	<Name ID="353">
+		<SourceName>faseelah</SourceName>
+		<TargetName ID="1">ஃபஸீலா</TargetName>
+	</Name>
+	<Name ID="354">
+		<SourceName>fawzan</SourceName>
+		<TargetName ID="1">ஃபாவ்ஸான்</TargetName>
+	</Name>
+	<Name ID="355">
+		<SourceName>fayyadh</SourceName>
+		<TargetName ID="1">ஃபையத்</TargetName>
+	</Name>
+	<Name ID="356">
+		<SourceName>fender rhodes</SourceName>
+		<TargetName ID="1">ஃபெண்டர் ரோட்ஸ்</TargetName>
+	</Name>
+	<Name ID="357">
+		<SourceName>fern</SourceName>
+		<TargetName ID="1">ஃபெர்ன்</TargetName>
+	</Name>
+	<Name ID="358">
+		<SourceName>fighter sheila</SourceName>
+		<TargetName ID="1">ஃபைட்டர் ஷீலா</TargetName>
+	</Name>
+	<Name ID="359">
+		<SourceName>fil donnanview</SourceName>
+		<TargetName ID="1">ஃபில் டோனன்வியூ</TargetName>
+	</Name>
+	<Name ID="360">
+		<SourceName>filght to assam</SourceName>
+		<TargetName ID="1">ஃபிளைட் டு அஸாம்</TargetName>
+	</Name>
+	<Name ID="361">
+		<SourceName>fiorenza</SourceName>
+		<TargetName ID="1">ஃபியோரென்சா</TargetName>
+	</Name>
+	<Name ID="362">
+		<SourceName>firozpur</SourceName>
+		<TargetName ID="1">ஃபிரோஸ்பூர்</TargetName>
+	</Name>
+	<Name ID="363">
+		<SourceName>firozpur city</SourceName>
+		<TargetName ID="1">ஃபிரோஸ்பூர் சிட்டி</TargetName>
+	</Name>
+	<Name ID="364">
+		<SourceName>first chinese</SourceName>
+		<TargetName ID="1">ஃபர்ஸ்ட் சைனீஸ்</TargetName>
+	</Name>
+	<Name ID="365">
+		<SourceName>fisher lanau center</SourceName>
+		<TargetName ID="1">ஃப்பிஷ்ஷர் லானவ் சென்டர்</TargetName>
+	</Name>
+	<Name ID="366">
+		<SourceName>floyd reifer</SourceName>
+		<TargetName ID="1">ஃப்ளாய்ட் ரீஃபர்</TargetName>
+	</Name>
+	<Name ID="367">
+		<SourceName>forbes medi-tech</SourceName>
+		<TargetName ID="1">போர்ப்ஸ் மெடி-டெக்</TargetName>
+	</Name>
+	<Name ID="368">
+		<SourceName>forbesganj</SourceName>
+		<TargetName ID="1">ஃபோர்பெஸ்கஞ்ச்</TargetName>
+	</Name>
+	<Name ID="369">
+		<SourceName>forint</SourceName>
+		<TargetName ID="1">போரிண்ட்</TargetName>
+	</Name>
+	<Name ID="370">
+		<SourceName>fort aan de biltstraat</SourceName>
+		<TargetName ID="1">ஃப்போர்ட் ஆன் டி பில்ட்ஸ்ட்ராட்</TargetName>
+	</Name>
+	<Name ID="371">
+		<SourceName>fort bij asperen</SourceName>
+		<TargetName ID="1">ஃப்போர்ட் பிஜ் ஆஸ்பெரென்</TargetName>
+	</Name>
+	<Name ID="372">
+		<SourceName>fort bridger</SourceName>
+		<TargetName ID="1">ஃப்போர்ட் பிரிட்ஜர்</TargetName>
+	</Name>
+	<Name ID="373">
+		<SourceName>fort leonardo</SourceName>
+		<TargetName ID="1">ஃப்போர்ட் லியோனார்டோ</TargetName>
+	</Name>
+	<Name ID="374">
+		<SourceName>fort mcandrew</SourceName>
+		<TargetName ID="1">ஃப்போர்ட் மெக்கான்ட்ரூ</TargetName>
+	</Name>
+	<Name ID="375">
+		<SourceName>fort pepperrell</SourceName>
+		<TargetName ID="1">ஃப்போர்ட் பெப்பரெல்</TargetName>
+	</Name>
+	<Name ID="376">
+		<SourceName>fort smith</SourceName>
+		<TargetName ID="1">ஃப்போர்ட் ஸ்மித்</TargetName>
+	</Name>
+	<Name ID="377">
+		<SourceName>fort stark</SourceName>
+		<TargetName ID="1">ஃப்போர்ட் ஸ்டார்க்</TargetName>
+	</Name>
+	<Name ID="378">
+		<SourceName>fort william</SourceName>
+		<TargetName ID="1">ஃப்போர்ட் வில்லியம்</TargetName>
+	</Name>
+	<Name ID="379">
+		<SourceName>france</SourceName>
+		<TargetName ID="1">ஃபிரான்ஸ்</TargetName>
+	</Name>
+	<Name ID="380">
+		<SourceName>francois</SourceName>
+		<TargetName ID="1">ஃப்ரான்காய்ஸ்</TargetName>
+	</Name>
+	<Name ID="381">
+		<SourceName>freddie mac</SourceName>
+		<TargetName ID="1">பிரட்டி மேக்</TargetName>
+	</Name>
+	<Name ID="382">
+		<SourceName>free press journal</SourceName>
+		<TargetName ID="1">ஃப்ரீ பிரெஸ் ஜர்னல்</TargetName>
+	</Name>
+	<Name ID="383">
+		<SourceName>freestone</SourceName>
+		<TargetName ID="1">ஃப்ரீஸ்டோன்</TargetName>
+	</Name>
+	<Name ID="384">
+		<SourceName>friedland</SourceName>
+		<TargetName ID="1">ஃபிரைட்லாண்ட்</TargetName>
+	</Name>
+	<Name ID="385">
+		<SourceName>gaayatree</SourceName>
+		<TargetName ID="1">காயத்ரீ</TargetName>
+	</Name>
+	<Name ID="386">
+		<SourceName>gabri</SourceName>
+		<TargetName ID="1">காப்ரி</TargetName>
+	</Name>
+	<Name ID="387">
+		<SourceName>gaetan</SourceName>
+		<TargetName ID="1">கயேடன்</TargetName>
+	</Name>
+	<Name ID="388">
+		<SourceName>gaj</SourceName>
+		<TargetName ID="1">காஜ்</TargetName>
+	</Name>
+	<Name ID="389">
+		<SourceName>gajraj</SourceName>
+		<TargetName ID="1">கஜ்ராஜ்</TargetName>
+	</Name>
+	<Name ID="390">
+		<SourceName>gangaadhar</SourceName>
+		<TargetName ID="1">கங்காதர்</TargetName>
+	</Name>
+	<Name ID="391">
+		<SourceName>gangaganj</SourceName>
+		<TargetName ID="1">கங்காகஞ்ச்</TargetName>
+	</Name>
+	<Name ID="392">
+		<SourceName>garfield</SourceName>
+		<TargetName ID="1">கர்ஃபீல்ட்</TargetName>
+	</Name>
+	<Name ID="393">
+		<SourceName>gauraa</SourceName>
+		<TargetName ID="1">கெளரா</TargetName>
+	</Name>
+	<Name ID="394">
+		<SourceName>gaurik</SourceName>
+		<TargetName ID="1">கெளரிக்</TargetName>
+	</Name>
+	<Name ID="395">
+		<SourceName>gawarikar</SourceName>
+		<TargetName ID="1">கவாரிகர்</TargetName>
+	</Name>
+	<Name ID="396">
+		<SourceName>geeta ki saugandh</SourceName>
+		<TargetName ID="1">கீதா கி சௌகந்த்</TargetName>
+	</Name>
+	<Name ID="397">
+		<SourceName>gellert</SourceName>
+		<TargetName ID="1">ஜெல்லர்ட்</TargetName>
+	</Name>
+	<Name ID="398">
+		<SourceName>genevieve</SourceName>
+		<TargetName ID="1">ஜெனீவீ</TargetName>
+	</Name>
+	<Name ID="399">
+		<SourceName>geoff cope</SourceName>
+		<TargetName ID="1">ஜியோஃப் கோப்</TargetName>
+	</Name>
+	<Name ID="400">
+		<SourceName>germaine</SourceName>
+		<TargetName ID="1">ஜெர்மெய்ன்</TargetName>
+	</Name>
+	<Name ID="401">
+		<SourceName>gevra</SourceName>
+		<TargetName ID="1">கேவ்ரா</TargetName>
+	</Name>
+	<Name ID="402">
+		<SourceName>ghar ghar mein diwali</SourceName>
+		<TargetName ID="1">கர் கர் மெயின் திவாளி</TargetName>
+	</Name>
+	<Name ID="403">
+		<SourceName>ghar ki laaj</SourceName>
+		<TargetName ID="1">கர் கி லாஜ்</TargetName>
+	</Name>
+	<Name ID="404">
+		<SourceName>ghodgaonkar</SourceName>
+		<TargetName ID="1">கோத்கோன்கர்</TargetName>
+	</Name>
+	<Name ID="405">
+		<SourceName>ghufran</SourceName>
+		<TargetName ID="1">குஃப்ரன்</TargetName>
+	</Name>
+	<Name ID="406">
+		<SourceName>ghunghat wali</SourceName>
+		<TargetName ID="1">குந்கத் வாலி</TargetName>
+	</Name>
+	<Name ID="407">
+		<SourceName>giancarlo</SourceName>
+		<TargetName ID="1">கியகார்லோ</TargetName>
+	</Name>
+	<Name ID="408">
+		<SourceName>gilkicker</SourceName>
+		<TargetName ID="1">கில்லிகிக்கர்</TargetName>
+	</Name>
+	<Name ID="409">
+		<SourceName>glenys</SourceName>
+		<TargetName ID="1">கிலெனிஸ்</TargetName>
+	</Name>
+	<Name ID="410">
+		<SourceName>godfrey</SourceName>
+		<TargetName ID="1">காட்ஃப்ரீ</TargetName>
+	</Name>
+	<Name ID="411">
+		<SourceName>gogameri</SourceName>
+		<TargetName ID="1">கோகமேரி</TargetName>
+	</Name>
+	<Name ID="412">
+		<SourceName>gohana</SourceName>
+		<TargetName ID="1">கோஹானா</TargetName>
+	</Name>
+	<Name ID="413">
+		<SourceName>gohpur</SourceName>
+		<TargetName ID="1">கோஹ்பூர்</TargetName>
+	</Name>
+	<Name ID="414">
+		<SourceName>gokcen</SourceName>
+		<TargetName ID="1">கோக்சென்</TargetName>
+	</Name>
+	<Name ID="415">
+		<SourceName>gokul ka raja</SourceName>
+		<TargetName ID="1">கோகுல் கா ராஜா</TargetName>
+	</Name>
+	<Name ID="416">
+		<SourceName>golf</SourceName>
+		<TargetName ID="1">கோல்ஃப்</TargetName>
+	</Name>
+	<Name ID="417">
+		<SourceName>gondhalekar</SourceName>
+		<TargetName ID="1">கோந்தலேகர்</TargetName>
+	</Name>
+	<Name ID="418">
+		<SourceName>goonj</SourceName>
+		<TargetName ID="1">கூன்ஜ்</TargetName>
+	</Name>
+	<Name ID="419">
+		<SourceName>gopinath mohanti</SourceName>
+		<TargetName ID="1">கோபிநாத் மொஹந்தி</TargetName>
+	</Name>
+	<Name ID="420">
+		<SourceName>graeme watson</SourceName>
+		<TargetName ID="1">கிரேமெ வாட்சன்</TargetName>
+	</Name>
+	<Name ID="421">
+		<SourceName>gran canaria</SourceName>
+		<TargetName ID="1">கிரான் கனரியா</TargetName>
+	</Name>
+	<Name ID="422">
+		<SourceName>greaves</SourceName>
+		<TargetName ID="1">க்ரீவ்ஸ்</TargetName>
+	</Name>
+	<Name ID="423">
+		<SourceName>greg chappell</SourceName>
+		<TargetName ID="1">கிரெக் சாப்பல்</TargetName>
+	</Name>
+	<Name ID="424">
+		<SourceName>greg ritchie</SourceName>
+		<TargetName ID="1">கிரெக் ரிட்ச்சீ</TargetName>
+	</Name>
+	<Name ID="425">
+		<SourceName>greg thomas</SourceName>
+		<TargetName ID="1">கிரெக் தாமஸ்</TargetName>
+	</Name>
+	<Name ID="426">
+		<SourceName>grindwell norto</SourceName>
+		<TargetName ID="1">க்ரைண்ட்வெல் நார்டோ</TargetName>
+	</Name>
+	<Name ID="427">
+		<SourceName>groucho marcs</SourceName>
+		<TargetName ID="1">க்ரூச்சோ மார்க்ஸ்</TargetName>
+	</Name>
+	<Name ID="428">
+		<SourceName>gudia</SourceName>
+		<TargetName ID="1">குதியா</TargetName>
+	</Name>
+	<Name ID="429">
+		<SourceName>guglani</SourceName>
+		<TargetName ID="1">குக்லானி</TargetName>
+	</Name>
+	<Name ID="430">
+		<SourceName>gulami</SourceName>
+		<TargetName ID="1">குலாமி</TargetName>
+	</Name>
+	<Name ID="431">
+		<SourceName>gulshan</SourceName>
+		<TargetName ID="1">குல்ஷான்</TargetName>
+	</Name>
+	<Name ID="432">
+		<SourceName>gunaratne</SourceName>
+		<TargetName ID="1">குணரத்னே</TargetName>
+	</Name>
+	<Name ID="433">
+		<SourceName>guneru bamori</SourceName>
+		<TargetName ID="1">குணேரு பமோரி</TargetName>
+	</Name>
+	<Name ID="434">
+		<SourceName>gunjan</SourceName>
+		<TargetName ID="1">குன்ஜன்</TargetName>
+		<TargetName ID="2">குன்ஞ்சன்</TargetName>
+	</Name>
+	<Name ID="435">
+		<SourceName>gunwanti</SourceName>
+		<TargetName ID="1">குன்வன்தி</TargetName>
+	</Name>
+	<Name ID="436">
+		<SourceName>gurudwara betma sahib</SourceName>
+		<TargetName ID="1">குருத்வாரா பேட்மா சாஹிப்</TargetName>
+	</Name>
+	<Name ID="437">
+		<SourceName>gurudwara chubachha sahib</SourceName>
+		<TargetName ID="1">குருத்வாரா சுபச்சா சாஹிப்</TargetName>
+	</Name>
+	<Name ID="438">
+		<SourceName>gurudwara dhobari sahib</SourceName>
+		<TargetName ID="1">குருத்வாரா தோபரி சாஹிப்</TargetName>
+	</Name>
+	<Name ID="439">
+		<SourceName>gurudwara gowindwal sahib</SourceName>
+		<TargetName ID="1">குருத்வாரா கோவிந்த்வால் சாஹிப்</TargetName>
+	</Name>
+	<Name ID="440">
+		<SourceName>gurudwara tahliana sahib</SourceName>
+		<TargetName ID="1">குருத்வாரா டஹ்லியானா சாஹிப்</TargetName>
+	</Name>
+	<Name ID="441">
+		<SourceName>guy</SourceName>
+		<TargetName ID="1">கை</TargetName>
+	</Name>
+	<Name ID="442">
+		<SourceName>gyaan</SourceName>
+		<TargetName ID="1">ஞான்</TargetName>
+	</Name>
+	<Name ID="443">
+		<SourceName>hadi</SourceName>
+		<TargetName ID="1">ஹதி</TargetName>
+	</Name>
+	<Name ID="444">
+		<SourceName>hadiyah</SourceName>
+		<TargetName ID="1">ஹதியா</TargetName>
+	</Name>
+	<Name ID="445">
+		<SourceName>haitian merengue</SourceName>
+		<TargetName ID="1">ஹைதியன் மெரென்க்யூ</TargetName>
+	</Name>
+	<Name ID="446">
+		<SourceName>haitian revolution</SourceName>
+		<TargetName ID="1">ஹைடியன் ரெவல்யூஷன்</TargetName>
+	</Name>
+	<Name ID="447">
+		<SourceName>hamblen</SourceName>
+		<TargetName ID="1">ஹாம்பிலென்</TargetName>
+	</Name>
+	<Name ID="448">
+		<SourceName>hamzah fansuri</SourceName>
+		<TargetName ID="1">ஹாம்ஸா ஃப்பான்சுரி</TargetName>
+	</Name>
+	<Name ID="449">
+		<SourceName>hani</SourceName>
+		<TargetName ID="1">ஹனி</TargetName>
+	</Name>
+	<Name ID="450">
+		<SourceName>harshe</SourceName>
+		<TargetName ID="1">ஹர்ஷே</TargetName>
+	</Name>
+	<Name ID="451">
+		<SourceName>hasib</SourceName>
+		<TargetName ID="1">ஹாசிப்</TargetName>
+	</Name>
+	<Name ID="452">
+		<SourceName>hayyan</SourceName>
+		<TargetName ID="1">ஹய்யன்</TargetName>
+	</Name>
+	<Name ID="453">
+		<SourceName>helens</SourceName>
+		<TargetName ID="1">ஹெலென்ஸ்</TargetName>
+	</Name>
+	<Name ID="454">
+		<SourceName>henrico</SourceName>
+		<TargetName ID="1">ஹென்ரிகோ</TargetName>
+	</Name>
+	<Name ID="455">
+		<SourceName>hermes</SourceName>
+		<TargetName ID="1">ஹெர்மெஸ்</TargetName>
+	</Name>
+	<Name ID="456">
+		<SourceName>hersey</SourceName>
+		<TargetName ID="1">ஹெர்சி</TargetName>
+	</Name>
+	<Name ID="457">
+		<SourceName>hibatullah</SourceName>
+		<TargetName ID="1">ஹிபதுல்லா</TargetName>
+	</Name>
+	<Name ID="458">
+		<SourceName>him</SourceName>
+		<TargetName ID="1">ஹிம்</TargetName>
+	</Name>
+	<Name ID="459">
+		<SourceName>hind motors</SourceName>
+		<TargetName ID="1">ஹிந்த் மோட்டார்ஸ்</TargetName>
+	</Name>
+	<Name ID="460">
+		<SourceName>hindustaan</SourceName>
+		<TargetName ID="1">ஹிந்துஸ்தான்</TargetName>
+	</Name>
+	<Name ID="461">
+		<SourceName>honeymoon</SourceName>
+		<TargetName ID="1">ஹன்மூன்</TargetName>
+	</Name>
+	<Name ID="462">
+		<SourceName>husn banoo</SourceName>
+		<TargetName ID="1">ஹஸன் பனூ</TargetName>
+	</Name>
+	<Name ID="463">
+		<SourceName>iago</SourceName>
+		<TargetName ID="1">ஐகோ</TargetName>
+	</Name>
+	<Name ID="464">
+		<SourceName>idd mubarak</SourceName>
+		<TargetName ID="1">ஈத் முபாரக்</TargetName>
+	</Name>
+	<Name ID="465">
+		<SourceName>immanuel</SourceName>
+		<TargetName ID="1">இமானுவேல்</TargetName>
+	</Name>
+	<Name ID="466">
+		<SourceName>indomitable</SourceName>
+		<TargetName ID="1">இன்டாமிடபிள்</TargetName>
+	</Name>
+	<Name ID="467">
+		<SourceName>induprabha</SourceName>
+		<TargetName ID="1">இந்துபிரபா</TargetName>
+		<TargetName ID="2">இந்துப்பிரபா</TargetName>
+	</Name>
+	<Name ID="468">
+		<SourceName>intel</SourceName>
+		<TargetName ID="1">இண்டல்</TargetName>
+		<TargetName ID="2">இன்டெல்</TargetName>
+	</Name>
+	<Name ID="469">
+		<SourceName>iorwen</SourceName>
+		<TargetName ID="1">ஐஓர்வென்</TargetName>
+	</Name>
+	<Name ID="470">
+		<SourceName>jaal saaz</SourceName>
+		<TargetName ID="1">ஜால் சாஸ்</TargetName>
+	</Name>
+	<Name ID="471">
+		<SourceName>jack nicholson</SourceName>
+		<TargetName ID="1">ஜாக் நிகோல்சன்</TargetName>
+	</Name>
+	<Name ID="472">
+		<SourceName>jadu tona</SourceName>
+		<TargetName ID="1">ஜாடு டோனா</TargetName>
+	</Name>
+	<Name ID="473">
+		<SourceName>jadui bandhan</SourceName>
+		<TargetName ID="1">ஜாடுய் பந்தன்</TargetName>
+	</Name>
+	<Name ID="474">
+		<SourceName>jagadeesh</SourceName>
+		<TargetName ID="1">ஜகதீஷ்</TargetName>
+	</Name>
+	<Name ID="475">
+		<SourceName>jagdeesh</SourceName>
+		<TargetName ID="1">ஜகதீஷ்</TargetName>
+	</Name>
+	<Name ID="476">
+		<SourceName>jagran</SourceName>
+		<TargetName ID="1">ஜக்ரன்</TargetName>
+	</Name>
+	<Name ID="477">
+		<SourceName>jagur</SourceName>
+		<TargetName ID="1">ஜகுரி</TargetName>
+	</Name>
+	<Name ID="478">
+		<SourceName>jahdamah</SourceName>
+		<TargetName ID="1">ஜதாமா</TargetName>
+	</Name>
+	<Name ID="479">
+		<SourceName>jaishree</SourceName>
+		<TargetName ID="1">ஜெயஸ்ரீ</TargetName>
+		<TargetName ID="2">ஜெய்ஸ்ரீ</TargetName>
+	</Name>
+	<Name ID="480">
+		<SourceName>jalene</SourceName>
+		<TargetName ID="1">ஜேலீன்</TargetName>
+	</Name>
+	<Name ID="481">
+		<SourceName>james ormond</SourceName>
+		<TargetName ID="1">ஜேம்ஸ் ஆர்மண்ட்</TargetName>
+	</Name>
+	<Name ID="482">
+		<SourceName>jami</SourceName>
+		<TargetName ID="1">ஜாமி</TargetName>
+	</Name>
+	<Name ID="483">
+		<SourceName>jammu</SourceName>
+		<TargetName ID="1">ஜம்மூ</TargetName>
+	</Name>
+	<Name ID="484">
+		<SourceName>janet</SourceName>
+		<TargetName ID="1">ஜானட்</TargetName>
+	</Name>
+	<Name ID="485">
+		<SourceName>janis joplin</SourceName>
+		<TargetName ID="1">ஜானிஸ் ஜோப்லின்</TargetName>
+	</Name>
+	<Name ID="486">
+		<SourceName>janwar</SourceName>
+		<TargetName ID="1">ஜன்வார்</TargetName>
+	</Name>
+	<Name ID="487">
+		<SourceName>jasbeer</SourceName>
+		<TargetName ID="1">ஜஸ்பீர்</TargetName>
+	</Name>
+	<Name ID="488">
+		<SourceName>jasodhara</SourceName>
+		<TargetName ID="1">ஜஸோதரா</TargetName>
+	</Name>
+	<Name ID="489">
+		<SourceName>jassi</SourceName>
+		<TargetName ID="1">ஜாஸ்ஸி</TargetName>
+	</Name>
+	<Name ID="490">
+		<SourceName>javagal srinath</SourceName>
+		<TargetName ID="1">ஜவாகல் ஷ்ரினாத்</TargetName>
+	</Name>
+	<Name ID="491">
+		<SourceName>jayden</SourceName>
+		<TargetName ID="1">ஜெய்தேன்</TargetName>
+	</Name>
+	<Name ID="492">
+		<SourceName>jecy jackson</SourceName>
+		<TargetName ID="1">ஜெசி ஜாக்சன்</TargetName>
+	</Name>
+	<Name ID="493">
+		<SourceName>jeetan patel</SourceName>
+		<TargetName ID="1">ஜீட்டன் பட்டேல்</TargetName>
+	</Name>
+	<Name ID="494">
+		<SourceName>jeevankala</SourceName>
+		<TargetName ID="1">ஜீவன்கலா</TargetName>
+	</Name>
+	<Name ID="495">
+		<SourceName>jenaya</SourceName>
+		<TargetName ID="1">ஜெனாயா</TargetName>
+	</Name>
+	<Name ID="496">
+		<SourceName>jett</SourceName>
+		<TargetName ID="1">ஜேட்</TargetName>
+	</Name>
+	<Name ID="497">
+		<SourceName>jewel thief</SourceName>
+		<TargetName ID="1">ஜுவெல் தீஃப்</TargetName>
+	</Name>
+	<Name ID="498">
+		<SourceName>jewett-cameron trading company</SourceName>
+		<TargetName ID="1">ஜூவெட்-கேமரான் டிரேடிங் கம்பெனி</TargetName>
+	</Name>
+	<Name ID="499">
+		<SourceName>jharna</SourceName>
+		<TargetName ID="1">ஜார்னா</TargetName>
+	</Name>
+	<Name ID="500">
+		<SourceName>jillian</SourceName>
+		<TargetName ID="1">ஜில்லியன்</TargetName>
+	</Name>
+	<Name ID="501">
+		<SourceName>jiyo raja</SourceName>
+		<TargetName ID="1">ஜியோ ராஜா</TargetName>
+	</Name>
+	<Name ID="502">
+		<SourceName>john paul getty</SourceName>
+		<TargetName ID="1">ஜான் பால் கெட்டி</TargetName>
+	</Name>
+	<Name ID="503">
+		<SourceName>john traicos</SourceName>
+		<TargetName ID="1">ஜான் ட்ரெய்காஸ்</TargetName>
+	</Name>
+	<Name ID="504">
+		<SourceName>jubilant</SourceName>
+		<TargetName ID="1">ஜுபிலண்ட்</TargetName>
+	</Name>
+	<Name ID="505">
+		<SourceName>julfikar</SourceName>
+		<TargetName ID="1">ஜுல்ஃபிகர்</TargetName>
+	</Name>
+	<Name ID="506">
+		<SourceName>julie</SourceName>
+		<TargetName ID="1">ஜூலி</TargetName>
+	</Name>
+	<Name ID="507">
+		<SourceName>jyotsanaa</SourceName>
+		<TargetName ID="1">ஜோத்ஸ்னா</TargetName>
+	</Name>
+	<Name ID="508">
+		<SourceName>kaamagni</SourceName>
+		<TargetName ID="1">காமாக்னி</TargetName>
+	</Name>
+	<Name ID="509">
+		<SourceName>kabuli khan</SourceName>
+		<TargetName ID="1">கபுலி கான்</TargetName>
+	</Name>
+	<Name ID="510">
+		<SourceName>kaga</SourceName>
+		<TargetName ID="1">காகா</TargetName>
+	</Name>
+	<Name ID="511">
+		<SourceName>kahani ek chor ki</SourceName>
+		<TargetName ID="1">கஹானி ஏக் சோர் கி</TargetName>
+	</Name>
+	<Name ID="512">
+		<SourceName>kaiserin</SourceName>
+		<TargetName ID="1">கைசெரின்</TargetName>
+	</Name>
+	<Name ID="513">
+		<SourceName>kalahari</SourceName>
+		<TargetName ID="1">கலஹாரி</TargetName>
+	</Name>
+	<Name ID="514">
+		<SourceName>kalhan</SourceName>
+		<TargetName ID="1">கல்ஹன்</TargetName>
+	</Name>
+	<Name ID="515">
+		<SourceName>kamilia</SourceName>
+		<TargetName ID="1">காமிலியா</TargetName>
+	</Name>
+	<Name ID="516">
+		<SourceName>kamod</SourceName>
+		<TargetName ID="1">கமோத்</TargetName>
+	</Name>
+	<Name ID="517">
+		<SourceName>kantimoy</SourceName>
+		<TargetName ID="1">கான்டிமாய்</TargetName>
+	</Name>
+	<Name ID="518">
+		<SourceName>kapish</SourceName>
+		<TargetName ID="1">கபிஷ்</TargetName>
+	</Name>
+	<Name ID="519">
+		<SourceName>karale</SourceName>
+		<TargetName ID="1">கரலே</TargetName>
+	</Name>
+	<Name ID="520">
+		<SourceName>karnaal</SourceName>
+		<TargetName ID="1">கர்னால்</TargetName>
+	</Name>
+	<Name ID="521">
+		<SourceName>kartavya</SourceName>
+		<TargetName ID="1">கர்தவ்யா</TargetName>
+	</Name>
+	<Name ID="522">
+		<SourceName>kausar</SourceName>
+		<TargetName ID="1">கெளஸார்</TargetName>
+	</Name>
+	<Name ID="523">
+		<SourceName>kaydence</SourceName>
+		<TargetName ID="1">கேடென்ஸ்</TargetName>
+	</Name>
+	<Name ID="524">
+		<SourceName>kenneth star</SourceName>
+		<TargetName ID="1">கென்னத் ஸ்டார்</TargetName>
+	</Name>
+	<Name ID="525">
+		<SourceName>khag</SourceName>
+		<TargetName ID="1">காக்</TargetName>
+	</Name>
+	<Name ID="526">
+		<SourceName>khahira</SourceName>
+		<TargetName ID="1">காஹிரா</TargetName>
+	</Name>
+	<Name ID="527">
+		<SourceName>khalda</SourceName>
+		<TargetName ID="1">கால்டா</TargetName>
+	</Name>
+	<Name ID="528">
+		<SourceName>khaldun</SourceName>
+		<TargetName ID="1">கால்துன்</TargetName>
+	</Name>
+	<Name ID="529">
+		<SourceName>khatta meetha</SourceName>
+		<TargetName ID="1">கத்தா மீத்தா</TargetName>
+	</Name>
+	<Name ID="530">
+		<SourceName>khattkar</SourceName>
+		<TargetName ID="1">காட்கர்</TargetName>
+	</Name>
+	<Name ID="531">
+		<SourceName>khazanchi</SourceName>
+		<TargetName ID="1">கஸான்ச்சி</TargetName>
+	</Name>
+	<Name ID="532">
+		<SourceName>kher</SourceName>
+		<TargetName ID="1">கேர்</TargetName>
+	</Name>
+	<Name ID="533">
+		<SourceName>khidki</SourceName>
+		<TargetName ID="1">கித்கி</TargetName>
+	</Name>
+	<Name ID="534">
+		<SourceName>khidrah</SourceName>
+		<TargetName ID="1">கித்ரா</TargetName>
+	</Name>
+	<Name ID="535">
+		<SourceName>khiladi</SourceName>
+		<TargetName ID="1">கிலாடி</TargetName>
+	</Name>
+	<Name ID="536">
+		<SourceName>khoon aur sazaa</SourceName>
+		<TargetName ID="1">கூன் அவுர் சாஸா</TargetName>
+	</Name>
+	<Name ID="537">
+		<SourceName>king hussein</SourceName>
+		<TargetName ID="1">கிங் ஹுசேன்</TargetName>
+	</Name>
+	<Name ID="538">
+		<SourceName>kisan aur bhagwan</SourceName>
+		<TargetName ID="1">கிஸான் அவுர் பாக்வான்</TargetName>
+	</Name>
+	<Name ID="539">
+		<SourceName>kishen kanhaiya</SourceName>
+		<TargetName ID="1">கிஷென் கன்ஹையா</TargetName>
+	</Name>
+	<Name ID="540">
+		<SourceName>kiski biwi</SourceName>
+		<TargetName ID="1">கிஸ்கி பிவி</TargetName>
+	</Name>
+	<Name ID="541">
+		<SourceName>kiyedh</SourceName>
+		<TargetName ID="1">கியேத்</TargetName>
+	</Name>
+	<Name ID="542">
+		<SourceName>kochhar</SourceName>
+		<TargetName ID="1">கோச்சார்</TargetName>
+	</Name>
+	<Name ID="543">
+		<SourceName>kori</SourceName>
+		<TargetName ID="1">கோரி</TargetName>
+	</Name>
+	<Name ID="544">
+		<SourceName>kossuth prize</SourceName>
+		<TargetName ID="1">கொஸூத் ப்ரைஸ்</TargetName>
+	</Name>
+	<Name ID="545">
+		<SourceName>kristine</SourceName>
+		<TargetName ID="1">கிரிஸ்டி</TargetName>
+	</Name>
+	<Name ID="546">
+		<SourceName>krone</SourceName>
+		<TargetName ID="1">க்ரோன்</TargetName>
+	</Name>
+	<Name ID="547">
+		<SourceName>kudremukh</SourceName>
+		<TargetName ID="1">குட்ரிமுக்</TargetName>
+	</Name>
+	<Name ID="548">
+		<SourceName>kumano maru</SourceName>
+		<TargetName ID="1">குமானோ மாரு</TargetName>
+	</Name>
+	<Name ID="549">
+		<SourceName>kumudam</SourceName>
+		<TargetName ID="1">குமுதம்</TargetName>
+	</Name>
+	<Name ID="550">
+		<SourceName>la martiniere college</SourceName>
+		<TargetName ID="1">லா மார்ட்டினியர் காலேஜ்</TargetName>
+	</Name>
+	<Name ID="551">
+		<SourceName>la salle</SourceName>
+		<TargetName ID="1">லா சேல்</TargetName>
+	</Name>
+	<Name ID="552">
+		<SourceName>labangalata</SourceName>
+		<TargetName ID="1">லபன்கலாதா</TargetName>
+	</Name>
+	<Name ID="553">
+		<SourceName>lagoa do peixe</SourceName>
+		<TargetName ID="1">லகாவோ டோ பிக்ஸி</TargetName>
+	</Name>
+	<Name ID="554">
+		<SourceName>lahak</SourceName>
+		<TargetName ID="1">லஹக்</TargetName>
+	</Name>
+	<Name ID="555">
+		<SourceName>lake malawi</SourceName>
+		<TargetName ID="1">லேக் மலாவி</TargetName>
+	</Name>
+	<Name ID="556">
+		<SourceName>lambada</SourceName>
+		<TargetName ID="1">லம்பாடா</TargetName>
+	</Name>
+	<Name ID="557">
+		<SourceName>lancers</SourceName>
+		<TargetName ID="1">லான்செர்ஸ்</TargetName>
+	</Name>
+	<Name ID="558">
+		<SourceName>landler</SourceName>
+		<TargetName ID="1">லான்ட்லெர்</TargetName>
+	</Name>
+	<Name ID="559">
+		<SourceName>lankston</SourceName>
+		<TargetName ID="1">லங்ஸ்டன்</TargetName>
+	</Name>
+	<Name ID="560">
+		<SourceName>lanoptics</SourceName>
+		<TargetName ID="1">லான்அப்டிக்ஸ்</TargetName>
+	</Name>
+	<Name ID="561">
+		<SourceName>lanzarote</SourceName>
+		<TargetName ID="1">லான்ஸாரோதே</TargetName>
+	</Name>
+	<Name ID="562">
+		<SourceName>larkin</SourceName>
+		<TargetName ID="1">லார்கின்</TargetName>
+	</Name>
+	<Name ID="563">
+		<SourceName>les</SourceName>
+		<TargetName ID="1">லெஸ்</TargetName>
+	</Name>
+	<Name ID="564">
+		<SourceName>lester</SourceName>
+		<TargetName ID="1">லெஸ்டர்</TargetName>
+	</Name>
+	<Name ID="565">
+		<SourceName>liam plunkett</SourceName>
+		<TargetName ID="1">லியம் பிளன்கெட்</TargetName>
+	</Name>
+	<Name ID="566">
+		<SourceName>lilike</SourceName>
+		<TargetName ID="1">லிலிகே</TargetName>
+	</Name>
+	<Name ID="567">
+		<SourceName>lilka</SourceName>
+		<TargetName ID="1">லில்கா</TargetName>
+	</Name>
+	<Name ID="568">
+		<SourceName>linda trip</SourceName>
+		<TargetName ID="1">லிண்டா ட்ரிப்</TargetName>
+	</Name>
+	<Name ID="569">
+		<SourceName>lionel</SourceName>
+		<TargetName ID="1">லியோனெல்</TargetName>
+	</Name>
+	<Name ID="570">
+		<SourceName>little richard</SourceName>
+		<TargetName ID="1">லிட்டில் ரிச்சர்ட்</TargetName>
+	</Name>
+	<Name ID="571">
+		<SourceName>liverpool john moores university</SourceName>
+		<TargetName ID="1">லிவர்பூல் ஜான் மூர்ஸ் யூனிவர்சிட்டி</TargetName>
+	</Name>
+	<Name ID="572">
+		<SourceName>livvy</SourceName>
+		<TargetName ID="1">லிவ்வி</TargetName>
+	</Name>
+	<Name ID="573">
+		<SourceName>lloyd bridges</SourceName>
+		<TargetName ID="1">லாய்ட் ப்ரிட்ஜஸ்</TargetName>
+	</Name>
+	<Name ID="574">
+		<SourceName>london gatwick</SourceName>
+		<TargetName ID="1">லண்டன் காட்விக்</TargetName>
+	</Name>
+	<Name ID="575">
+		<SourceName>loréal</SourceName>
+		<TargetName ID="1">லோரியல்</TargetName>
+	</Name>
+	<Name ID="576">
+		<SourceName>louie</SourceName>
+		<TargetName ID="1">லுயி</TargetName>
+	</Name>
+	<Name ID="577">
+		<SourceName>luaka</SourceName>
+		<TargetName ID="1">லுவாகா</TargetName>
+	</Name>
+	<Name ID="578">
+		<SourceName>luanda</SourceName>
+		<TargetName ID="1">லுவான்டா</TargetName>
+	</Name>
+	<Name ID="579">
+		<SourceName>luciano pavarotti</SourceName>
+		<TargetName ID="1">லூசியாநொ பவாரோட்டி</TargetName>
+	</Name>
+	<Name ID="580">
+		<SourceName>lucille</SourceName>
+		<TargetName ID="1">லுசிலி</TargetName>
+	</Name>
+	<Name ID="581">
+		<SourceName>luharwali</SourceName>
+		<TargetName ID="1">லுஹார்வாலி</TargetName>
+	</Name>
+	<Name ID="582">
+		<SourceName>lynette</SourceName>
+		<TargetName ID="1">லினெட்</TargetName>
+	</Name>
+	<Name ID="583">
+		<SourceName>ma foi</SourceName>
+		<TargetName ID="1">மா ஃபோய்</TargetName>
+	</Name>
+	<Name ID="584">
+		<SourceName>macdonald</SourceName>
+		<TargetName ID="1">மெக்டொனால்ட்</TargetName>
+	</Name>
+	<Name ID="585">
+		<SourceName>madam zapatta</SourceName>
+		<TargetName ID="1">மேடம் ஸாபாட்டா</TargetName>
+	</Name>
+	<Name ID="586">
+		<SourceName>madan</SourceName>
+		<TargetName ID="1">மதன்</TargetName>
+	</Name>
+	<Name ID="587">
+		<SourceName>madanapaal</SourceName>
+		<TargetName ID="1">மதனபால்</TargetName>
+	</Name>
+	<Name ID="588">
+		<SourceName>madhu bansari</SourceName>
+		<TargetName ID="1">மாது பன்சாரி</TargetName>
+	</Name>
+	<Name ID="589">
+		<SourceName>madhusudhan</SourceName>
+		<TargetName ID="1">மதுசுதன்</TargetName>
+	</Name>
+	<Name ID="590">
+		<SourceName>madison</SourceName>
+		<TargetName ID="1">மாடிசன்</TargetName>
+		<TargetName ID="2">மேடிசன்</TargetName>
+	</Name>
+	<Name ID="591">
+		<SourceName>mahaavat</SourceName>
+		<TargetName ID="1">மஹாவத்</TargetName>
+	</Name>
+	<Name ID="592">
+		<SourceName>mahaganapati</SourceName>
+		<TargetName ID="1">மகாகணபதி</TargetName>
+	</Name>
+	<Name ID="593">
+		<SourceName>mahagit</SourceName>
+		<TargetName ID="1">மஹாகித்</TargetName>
+	</Name>
+	<Name ID="594">
+		<SourceName>maithili</SourceName>
+		<TargetName ID="1">மைதிலி</TargetName>
+	</Name>
+	<Name ID="595">
+		<SourceName>maitree</SourceName>
+		<TargetName ID="1">மைத்ரி</TargetName>
+	</Name>
+	<Name ID="596">
+		<SourceName>makaila</SourceName>
+		<TargetName ID="1">மகைலா</TargetName>
+	</Name>
+	<Name ID="597">
+		<SourceName>malhar</SourceName>
+		<TargetName ID="1">மால்ஹார்</TargetName>
+	</Name>
+	<Name ID="598">
+		<SourceName>malkin</SourceName>
+		<TargetName ID="1">மல்கின்</TargetName>
+	</Name>
+	<Name ID="599">
+		<SourceName>maltese</SourceName>
+		<TargetName ID="1">மால்டெஸ்ஸே</TargetName>
+	</Name>
+	<Name ID="600">
+		<SourceName>mande</SourceName>
+		<TargetName ID="1">மண்டே</TargetName>
+	</Name>
+	<Name ID="601">
+		<SourceName>mandelina</SourceName>
+		<TargetName ID="1">மேண்டலீனா</TargetName>
+	</Name>
+	<Name ID="602">
+		<SourceName>mandir</SourceName>
+		<TargetName ID="1">மன்திர்</TargetName>
+	</Name>
+	<Name ID="603">
+		<SourceName>mangat</SourceName>
+		<TargetName ID="1">மங்கத்</TargetName>
+	</Name>
+	<Name ID="604">
+		<SourceName>manimukthanadhi reservoir</SourceName>
+		<TargetName ID="1">மணிமுக்தாநதி ரிசர்வாயர்</TargetName>
+	</Name>
+	<Name ID="605">
+		<SourceName>manjural islam rana</SourceName>
+		<TargetName ID="1">மன்ஜுரல் இஸ்லாம் ரானா</TargetName>
+	</Name>
+	<Name ID="606">
+		<SourceName>manna christian fellowship</SourceName>
+		<TargetName ID="1">மன்னா கிறிஸ்டியன் பெல்லோஷிப்</TargetName>
+	</Name>
+	<Name ID="607">
+		<SourceName>maqsood rana</SourceName>
+		<TargetName ID="1">மக்ஸூத் ரானா</TargetName>
+	</Name>
+	<Name ID="608">
+		<SourceName>marchovelette</SourceName>
+		<TargetName ID="1">மார்சோவெலெட்டே</TargetName>
+	</Name>
+	<Name ID="609">
+		<SourceName>mard-e-maidan</SourceName>
+		<TargetName ID="1">மார்த்-இ-மைதான்</TargetName>
+	</Name>
+	<Name ID="610">
+		<SourceName>mardi</SourceName>
+		<TargetName ID="1">மார்டி</TargetName>
+	</Name>
+	<Name ID="611">
+		<SourceName>mareechi</SourceName>
+		<TargetName ID="1">மரீச்சி</TargetName>
+	</Name>
+	<Name ID="612">
+		<SourceName>marenda</SourceName>
+		<TargetName ID="1">மரெண்டா</TargetName>
+	</Name>
+	<Name ID="613">
+		<SourceName>margaret</SourceName>
+		<TargetName ID="1">மார்கரெட்</TargetName>
+	</Name>
+	<Name ID="614">
+		<SourceName>marian</SourceName>
+		<TargetName ID="1">மாரியன்</TargetName>
+	</Name>
+	<Name ID="615">
+		<SourceName>marianne williamson</SourceName>
+		<TargetName ID="1">மரியேன் வில்லியம்சன்</TargetName>
+	</Name>
+	<Name ID="616">
+		<SourceName>maribeth</SourceName>
+		<TargetName ID="1">மரிபெத்</TargetName>
+	</Name>
+	<Name ID="617">
+		<SourceName>mariya</SourceName>
+		<TargetName ID="1">மரியா</TargetName>
+	</Name>
+	<Name ID="618">
+		<SourceName>marjorie</SourceName>
+		<TargetName ID="1">மேர்ஜோரி</TargetName>
+	</Name>
+	<Name ID="619">
+		<SourceName>mark richardson</SourceName>
+		<TargetName ID="1">மார்க் ரிச்சட்சன்</TargetName>
+	</Name>
+	<Name ID="620">
+		<SourceName>mark twain</SourceName>
+		<TargetName ID="1">மார்க் ட்வெய்ன்</TargetName>
+	</Name>
+	<Name ID="621">
+		<SourceName>marlo</SourceName>
+		<TargetName ID="1">மார்லோ</TargetName>
+	</Name>
+	<Name ID="622">
+		<SourceName>marlon</SourceName>
+		<TargetName ID="1">மர்லான்</TargetName>
+	</Name>
+	<Name ID="623">
+		<SourceName>martanda</SourceName>
+		<TargetName ID="1">மார்டாண்டா</TargetName>
+	</Name>
+	<Name ID="624">
+		<SourceName>marvin</SourceName>
+		<TargetName ID="1">மர்வின்</TargetName>
+	</Name>
+	<Name ID="625">
+		<SourceName>marzuq</SourceName>
+		<TargetName ID="1">மர்ஸுக்</TargetName>
+	</Name>
+	<Name ID="626">
+		<SourceName>mashooqa</SourceName>
+		<TargetName ID="1">மாஷூகா</TargetName>
+	</Name>
+	<Name ID="627">
+		<SourceName>masood iqbal</SourceName>
+		<TargetName ID="1">ஃபைசால் இக்பால்</TargetName>
+	</Name>
+	<Name ID="628">
+		<SourceName>masrur</SourceName>
+		<TargetName ID="1">மஸ்ரூர்</TargetName>
+	</Name>
+	<Name ID="629">
+		<SourceName>massena</SourceName>
+		<TargetName ID="1">மாஸ்ஸெனா</TargetName>
+	</Name>
+	<Name ID="630">
+		<SourceName>matilda</SourceName>
+		<TargetName ID="1">மட்டில்டா</TargetName>
+	</Name>
+	<Name ID="631">
+		<SourceName>matondkar</SourceName>
+		<TargetName ID="1">மதோன்கர்</TargetName>
+	</Name>
+	<Name ID="632">
+		<SourceName>matrix lab</SourceName>
+		<TargetName ID="1">மேட்ரிக்ஸ் லேப்</TargetName>
+	</Name>
+	<Name ID="633">
+		<SourceName>matthew hoggard</SourceName>
+		<TargetName ID="1">மாத்யூ ஹோக்கார்ட்</TargetName>
+	</Name>
+	<Name ID="634">
+		<SourceName>maurice</SourceName>
+		<TargetName ID="1">மௌரிஸ்</TargetName>
+	</Name>
+	<Name ID="635">
+		<SourceName>maurilio</SourceName>
+		<TargetName ID="1">மௌரிலியோ</TargetName>
+	</Name>
+	<Name ID="636">
+		<SourceName>mayon</SourceName>
+		<TargetName ID="1">மாயோன்</TargetName>
+	</Name>
+	<Name ID="637">
+		<SourceName>mazda motor</SourceName>
+		<TargetName ID="1">மாஸ்த மோட்டார்</TargetName>
+	</Name>
+	<Name ID="638">
+		<SourceName>mazdoor zindabad</SourceName>
+		<TargetName ID="1">மஸ்தூர் ஸிந்தாபாத்</TargetName>
+	</Name>
+	<Name ID="639">
+		<SourceName>mcdonald's</SourceName>
+		<TargetName ID="1">மெக்டொனால்ட்ஸ்</TargetName>
+	</Name>
+	<Name ID="640">
+		<SourceName>mcdougal</SourceName>
+		<TargetName ID="1">மெக்டோகல்</TargetName>
+	</Name>
+	<Name ID="641">
+		<SourceName>meghana</SourceName>
+		<TargetName ID="1">மேகனா</TargetName>
+	</Name>
+	<Name ID="642">
+		<SourceName>melanie</SourceName>
+		<TargetName ID="1">மெலானி</TargetName>
+	</Name>
+	<Name ID="643">
+		<SourceName>melva</SourceName>
+		<TargetName ID="1">மெல்வா</TargetName>
+	</Name>
+	<Name ID="644">
+		<SourceName>mera dost</SourceName>
+		<TargetName ID="1">மேரா தோஸ்த்</TargetName>
+	</Name>
+	<Name ID="645">
+		<SourceName>mere humsafar</SourceName>
+		<TargetName ID="1">மேரெ ஹம்சாஃப்பர்</TargetName>
+	</Name>
+	<Name ID="646">
+		<SourceName>meri asha</SourceName>
+		<TargetName ID="1">மேரி ஆஷா</TargetName>
+	</Name>
+	<Name ID="647">
+		<SourceName>mevaaraam</SourceName>
+		<TargetName ID="1">மேவாராம்</TargetName>
+	</Name>
+	<Name ID="648">
+		<SourceName>meyrick pringle</SourceName>
+		<TargetName ID="1">மெய்ரிக் ப்ரிங்கிள்</TargetName>
+	</Name>
+	<Name ID="649">
+		<SourceName>michael vaughan</SourceName>
+		<TargetName ID="1">மாத்யூ வாகான்</TargetName>
+	</Name>
+	<Name ID="650">
+		<SourceName>mike whitney</SourceName>
+		<TargetName ID="1">மைக் விட்னி</TargetName>
+	</Name>
+	<Name ID="651">
+		<SourceName>milam bethany baptist</SourceName>
+		<TargetName ID="1">மிலம் பெதனி பேப்டிஸ்ட்</TargetName>
+	</Name>
+	<Name ID="652">
+		<SourceName>millennium technology prize</SourceName>
+		<TargetName ID="1">மில்லினியம் டெக்னாலஜி ப்ரைஸ்</TargetName>
+	</Name>
+	<Name ID="653">
+		<SourceName>mimbi</SourceName>
+		<TargetName ID="1">மிம்பி</TargetName>
+	</Name>
+	<Name ID="654">
+		<SourceName>mirc electronic</SourceName>
+		<TargetName ID="1">மிர்க் எலக்ட்ரானிக்</TargetName>
+	</Name>
+	<Name ID="655">
+		<SourceName>miss india</SourceName>
+		<TargetName ID="1">மிஸ் இண்டியா</TargetName>
+	</Name>
+	<Name ID="656">
+		<SourceName>mississippi</SourceName>
+		<TargetName ID="1">மிஸிஸிப்பி</TargetName>
+	</Name>
+	<Name ID="657">
+		<SourceName>moan</SourceName>
+		<TargetName ID="1">மோவான்</TargetName>
+	</Name>
+	<Name ID="658">
+		<SourceName>modern lady</SourceName>
+		<TargetName ID="1">மாடர்ன் லேடி</TargetName>
+	</Name>
+	<Name ID="659">
+		<SourceName>mohinee</SourceName>
+		<TargetName ID="1">மோஹினீ</TargetName>
+	</Name>
+	<Name ID="660">
+		<SourceName>molybdenum</SourceName>
+		<TargetName ID="1">மோலிப்டெனம்</TargetName>
+	</Name>
+	<Name ID="661">
+		<SourceName>moorat</SourceName>
+		<TargetName ID="1">மூரத்</TargetName>
+	</Name>
+	<Name ID="662">
+		<SourceName>morrisa</SourceName>
+		<TargetName ID="1">மோரிஸா</TargetName>
+	</Name>
+	<Name ID="663">
+		<SourceName>motherson</SourceName>
+		<TargetName ID="1">மதர்சன்</TargetName>
+	</Name>
+	<Name ID="664">
+		<SourceName>mradul</SourceName>
+		<TargetName ID="1">ம்ரடுல்</TargetName>
+	</Name>
+	<Name ID="665">
+		<SourceName>mriganka</SourceName>
+		<TargetName ID="1">ம்ரிகன்கா</TargetName>
+	</Name>
+	<Name ID="666">
+		<SourceName>mukand</SourceName>
+		<TargetName ID="1">முக்கந்த்</TargetName>
+	</Name>
+	<Name ID="667">
+		<SourceName>mukhlis</SourceName>
+		<TargetName ID="1">முக்லிஸ்</TargetName>
+	</Name>
+	<Name ID="668">
+		<SourceName>mundale</SourceName>
+		<TargetName ID="1">முந்தலே</TargetName>
+	</Name>
+	<Name ID="669">
+		<SourceName>munimji</SourceName>
+		<TargetName ID="1">முனிம்ஜி</TargetName>
+	</Name>
+	<Name ID="670">
+		<SourceName>murshidabad</SourceName>
+		<TargetName ID="1">முர்ஷிதாபாத்</TargetName>
+	</Name>
+	<Name ID="671">
+		<SourceName>musashi</SourceName>
+		<TargetName ID="1">முஸாஷி</TargetName>
+	</Name>
+	<Name ID="672">
+		<SourceName>museum of anthropology</SourceName>
+		<TargetName ID="1">மியூஸியம் ஆஃப் ஆன்த்ரோபாலஜி</TargetName>
+	</Name>
+	<Name ID="673">
+		<SourceName>musta'eenah</SourceName>
+		<TargetName ID="1">முஸ்தாயீனா</TargetName>
+	</Name>
+	<Name ID="674">
+		<SourceName>myrilla</SourceName>
+		<TargetName ID="1">மிரில்லா</TargetName>
+	</Name>
+	<Name ID="675">
+		<SourceName>na mumkin</SourceName>
+		<TargetName ID="1">நா மும்கின்</TargetName>
+	</Name>
+	<Name ID="676">
+		<SourceName>naag mani</SourceName>
+		<TargetName ID="1">நாக் மணி</TargetName>
+	</Name>
+	<Name ID="677">
+		<SourceName>naag nagin</SourceName>
+		<TargetName ID="1">நாக் நாகின்</TargetName>
+	</Name>
+	<Name ID="678">
+		<SourceName>nabhan</SourceName>
+		<TargetName ID="1">நபன்</TargetName>
+	</Name>
+	<Name ID="679">
+		<SourceName>nadaleen</SourceName>
+		<TargetName ID="1">நதலீன்</TargetName>
+	</Name>
+	<Name ID="680">
+		<SourceName>naman</SourceName>
+		<TargetName ID="1">நமன்</TargetName>
+	</Name>
+	<Name ID="681">
+		<SourceName>nand</SourceName>
+		<TargetName ID="1">நந்த்</TargetName>
+	</Name>
+	<Name ID="682">
+		<SourceName>napier university</SourceName>
+		<TargetName ID="1">நேப்பியர் யூனிவர்சிட்டி</TargetName>
+	</Name>
+	<Name ID="683">
+		<SourceName>nari raaj</SourceName>
+		<TargetName ID="1">நரி ராஜ்</TargetName>
+	</Name>
+	<Name ID="684">
+		<SourceName>neeti</SourceName>
+		<TargetName ID="1">நீதி</TargetName>
+	</Name>
+	<Name ID="685">
+		<SourceName>niamur</SourceName>
+		<TargetName ID="1">நியாமுர்</TargetName>
+	</Name>
+	<Name ID="686">
+		<SourceName>nicaragua</SourceName>
+		<TargetName ID="1">நிகராகுவா</TargetName>
+	</Name>
+	<Name ID="687">
+		<SourceName>nicola</SourceName>
+		<TargetName ID="1">நிகோலா</TargetName>
+	</Name>
+	<Name ID="688">
+		<SourceName>nicole brown simpson</SourceName>
+		<TargetName ID="1">நிகோல் பிரவுன் சிம்சன்</TargetName>
+	</Name>
+	<Name ID="689">
+		<SourceName>nilay</SourceName>
+		<TargetName ID="1">நிலய்</TargetName>
+	</Name>
+	<Name ID="690">
+		<SourceName>ninad</SourceName>
+		<TargetName ID="1">நினாத்</TargetName>
+	</Name>
+	<Name ID="691">
+		<SourceName>nippon express</SourceName>
+		<TargetName ID="1">நிப்பான் எக்ஸ்பிரஸ்</TargetName>
+	</Name>
+	<Name ID="692">
+		<SourceName>nippon mining holdings</SourceName>
+		<TargetName ID="1">நிப்பான் மைனிங் ஹோல்டிங்ஸ்</TargetName>
+	</Name>
+	<Name ID="693">
+		<SourceName>nishithini</SourceName>
+		<TargetName ID="1">நிஷிதினி</TargetName>
+	</Name>
+	<Name ID="694">
+		<SourceName>nizam</SourceName>
+		<TargetName ID="1">நிஸாம்</TargetName>
+	</Name>
+	<Name ID="695">
+		<SourceName>noriega</SourceName>
+		<TargetName ID="1">நொரெய்கா</TargetName>
+	</Name>
+	<Name ID="696">
+		<SourceName>norton</SourceName>
+		<TargetName ID="1">நார்டன்</TargetName>
+	</Name>
+	<Name ID="697">
+		<SourceName>nurpuri</SourceName>
+		<TargetName ID="1">நுர்பூரி</TargetName>
+	</Name>
+	<Name ID="698">
+		<SourceName>oberoi hotels</SourceName>
+		<TargetName ID="1">ஓப்ராய் ஹோட்டல்ஸ்</TargetName>
+	</Name>
+	<Name ID="699">
+		<SourceName>okaloosa</SourceName>
+		<TargetName ID="1">ஒகாலூஸா</TargetName>
+	</Name>
+	<Name ID="700">
+		<SourceName>okinoshima</SourceName>
+		<TargetName ID="1">ஓகினோஷிமா</TargetName>
+	</Name>
+	<Name ID="701">
+		<SourceName>omkar</SourceName>
+		<TargetName ID="1">ஓம்கார்</TargetName>
+	</Name>
+	<Name ID="702">
+		<SourceName>open door baptist</SourceName>
+		<TargetName ID="1">ஓபன் டோர் பேப்டிஸ்ட்</TargetName>
+	</Name>
+	<Name ID="703">
+		<SourceName>orrin</SourceName>
+		<TargetName ID="1">ஓரின்</TargetName>
+	</Name>
+	<Name ID="704">
+		<SourceName>pacific internet limited</SourceName>
+		<TargetName ID="1">பஸிஃபிக் இன்டர்நெட் லிமிடெட்</TargetName>
+	</Name>
+	<Name ID="705">
+		<SourceName>padma shri</SourceName>
+		<TargetName ID="1">பத்ம ஸ்ரீ</TargetName>
+	</Name>
+	<Name ID="706">
+		<SourceName>pahunche hue log</SourceName>
+		<TargetName ID="1">பஹுன்செ ஹூயே லாக்</TargetName>
+	</Name>
+	<Name ID="707">
+		<SourceName>paise ki gudiya</SourceName>
+		<TargetName ID="1">பைசெ கி குடியா</TargetName>
+	</Name>
+	<Name ID="708">
+		<SourceName>palestro</SourceName>
+		<TargetName ID="1">பாலெஸ்டிரோ</TargetName>
+	</Name>
+	<Name ID="709">
+		<SourceName>pam</SourceName>
+		<TargetName ID="1">பாம்</TargetName>
+	</Name>
+	<Name ID="710">
+		<SourceName>pamposh</SourceName>
+		<TargetName ID="1">பம்போஷ்</TargetName>
+	</Name>
+	<Name ID="711">
+		<SourceName>pandhari</SourceName>
+		<TargetName ID="1">பண்டரி</TargetName>
+	</Name>
+	<Name ID="712">
+		<SourceName>pannagesh</SourceName>
+		<TargetName ID="1">பன்னாகேஷ்</TargetName>
+	</Name>
+	<Name ID="713">
+		<SourceName>papua new guinea</SourceName>
+		<TargetName ID="1">பபுவா நியூ கினியா</TargetName>
+	</Name>
+	<Name ID="714">
+		<SourceName>paraas</SourceName>
+		<TargetName ID="1">பராஸ்</TargetName>
+	</Name>
+	<Name ID="715">
+		<SourceName>parakh</SourceName>
+		<TargetName ID="1">பர்ரக்</TargetName>
+	</Name>
+	<Name ID="716">
+		<SourceName>parasmani</SourceName>
+		<TargetName ID="1">பாரஸ்மணி</TargetName>
+		<TargetName ID="2">பாரஸ்மனி</TargetName>
+	</Name>
+	<Name ID="717">
+		<SourceName>parle</SourceName>
+		<TargetName ID="1">பார்லே</TargetName>
+	</Name>
+	<Name ID="718">
+		<SourceName>paroma</SourceName>
+		<TargetName ID="1">பரோமா</TargetName>
+	</Name>
+	<Name ID="719">
+		<SourceName>partner</SourceName>
+		<TargetName ID="1">பார்ட்னர்</TargetName>
+	</Name>
+	<Name ID="720">
+		<SourceName>pathyaa</SourceName>
+		<TargetName ID="1">பத்யா</TargetName>
+	</Name>
+	<Name ID="721">
+		<SourceName>patterson thompson</SourceName>
+		<TargetName ID="1">பேட்டர்சன் தாம்சன்</TargetName>
+	</Name>
+	<Name ID="722">
+		<SourceName>paul grayson</SourceName>
+		<TargetName ID="1">பால் கிரேசன்</TargetName>
+	</Name>
+	<Name ID="723">
+		<SourceName>peder skram</SourceName>
+		<TargetName ID="1">பெடர் ஸ்க்ராம்</TargetName>
+	</Name>
+	<Name ID="724">
+		<SourceName>penney</SourceName>
+		<TargetName ID="1">பென்னி</TargetName>
+	</Name>
+	<Name ID="725">
+		<SourceName>perrier comedy award</SourceName>
+		<TargetName ID="1">பெர்ரியர் காமெடி அவார்ட்</TargetName>
+	</Name>
+	<Name ID="726">
+		<SourceName>phiroza</SourceName>
+		<TargetName ID="1">ஃபிரோஸா</TargetName>
+	</Name>
+	<Name ID="727">
+		<SourceName>pinehurst</SourceName>
+		<TargetName ID="1">பைன்ஹர்ஸ்ட்</TargetName>
+	</Name>
+	<Name ID="728">
+		<SourceName>pooja ke phool</SourceName>
+		<TargetName ID="1">பூஜா கே ஃப்பூள்</TargetName>
+	</Name>
+	<Name ID="729">
+		<SourceName>poornayogee</SourceName>
+		<TargetName ID="1">பூர்ணயோகி</TargetName>
+	</Name>
+	<Name ID="730">
+		<SourceName>potemkin</SourceName>
+		<TargetName ID="1">போடெம்கின்</TargetName>
+	</Name>
+	<Name ID="731">
+		<SourceName>prabhat</SourceName>
+		<TargetName ID="1">பிரபாத்</TargetName>
+		<TargetName ID="2">பிராபாத்</TargetName>
+	</Name>
+	<Name ID="732">
+		<SourceName>prabhuraam</SourceName>
+		<TargetName ID="1">பிரபுராம்</TargetName>
+	</Name>
+	<Name ID="733">
+		<SourceName>prag</SourceName>
+		<TargetName ID="1">பிராக்</TargetName>
+	</Name>
+	<Name ID="734">
+		<SourceName>pragathi high school, sitaphalmandi, secunderabad</SourceName>
+		<TargetName ID="1">பிராகதி ஹ ஸ்கூல், சிதாபால்மாண்டி, செக்குந்திராபாத்</TargetName>
+	</Name>
+	<Name ID="735">
+		<SourceName>prajavani</SourceName>
+		<TargetName ID="1">பிரஜாவானி</TargetName>
+	</Name>
+	<Name ID="736">
+		<SourceName>pranav</SourceName>
+		<TargetName ID="1">ப்ரனவ்</TargetName>
+	</Name>
+	<Name ID="737">
+		<SourceName>praseodymium</SourceName>
+		<TargetName ID="1">பிராசியோடிமியம்</TargetName>
+	</Name>
+	<Name ID="738">
+		<SourceName>preussen</SourceName>
+		<TargetName ID="1">பிரூஸ்ஸென்</TargetName>
+	</Name>
+	<Name ID="739">
+		<SourceName>princess sarah ferguson</SourceName>
+		<TargetName ID="1">ப்ரின்சஸ் சாரா ஃபெர்குசன்</TargetName>
+	</Name>
+	<Name ID="740">
+		<SourceName>prisca</SourceName>
+		<TargetName ID="1">ப்ரிஸ்கா</TargetName>
+	</Name>
+	<Name ID="741">
+		<SourceName>pritikana</SourceName>
+		<TargetName ID="1">ப்ரீத்திகானா</TargetName>
+	</Name>
+	<Name ID="742">
+		<SourceName>private detective</SourceName>
+		<TargetName ID="1">பிரைவெட் டிடெக்ட்டிவ்</TargetName>
+	</Name>
+	<Name ID="743">
+		<SourceName>prix ars electronica</SourceName>
+		<TargetName ID="1">ப்ரிக்ஸ் அர்ஸ் எலக்ட்ரானிகா</TargetName>
+	</Name>
+	<Name ID="744">
+		<SourceName>psaltery</SourceName>
+		<TargetName ID="1">ப்சால்டெரி</TargetName>
+	</Name>
+	<Name ID="745">
+		<SourceName>pujit</SourceName>
+		<TargetName ID="1">புஜித்</TargetName>
+	</Name>
+	<Name ID="746">
+		<SourceName>puranik</SourceName>
+		<TargetName ID="1">புரானிக்</TargetName>
+	</Name>
+	<Name ID="747">
+		<SourceName>puri</SourceName>
+		<TargetName ID="1">பூரி</TargetName>
+	</Name>
+	<Name ID="748">
+		<SourceName>purity</SourceName>
+		<TargetName ID="1">ப்யூரிட்டி</TargetName>
+	</Name>
+	<Name ID="749">
+		<SourceName>pushpen_dr</SourceName>
+		<TargetName ID="1">புஷ்பேந்தர்</TargetName>
+	</Name>
+	<Name ID="750">
+		<SourceName>pyar ki baaten</SourceName>
+		<TargetName ID="1">பியார் கி பாத்தென்</TargetName>
+	</Name>
+	<Name ID="751">
+		<SourceName>qareebah</SourceName>
+		<TargetName ID="1">கரீபா</TargetName>
+	</Name>
+	<Name ID="752">
+		<SourceName>quasi-war</SourceName>
+		<TargetName ID="1">குவாஸி-வார்</TargetName>
+	</Name>
+	<Name ID="753">
+		<SourceName>raamalaal</SourceName>
+		<TargetName ID="1">ராமலால்</TargetName>
+	</Name>
+	<Name ID="754">
+		<SourceName>raameshvar</SourceName>
+		<TargetName ID="1">ராமேஷ்வர்</TargetName>
+	</Name>
+	<Name ID="755">
+		<SourceName>rabah</SourceName>
+		<TargetName ID="1">ரபஹ்</TargetName>
+	</Name>
+	<Name ID="756">
+		<SourceName>rachit</SourceName>
+		<TargetName ID="1">ரசித்</TargetName>
+	</Name>
+	<Name ID="757">
+		<SourceName>rachna</SourceName>
+		<TargetName ID="1">ரச்னா</TargetName>
+	</Name>
+	<Name ID="758">
+		<SourceName>radio academy awards</SourceName>
+		<TargetName ID="1">ரேடியோ அகாடமி அவார்ட்</TargetName>
+	</Name>
+	<Name ID="759">
+		<SourceName>raghavendra</SourceName>
+		<TargetName ID="1">ராகவேந்திரா</TargetName>
+	</Name>
+	<Name ID="760">
+		<SourceName>raiseni</SourceName>
+		<TargetName ID="1">ராய்சேனி</TargetName>
+	</Name>
+	<Name ID="761">
+		<SourceName>raj kanya</SourceName>
+		<TargetName ID="1">ராஜ் கன்யா</TargetName>
+	</Name>
+	<Name ID="762">
+		<SourceName>rajasthan patrika</SourceName>
+		<TargetName ID="1">ராஜஸ்தான் பத்ரிகா</TargetName>
+	</Name>
+	<Name ID="763">
+		<SourceName>rajgad fort</SourceName>
+		<TargetName ID="1">ராஜ்காத் ஃப்போர்ட்</TargetName>
+	</Name>
+	<Name ID="764">
+		<SourceName>rajnandgaon</SourceName>
+		<TargetName ID="1">ராஜ்நன்த்கவூன்</TargetName>
+	</Name>
+	<Name ID="765">
+		<SourceName>rajouri</SourceName>
+		<TargetName ID="1">ராஜவுரி</TargetName>
+	</Name>
+	<Name ID="766">
+		<SourceName>rakesh</SourceName>
+		<TargetName ID="1">ராகேஷ்</TargetName>
+	</Name>
+	<Name ID="767">
+		<SourceName>ram lakhan</SourceName>
+		<TargetName ID="1">ராம் லக்கான்</TargetName>
+	</Name>
+	<Name ID="768">
+		<SourceName>ranajay</SourceName>
+		<TargetName ID="1">ரனஜய்</TargetName>
+	</Name>
+	<Name ID="769">
+		<SourceName>randheer</SourceName>
+		<TargetName ID="1">ரந்தீர்</TargetName>
+	</Name>
+	<Name ID="770">
+		<SourceName>rangeen zamana</SourceName>
+		<TargetName ID="1">ரங்கீன் ஸமானா</TargetName>
+	</Name>
+	<Name ID="771">
+		<SourceName>ranjini</SourceName>
+		<TargetName ID="1">ரஞ்சனி</TargetName>
+	</Name>
+	<Name ID="772">
+		<SourceName>ranthambor</SourceName>
+		<TargetName ID="1">ரந்தம்பூர்</TargetName>
+	</Name>
+	<Name ID="773">
+		<SourceName>rashmil</SourceName>
+		<TargetName ID="1">ராஷ்மில்</TargetName>
+	</Name>
+	<Name ID="774">
+		<SourceName>ratan</SourceName>
+		<TargetName ID="1">ரதன்</TargetName>
+		<TargetName ID="2">ரத்தன்</TargetName>
+	</Name>
+	<Name ID="775">
+		<SourceName>raton ka raja</SourceName>
+		<TargetName ID="1">ராதோன் கா ராஜா</TargetName>
+	</Name>
+	<Name ID="776">
+		<SourceName>ravi shastri</SourceName>
+		<TargetName ID="1">ரவி ஷாஸ்த்ரி</TargetName>
+	</Name>
+	<Name ID="777">
+		<SourceName>ravinandan</SourceName>
+		<TargetName ID="1">ரவிநந்தன்</TargetName>
+	</Name>
+	<Name ID="778">
+		<SourceName>rawahah</SourceName>
+		<TargetName ID="1">ரவஹாஹ்</TargetName>
+	</Name>
+	<Name ID="779">
+		<SourceName>ray bright</SourceName>
+		<TargetName ID="1">ரே பிரைட்</TargetName>
+	</Name>
+	<Name ID="780">
+		<SourceName>reginald</SourceName>
+		<TargetName ID="1">ரெஜினால்ட்</TargetName>
+	</Name>
+	<Name ID="781">
+		<SourceName>reno</SourceName>
+		<TargetName ID="1">ரேனோ</TargetName>
+	</Name>
+	<Name ID="782">
+		<SourceName>renuka</SourceName>
+		<TargetName ID="1">ரேணுகா</TargetName>
+		<TargetName ID="2">ரேனுகா</TargetName>
+	</Name>
+	<Name ID="783">
+		<SourceName>rewa</SourceName>
+		<TargetName ID="1">ரீவா</TargetName>
+	</Name>
+	<Name ID="784">
+		<SourceName>rianne</SourceName>
+		<TargetName ID="1">ரியன்னா</TargetName>
+	</Name>
+	<Name ID="785">
+		<SourceName>richard</SourceName>
+		<TargetName ID="1">ரிச்சர்ட்</TargetName>
+	</Name>
+	<Name ID="786">
+		<SourceName>ridley jacobs</SourceName>
+		<TargetName ID="1">ரிட்லி ஜேக்கப்ஸ்</TargetName>
+	</Name>
+	<Name ID="787">
+		<SourceName>ringgit</SourceName>
+		<TargetName ID="1">ரிங்கிட்</TargetName>
+	</Name>
+	<Name ID="788">
+		<SourceName>rishiyaketu</SourceName>
+		<TargetName ID="1">ரிஷியகேது</TargetName>
+	</Name>
+	<Name ID="789">
+		<SourceName>rishta kagaz ka</SourceName>
+		<TargetName ID="1">ரிஷ்டா காகாஸ் கா</TargetName>
+	</Name>
+	<Name ID="790">
+		<SourceName>robbie hart</SourceName>
+		<TargetName ID="1">ராபி ஹார்ட்</TargetName>
+	</Name>
+	<Name ID="791">
+		<SourceName>rochak</SourceName>
+		<TargetName ID="1">ரோசக்</TargetName>
+	</Name>
+	<Name ID="792">
+		<SourceName>rockbrook united</SourceName>
+		<TargetName ID="1">ராக்புரூக் யுனைட்டெட்</TargetName>
+	</Name>
+	<Name ID="793">
+		<SourceName>rockwell</SourceName>
+		<TargetName ID="1">ராக்வெல்</TargetName>
+	</Name>
+	<Name ID="794">
+		<SourceName>romeo</SourceName>
+		<TargetName ID="1">ரோமியோ</TargetName>
+	</Name>
+	<Name ID="795">
+		<SourceName>ronia</SourceName>
+		<TargetName ID="1">ரோனியா</TargetName>
+	</Name>
+	<Name ID="796">
+		<SourceName>roop lekha</SourceName>
+		<TargetName ID="1">ரூப் லேகா</TargetName>
+	</Name>
+	<Name ID="797">
+		<SourceName>roop rupaiya</SourceName>
+		<TargetName ID="1">ரூப் ருபையா</TargetName>
+	</Name>
+	<Name ID="798">
+		<SourceName>rudi steyn</SourceName>
+		<TargetName ID="1">ரூடி ஸ்டேயின்</TargetName>
+	</Name>
+	<Name ID="799">
+		<SourceName>rue</SourceName>
+		<TargetName ID="1">ருய்</TargetName>
+	</Name>
+	<Name ID="800">
+		<SourceName>rupak</SourceName>
+		<TargetName ID="1">ருபக்</TargetName>
+	</Name>
+	<Name ID="801">
+		<SourceName>saathe</SourceName>
+		<TargetName ID="1">சாத்தே</TargetName>
+	</Name>
+	<Name ID="802">
+		<SourceName>saber</SourceName>
+		<TargetName ID="1">சபெர்</TargetName>
+		<TargetName ID="2">சாபெர்</TargetName>
+	</Name>
+	<Name ID="803">
+		<SourceName>sachai ki taqat</SourceName>
+		<TargetName ID="1">ஸசாயி கி தாகாத்</TargetName>
+	</Name>
+	<Name ID="804">
+		<SourceName>sacramento</SourceName>
+		<TargetName ID="1">ஸாக்ராமென்டோ</TargetName>
+	</Name>
+	<Name ID="805">
+		<SourceName>sadanand</SourceName>
+		<TargetName ID="1">சதானந்த்</TargetName>
+	</Name>
+	<Name ID="806">
+		<SourceName>sadhna</SourceName>
+		<TargetName ID="1">சாத்னா</TargetName>
+	</Name>
+	<Name ID="807">
+		<SourceName>sagar ka sher</SourceName>
+		<TargetName ID="1">சாகார் கா ஷெர்</TargetName>
+	</Name>
+	<Name ID="808">
+		<SourceName>sahastrraajun</SourceName>
+		<TargetName ID="1">சஹஸ்த்ராஜுன்</TargetName>
+	</Name>
+	<Name ID="809">
+		<SourceName>sahirah</SourceName>
+		<TargetName ID="1">சஹிரா</TargetName>
+	</Name>
+	<Name ID="810">
+		<SourceName>saint stanislaus high school. mumbai</SourceName>
+		<TargetName ID="1">செயிண்ட் ஸ்டானிஸ்லாஸ் ஹை ஸ்கூல், மும்பை</TargetName>
+	</Name>
+	<Name ID="811">
+		<SourceName>salaam memsaab</SourceName>
+		<TargetName ID="1">சலாம் மெம்சாப்</TargetName>
+	</Name>
+	<Name ID="812">
+		<SourceName>salif</SourceName>
+		<TargetName ID="1">சலிஃப்</TargetName>
+	</Name>
+	<Name ID="813">
+		<SourceName>samant</SourceName>
+		<TargetName ID="1">சமன்த்</TargetName>
+	</Name>
+	<Name ID="814">
+		<SourceName>samata</SourceName>
+		<TargetName ID="1">சமதா</TargetName>
+	</Name>
+	<Name ID="815">
+		<SourceName>sambhav</SourceName>
+		<TargetName ID="1">சம்பவ்</TargetName>
+	</Name>
+	<Name ID="816">
+		<SourceName>sanchaya</SourceName>
+		<TargetName ID="1">சஞ்சயா</TargetName>
+	</Name>
+	<Name ID="817">
+		<SourceName>sandoval</SourceName>
+		<TargetName ID="1">சான்டோவல்</TargetName>
+	</Name>
+	<Name ID="818">
+		<SourceName>sangeeta</SourceName>
+		<TargetName ID="1">சங்கீதா</TargetName>
+	</Name>
+	<Name ID="819">
+		<SourceName>sanjeevani</SourceName>
+		<TargetName ID="1">சஞ்சீவானி</TargetName>
+	</Name>
+	<Name ID="820">
+		<SourceName>sanjula</SourceName>
+		<TargetName ID="1">சஞ்ஜுலா</TargetName>
+	</Name>
+	<Name ID="821">
+		<SourceName>santoor</SourceName>
+		<TargetName ID="1">சந்தூர்</TargetName>
+	</Name>
+	<Name ID="822">
+		<SourceName>sao joaquim</SourceName>
+		<TargetName ID="1">சாவோ ஜாவோகியம்</TargetName>
+	</Name>
+	<Name ID="823">
+		<SourceName>sarkari mehman</SourceName>
+		<TargetName ID="1">சர்க்காரி மெஹ்மான்</TargetName>
+	</Name>
+	<Name ID="824">
+		<SourceName>sarswati</SourceName>
+		<TargetName ID="1">சர்ஸ்வதி</TargetName>
+	</Name>
+	<Name ID="825">
+		<SourceName>satsuma</SourceName>
+		<TargetName ID="1">சாட்சுமா</TargetName>
+	</Name>
+	<Name ID="826">
+		<SourceName>satyam computers</SourceName>
+		<TargetName ID="1">சத்யம் கம்ப்யூட்டர்ஸ்</TargetName>
+	</Name>
+	<Name ID="827">
+		<SourceName>savannah</SourceName>
+		<TargetName ID="1">சவன்னா</TargetName>
+	</Name>
+	<Name ID="828">
+		<SourceName>schock prize in mathematics</SourceName>
+		<TargetName ID="1">ஷோக் ப்ரைஸ் இன் மேத்தமேட்டிக்ஸ்</TargetName>
+	</Name>
+	<Name ID="829">
+		<SourceName>scottish museum of transport</SourceName>
+		<TargetName ID="1">ஸ்காட்டிஷ் மியூஸியம் ஆஃப் டிரான்ஸ்போர்ட்</TargetName>
+	</Name>
+	<Name ID="830">
+		<SourceName>serra dos orgaos</SourceName>
+		<TargetName ID="1">செர்ரா டாஸ் ஆர்காவோஸ்</TargetName>
+	</Name>
+	<Name ID="831">
+		<SourceName>seven seas</SourceName>
+		<TargetName ID="1">செவன் சீஸ்</TargetName>
+	</Name>
+	<Name ID="832">
+		<SourceName>sevier</SourceName>
+		<TargetName ID="1">செவியர்</TargetName>
+	</Name>
+	<Name ID="833">
+		<SourceName>shaanxi history museum</SourceName>
+		<TargetName ID="1">ஷான்க்ஸி ஹிஸ்டரி மியூஸியம்</TargetName>
+	</Name>
+	<Name ID="834">
+		<SourceName>shabab</SourceName>
+		<TargetName ID="1">ஷபாப்</TargetName>
+		<TargetName ID="2">ஷாபாப்</TargetName>
+	</Name>
+	<Name ID="835">
+		<SourceName>shabnam</SourceName>
+		<TargetName ID="1">ஷப்னம்</TargetName>
+	</Name>
+	<Name ID="836">
+		<SourceName>shane bond</SourceName>
+		<TargetName ID="1">ஷேன் பாண்ட்</TargetName>
+	</Name>
+	<Name ID="837">
+		<SourceName>shatayu</SourceName>
+		<TargetName ID="1">ஷதயு</TargetName>
+	</Name>
+	<Name ID="838">
+		<SourceName>sherise</SourceName>
+		<TargetName ID="1">ஷெரைஸ்</TargetName>
+	</Name>
+	<Name ID="839">
+		<SourceName>shibani</SourceName>
+		<TargetName ID="1">ஷிபானி</TargetName>
+	</Name>
+	<Name ID="840">
+		<SourceName>shikarpuri</SourceName>
+		<TargetName ID="1">ஷிகார்புரி</TargetName>
+	</Name>
+	<Name ID="841">
+		<SourceName>shim sham</SourceName>
+		<TargetName ID="1">ஷிம் ஷாம்</TargetName>
+	</Name>
+	<Name ID="842">
+		<SourceName>shipra</SourceName>
+		<TargetName ID="1">ஷிப்ரா</TargetName>
+	</Name>
+	<Name ID="843">
+		<SourceName>shisham</SourceName>
+		<TargetName ID="1">ஷிஷாம்</TargetName>
+	</Name>
+	<Name ID="844">
+		<SourceName>shivaa</SourceName>
+		<TargetName ID="1">ஷிவா</TargetName>
+	</Name>
+	<Name ID="845">
+		<SourceName>shivadaan</SourceName>
+		<TargetName ID="1">ஷிவதான்</TargetName>
+	</Name>
+	<Name ID="846">
+		<SourceName>shobha</SourceName>
+		<TargetName ID="1">ஷோபா</TargetName>
+	</Name>
+	<Name ID="847">
+		<SourceName>shoesmith</SourceName>
+		<TargetName ID="1">ஹூஸ்மித்</TargetName>
+	</Name>
+	<Name ID="848">
+		<SourceName>shriman satyawadi</SourceName>
+		<TargetName ID="1">ஸ்ரீமான் சத்யவாதி</TargetName>
+	</Name>
+	<Name ID="849">
+		<SourceName>shrinivas</SourceName>
+		<TargetName ID="1">ஸ்ரீநிவாஸ்</TargetName>
+	</Name>
+	<Name ID="850">
+		<SourceName>shrut</SourceName>
+		<TargetName ID="1">ஷ்ருத்</TargetName>
+	</Name>
+	<Name ID="851">
+		<SourceName>shumaysah</SourceName>
+		<TargetName ID="1">ஷுமைஷா</TargetName>
+	</Name>
+	<Name ID="852">
+		<SourceName>sibelius prize</SourceName>
+		<TargetName ID="1">சிபெலியஸ் ப்ரைஸ்</TargetName>
+	</Name>
+	<Name ID="853">
+		<SourceName>siddhi vinayak</SourceName>
+		<TargetName ID="1">சித்தி விநாயக்</TargetName>
+	</Name>
+	<Name ID="854">
+		<SourceName>sidhhardh</SourceName>
+		<TargetName ID="1">சித்தார்த்</TargetName>
+	</Name>
+	<Name ID="855">
+		<SourceName>sidrah</SourceName>
+		<TargetName ID="1">சித்ரா</TargetName>
+	</Name>
+	<Name ID="856">
+		<SourceName>simon pearce</SourceName>
+		<TargetName ID="1">சைமன் பியர்ஸ்</TargetName>
+	</Name>
+	<Name ID="857">
+		<SourceName>sinan</SourceName>
+		<TargetName ID="1">சினன்</TargetName>
+	</Name>
+	<Name ID="858">
+		<SourceName>sitapur ki geeta</SourceName>
+		<TargetName ID="1">சீதாபூர் கி கீதா</TargetName>
+	</Name>
+	<Name ID="859">
+		<SourceName>snehal</SourceName>
+		<TargetName ID="1">ஸ்னேஹல்</TargetName>
+	</Name>
+	<Name ID="860">
+		<SourceName>snigdhaa</SourceName>
+		<TargetName ID="1">ஸ்னிக்தா</TargetName>
+	</Name>
+	<Name ID="861">
+		<SourceName>snowboarding</SourceName>
+		<TargetName ID="1">ஸ்னோபோர்டிங்</TargetName>
+	</Name>
+	<Name ID="862">
+		<SourceName>sodium</SourceName>
+		<TargetName ID="1">சோடியம்</TargetName>
+	</Name>
+	<Name ID="863">
+		<SourceName>somanshu</SourceName>
+		<TargetName ID="1">சோமன்ஷு</TargetName>
+	</Name>
+	<Name ID="864">
+		<SourceName>somdev</SourceName>
+		<TargetName ID="1">சோம்தேவ்</TargetName>
+	</Name>
+	<Name ID="865">
+		<SourceName>soolagiri chinnar reservoir</SourceName>
+		<TargetName ID="1">சூலகிரி சின்னார் ரிசர்வாயர்</TargetName>
+	</Name>
+	<Name ID="866">
+		<SourceName>sooryapriyaa</SourceName>
+		<TargetName ID="1">சூர்யபிரியா</TargetName>
+	</Name>
+	<Name ID="867">
+		<SourceName>stanley de silva</SourceName>
+		<TargetName ID="1">ஸ்டான்லி டி சில்வா</TargetName>
+	</Name>
+	<Name ID="868">
+		<SourceName>stash</SourceName>
+		<TargetName ID="1">ஸ்டாஷ்</TargetName>
+	</Name>
+	<Name ID="869">
+		<SourceName>stavros</SourceName>
+		<TargetName ID="1">ஸ்டவ்ரோஸ்</TargetName>
+	</Name>
+	<Name ID="870">
+		<SourceName>stephan</SourceName>
+		<TargetName ID="1">ஸ்டிஃபன்</TargetName>
+	</Name>
+	<Name ID="871">
+		<SourceName>stockton</SourceName>
+		<TargetName ID="1">ஸ்டாக்டன்</TargetName>
+	</Name>
+	<Name ID="872">
+		<SourceName>strom</SourceName>
+		<TargetName ID="1">ஸ்டிரோம்</TargetName>
+	</Name>
+	<Name ID="873">
+		<SourceName>subansiri</SourceName>
+		<TargetName ID="1">சுபன்சிரி</TargetName>
+	</Name>
+	<Name ID="874">
+		<SourceName>subhaashachandr</SourceName>
+		<TargetName ID="1">சுபாஷ்சந்தர்</TargetName>
+	</Name>
+	<Name ID="875">
+		<SourceName>suhagan</SourceName>
+		<TargetName ID="1">சுஹாகன்</TargetName>
+	</Name>
+	<Name ID="876">
+		<SourceName>sukhha</SourceName>
+		<TargetName ID="1">சுகா</TargetName>
+	</Name>
+	<Name ID="877">
+		<SourceName>sultan</SourceName>
+		<TargetName ID="1">சுல்தான்</TargetName>
+	</Name>
+	<Name ID="878">
+		<SourceName>sultani</SourceName>
+		<TargetName ID="1">சுல்தானி</TargetName>
+	</Name>
+	<Name ID="879">
+		<SourceName>sumatra</SourceName>
+		<TargetName ID="1">சுமத்ரா</TargetName>
+	</Name>
+	<Name ID="880">
+		<SourceName>sun microsystems</SourceName>
+		<TargetName ID="1">சன் மைக்ரோசிஸ்டம்ஸ்</TargetName>
+	</Name>
+	<Name ID="881">
+		<SourceName>sunday communications limited</SourceName>
+		<TargetName ID="1">சன்டே கம்யூனிக்கேஷன்ஸ் லிமிடெட்</TargetName>
+	</Name>
+	<Name ID="882">
+		<SourceName>sundram</SourceName>
+		<TargetName ID="1">சுந்தரம்</TargetName>
+	</Name>
+	<Name ID="883">
+		<SourceName>supekar</SourceName>
+		<TargetName ID="1">சுபேகர்</TargetName>
+	</Name>
+	<Name ID="884">
+		<SourceName>suraag</SourceName>
+		<TargetName ID="1">சுராக்</TargetName>
+	</Name>
+	<Name ID="885">
+		<SourceName>suraj</SourceName>
+		<TargetName ID="1">சுரஜ்</TargetName>
+	</Name>
+	<Name ID="886">
+		<SourceName>surama</SourceName>
+		<TargetName ID="1">சுரமா</TargetName>
+	</Name>
+	<Name ID="887">
+		<SourceName>susane</SourceName>
+		<TargetName ID="1">சுஸன்</TargetName>
+	</Name>
+	<Name ID="888">
+		<SourceName>suven life scie</SourceName>
+		<TargetName ID="1">சுவென் லைஃப் சைன்ஸ்</TargetName>
+	</Name>
+	<Name ID="889">
+		<SourceName>suzette</SourceName>
+		<TargetName ID="1">சுஸெட்</TargetName>
+	</Name>
+	<Name ID="890">
+		<SourceName>svaati</SourceName>
+		<TargetName ID="1">ஸ்வாதி</TargetName>
+	</Name>
+	<Name ID="891">
+		<SourceName>taaraa</SourceName>
+		<TargetName ID="1">தாரா</TargetName>
+	</Name>
+	<Name ID="892">
+		<SourceName>tad turner</SourceName>
+		<TargetName ID="1">டாட் டர்னர்</TargetName>
+	</Name>
+	<Name ID="893">
+		<SourceName>tahina</SourceName>
+		<TargetName ID="1">தஹினா</TargetName>
+	</Name>
+	<Name ID="894">
+		<SourceName>takhat shri kesgarh sahib, anandpur sahib (punjab)</SourceName>
+		<TargetName ID="1">தகத் ஸ்ரீ கேஸ்கர் சாஹிப், ஆனந்த்பூர் சாஹிப் (பஞ்சாப்)</TargetName>
+	</Name>
+	<Name ID="895">
+		<SourceName>takle</SourceName>
+		<TargetName ID="1">தக்லே</TargetName>
+	</Name>
+	<Name ID="896">
+		<SourceName>talib</SourceName>
+		<TargetName ID="1">தாலிப்</TargetName>
+	</Name>
+	<Name ID="897">
+		<SourceName>talwar</SourceName>
+		<TargetName ID="1">தல்வார்</TargetName>
+	</Name>
+	<Name ID="898">
+		<SourceName>tambe</SourceName>
+		<TargetName ID="1">தாம்பே</TargetName>
+	</Name>
+	<Name ID="899">
+		<SourceName>tamil</SourceName>
+		<TargetName ID="1">தமிழ்</TargetName>
+	</Name>
+	<Name ID="900">
+		<SourceName>tarala</SourceName>
+		<TargetName ID="1">தாரலா</TargetName>
+	</Name>
+	<Name ID="901">
+		<SourceName>tarawa</SourceName>
+		<TargetName ID="1">டாராவா</TargetName>
+	</Name>
+	<Name ID="902">
+		<SourceName>taro pharmaceutical industries</SourceName>
+		<TargetName ID="1">டாரோ பார்மாசெட்டிக்கல் இண்டஸ்டிரீஸ்</TargetName>
+	</Name>
+	<Name ID="903">
+		<SourceName>tasha</SourceName>
+		<TargetName ID="1">தஷா</TargetName>
+	</Name>
+	<Name ID="904">
+		<SourceName>tate gallery</SourceName>
+		<TargetName ID="1">டேட் கேலரி</TargetName>
+	</Name>
+	<Name ID="905">
+		<SourceName>tatkar</SourceName>
+		<TargetName ID="1">தாத்கர்</TargetName>
+	</Name>
+	<Name ID="906">
+		<SourceName>tenerife south reina sofia</SourceName>
+		<TargetName ID="1">டெனரிப் செளத் ரேயினா சோஃபியா</TargetName>
+	</Name>
+	<Name ID="907">
+		<SourceName>teryl</SourceName>
+		<TargetName ID="1">டேரில்</TargetName>
+	</Name>
+	<Name ID="908">
+		<SourceName>texas instruments</SourceName>
+		<TargetName ID="1">டெக்ஸாஸ் இன்ஸ்டூரூமென்ட்ஸ்</TargetName>
+	</Name>
+	<Name ID="909">
+		<SourceName>tharike</SourceName>
+		<TargetName ID="1">தாரிகே</TargetName>
+	</Name>
+	<Name ID="910">
+		<SourceName>the folklore museum of kymi</SourceName>
+		<TargetName ID="1">த ஃப்போக்லோர் மியூஸியம் ஆஃப் கைமி</TargetName>
+	</Name>
+	<Name ID="911">
+		<SourceName>thermax</SourceName>
+		<TargetName ID="1">தெர்மேக்ஸ்</TargetName>
+	</Name>
+	<Name ID="912">
+		<SourceName>thina</SourceName>
+		<TargetName ID="1">தினா</TargetName>
+	</Name>
+	<Name ID="913">
+		<SourceName>thomas jefferson</SourceName>
+		<TargetName ID="1">தாமஸ் ஜெஃப்பெர்சன்</TargetName>
+		<TargetName ID="2">தாம்ஸ் ஜெஃபர்சன்</TargetName>
+	</Name>
+	<Name ID="914">
+		<SourceName>thomas paine</SourceName>
+		<TargetName ID="1">தாமஸ் பேய்ன்</TargetName>
+	</Name>
+	<Name ID="915">
+		<SourceName>thuml</SourceName>
+		<TargetName ID="1">துமல்</TargetName>
+	</Name>
+	<Name ID="916">
+		<SourceName>thunderchild</SourceName>
+		<TargetName ID="1">தண்டர்சைல்ட்</TargetName>
+	</Name>
+	<Name ID="917">
+		<SourceName>thunderer</SourceName>
+		<TargetName ID="1">தன்டெரர்</TargetName>
+	</Name>
+	<Name ID="918">
+		<SourceName>tibor</SourceName>
+		<TargetName ID="1">திபோர்</TargetName>
+	</Name>
+	<Name ID="919">
+		<SourceName>times multimedia</SourceName>
+		<TargetName ID="1">டைம்ஸ் மல்டிமீடியா</TargetName>
+	</Name>
+	<Name ID="920">
+		<SourceName>tiple</SourceName>
+		<TargetName ID="1">டிபில்</TargetName>
+	</Name>
+	<Name ID="921">
+		<SourceName>titicaca</SourceName>
+		<TargetName ID="1">டிட்டிகாகா</TargetName>
+	</Name>
+	<Name ID="922">
+		<SourceName>tod</SourceName>
+		<TargetName ID="1">டாட்</TargetName>
+	</Name>
+	<Name ID="923">
+		<SourceName>tom</SourceName>
+		<TargetName ID="1">டாம்</TargetName>
+	</Name>
+	<Name ID="924">
+		<SourceName>tom cruise</SourceName>
+		<TargetName ID="1">டாம் க்ரூஸ்</TargetName>
+	</Name>
+	<Name ID="925">
+		<SourceName>tom hogan</SourceName>
+		<TargetName ID="1">டாம் ஹோகன்</TargetName>
+	</Name>
+	<Name ID="926">
+		<SourceName>tonback</SourceName>
+		<TargetName ID="1">டோன்பேக்</TargetName>
+	</Name>
+	<Name ID="927">
+		<SourceName>tonganoxie christian</SourceName>
+		<TargetName ID="1">டோங்கனோக்ஸி கிறிஸ்டியன்</TargetName>
+	</Name>
+	<Name ID="928">
+		<SourceName>trethewey</SourceName>
+		<TargetName ID="1">டிரெதேவே</TargetName>
+	</Name>
+	<Name ID="929">
+		<SourceName>triathlon</SourceName>
+		<TargetName ID="1">ட்ரயத்லான்</TargetName>
+	</Name>
+	<Name ID="930">
+		<SourceName>trixie</SourceName>
+		<TargetName ID="1">ட்ரிக்ஸி</TargetName>
+	</Name>
+	<Name ID="931">
+		<SourceName>trumble</SourceName>
+		<TargetName ID="1">ட்ரம்பில்</TargetName>
+	</Name>
+	<Name ID="932">
+		<SourceName>tulasidas</SourceName>
+		<TargetName ID="1">துளசிதாஸ்</TargetName>
+	</Name>
+	<Name ID="933">
+		<SourceName>tulsidas</SourceName>
+		<TargetName ID="1">துள்சிதாஸ்</TargetName>
+	</Name>
+	<Name ID="934">
+		<SourceName>turnbull</SourceName>
+		<TargetName ID="1">டர்ன்புல்</TargetName>
+	</Name>
+	<Name ID="935">
+		<SourceName>udaipur</SourceName>
+		<TargetName ID="1">உதைபூர்</TargetName>
+	</Name>
+	<Name ID="936">
+		<SourceName>umaasut</SourceName>
+		<TargetName ID="1">உமாசுத்</TargetName>
+	</Name>
+	<Name ID="937">
+		<SourceName>united america indemnity</SourceName>
+		<TargetName ID="1">யூனைடெட் அமெரிக்கா இன்டெம்னிட்டி</TargetName>
+	</Name>
+	<Name ID="938">
+		<SourceName>university of bradford</SourceName>
+		<TargetName ID="1">யூனிவர்சிட்டி ஆஃப் ப்ராட்ஃபோர்ட்</TargetName>
+	</Name>
+	<Name ID="939">
+		<SourceName>university of hyderabad</SourceName>
+		<TargetName ID="1">யூனிவர்சிட்டி ஆஃப் ஹைட்ராபாட்</TargetName>
+	</Name>
+	<Name ID="940">
+		<SourceName>university of miami</SourceName>
+		<TargetName ID="1">யூனிவர்சிட்டி ஆஃப் மியாமி</TargetName>
+	</Name>
+	<Name ID="941">
+		<SourceName>unmesh</SourceName>
+		<TargetName ID="1">உன்மெஷ்</TargetName>
+	</Name>
+	<Name ID="942">
+		<SourceName>unnav</SourceName>
+		<TargetName ID="1">உன்னவ்</TargetName>
+	</Name>
+	<Name ID="943">
+		<SourceName>uranium</SourceName>
+		<TargetName ID="1">உரேனியம்</TargetName>
+	</Name>
+	<Name ID="944">
+		<SourceName>urvashi</SourceName>
+		<TargetName ID="1">ஊர்வஷி</TargetName>
+	</Name>
+	<Name ID="945">
+		<SourceName>usariya</SourceName>
+		<TargetName ID="1">உசரியா</TargetName>
+	</Name>
+	<Name ID="946">
+		<SourceName>uttar dakshin</SourceName>
+		<TargetName ID="1">உத்தர் தக்ஷின்</TargetName>
+	</Name>
+	<Name ID="947">
+		<SourceName>vaartha</SourceName>
+		<TargetName ID="1">வார்தா</TargetName>
+	</Name>
+	<Name ID="948">
+		<SourceName>vaataketu</SourceName>
+		<TargetName ID="1">வாதகேது</TargetName>
+	</Name>
+	<Name ID="949">
+		<SourceName>vaigai reservoir</SourceName>
+		<TargetName ID="1">வைகை ரிசர்வாயர்</TargetName>
+	</Name>
+	<Name ID="950">
+		<SourceName>vajhe</SourceName>
+		<TargetName ID="1">வாஜ்ஹே</TargetName>
+	</Name>
+	<Name ID="951">
+		<SourceName>vajont dam</SourceName>
+		<TargetName ID="1">வஜோந்த் டேம்</TargetName>
+	</Name>
+	<Name ID="952">
+		<SourceName>valentino</SourceName>
+		<TargetName ID="1">வாலண்டினோ</TargetName>
+	</Name>
+	<Name ID="953">
+		<SourceName>vallerie</SourceName>
+		<TargetName ID="1">வலேரி</TargetName>
+	</Name>
+	<Name ID="954">
+		<SourceName>vanani</SourceName>
+		<TargetName ID="1">வனனி</TargetName>
+	</Name>
+	<Name ID="955">
+		<SourceName>vani</SourceName>
+		<TargetName ID="1">வாணி</TargetName>
+	</Name>
+	<Name ID="956">
+		<SourceName>varitaa</SourceName>
+		<TargetName ID="1">வரிதா</TargetName>
+	</Name>
+	<Name ID="957">
+		<SourceName>vedagy</SourceName>
+		<TargetName ID="1">வேதகி</TargetName>
+	</Name>
+	<Name ID="958">
+		<SourceName>vedee</SourceName>
+		<TargetName ID="1">வேதீ</TargetName>
+	</Name>
+	<Name ID="959">
+		<SourceName>veeresh</SourceName>
+		<TargetName ID="1">வீரேஷ்</TargetName>
+	</Name>
+	<Name ID="960">
+		<SourceName>velankar</SourceName>
+		<TargetName ID="1">வெலன்கர்</TargetName>
+	</Name>
+	<Name ID="961">
+		<SourceName>velma</SourceName>
+		<TargetName ID="1">வெல்மா</TargetName>
+	</Name>
+	<Name ID="962">
+		<SourceName>venezuela</SourceName>
+		<TargetName ID="1">வெனிசூலா</TargetName>
+	</Name>
+	<Name ID="963">
+		<SourceName>venus</SourceName>
+		<TargetName ID="1">வீனஸ்</TargetName>
+	</Name>
+	<Name ID="964">
+		<SourceName>victory assembly of god</SourceName>
+		<TargetName ID="1">விக்டரி அசெம்ப்ளி ஆப் காட்</TargetName>
+	</Name>
+	<Name ID="965">
+		<SourceName>vidisha</SourceName>
+		<TargetName ID="1">விடிஷா</TargetName>
+	</Name>
+	<Name ID="966">
+		<SourceName>vidya niketan school</SourceName>
+		<TargetName ID="1">வித்யா நிக்கேதன் ஸ்கூல்</TargetName>
+	</Name>
+	<Name ID="967">
+		<SourceName>vidyut</SourceName>
+		<TargetName ID="1">வித்யூத்</TargetName>
+	</Name>
+	<Name ID="968">
+		<SourceName>viklaant</SourceName>
+		<TargetName ID="1">விக்லாந்த்</TargetName>
+	</Name>
+	<Name ID="969">
+		<SourceName>villette</SourceName>
+		<TargetName ID="1">வில்லெட்</TargetName>
+	</Name>
+	<Name ID="970">
+		<SourceName>vimalaa</SourceName>
+		<TargetName ID="1">விமலா</TargetName>
+	</Name>
+	<Name ID="971">
+		<SourceName>vimogh</SourceName>
+		<TargetName ID="1">விமோக்</TargetName>
+	</Name>
+	<Name ID="972">
+		<SourceName>vinaya</SourceName>
+		<TargetName ID="1">வினயா</TargetName>
+	</Name>
+	<Name ID="973">
+		<SourceName>vishishat</SourceName>
+		<TargetName ID="1">விஷிஷத்</TargetName>
+	</Name>
+	<Name ID="974">
+		<SourceName>vishvajayee</SourceName>
+		<TargetName ID="1">விஷ்வஜயீ</TargetName>
+	</Name>
+	<Name ID="975">
+		<SourceName>vittorio veneto</SourceName>
+		<TargetName ID="1">விட்டோரியோ வெனெடோ</TargetName>
+	</Name>
+	<Name ID="976">
+		<SourceName>viviana</SourceName>
+		<TargetName ID="1">விவியன்னா</TargetName>
+	</Name>
+	<Name ID="977">
+		<SourceName>vrashtiheen</SourceName>
+		<TargetName ID="1">விரஷ்டிஹீன்</TargetName>
+	</Name>
+	<Name ID="978">
+		<SourceName>wacoal holdings corporation</SourceName>
+		<TargetName ID="1">வாகோல் ஹோல்டிங்க்ஸ் கார்ப்பரேஷன்</TargetName>
+	</Name>
+	<Name ID="979">
+		<SourceName>waheeda</SourceName>
+		<TargetName ID="1">வஹீதா</TargetName>
+	</Name>
+	<Name ID="980">
+		<SourceName>warren lees</SourceName>
+		<TargetName ID="1">வார்ரன் லீஸ்</TargetName>
+	</Name>
+	<Name ID="981">
+		<SourceName>wavde</SourceName>
+		<TargetName ID="1">வாவ்தே</TargetName>
+	</Name>
+	<Name ID="982">
+		<SourceName>wentworth</SourceName>
+		<TargetName ID="1">வென்ட்வொர்த்</TargetName>
+	</Name>
+	<Name ID="983">
+		<SourceName>white</SourceName>
+		<TargetName ID="1">ஒயிட்</TargetName>
+	</Name>
+	<Name ID="984">
+		<SourceName>whyeth</SourceName>
+		<TargetName ID="1">வையத்</TargetName>
+	</Name>
+	<Name ID="985">
+		<SourceName>william shatner</SourceName>
+		<TargetName ID="1">வில்லியம் ஷாட்னர்</TargetName>
+	</Name>
+	<Name ID="986">
+		<SourceName>winston benjamin</SourceName>
+		<TargetName ID="1">வின்ஸ்டன் பெஞ்சமின்</TargetName>
+	</Name>
+	<Name ID="987">
+		<SourceName>wockhardt</SourceName>
+		<TargetName ID="1">வோக்ஹார்ட்</TargetName>
+	</Name>
+	<Name ID="988">
+		<SourceName>world heart corporation</SourceName>
+		<TargetName ID="1">வோர்ல்ட் ஹார்ட் கார்ப்பரேஷன்</TargetName>
+	</Name>
+	<Name ID="989">
+		<SourceName>wren</SourceName>
+		<TargetName ID="1">ரென்</TargetName>
+	</Name>
+	<Name ID="990">
+		<SourceName>xavier</SourceName>
+		<TargetName ID="1">ஜேவியர்</TargetName>
+	</Name>
+	<Name ID="991">
+		<SourceName>yehiam fort</SourceName>
+		<TargetName ID="1">யெஹியாம் ஃப்போர்ட்</TargetName>
+	</Name>
+	<Name ID="992">
+		<SourceName>yosemite</SourceName>
+		<TargetName ID="1">யோஸ்மைட்</TargetName>
+	</Name>
+	<Name ID="993">
+		<SourceName>yukon</SourceName>
+		<TargetName ID="1">யூகான்</TargetName>
+	</Name>
+	<Name ID="994">
+		<SourceName>yvonne</SourceName>
+		<TargetName ID="1">யுவோன்</TargetName>
+	</Name>
+	<Name ID="995">
+		<SourceName>zahid fazal</SourceName>
+		<TargetName ID="1">ஜாஹித் ஃபாசல்</TargetName>
+	</Name>
+	<Name ID="996">
+		<SourceName>zakir khan</SourceName>
+		<TargetName ID="1">ஜாக்கிர் கான்</TargetName>
+	</Name>
+	<Name ID="997">
+		<SourceName>zamane ko dikhana hai</SourceName>
+		<TargetName ID="1">ஸமானெ கோ டிகானா ஹை</TargetName>
+	</Name>
+	<Name ID="998">
+		<SourceName>zelda</SourceName>
+		<TargetName ID="1">ஜெல்டா</TargetName>
+	</Name>
+	<Name ID="999">
+		<SourceName>zuban</SourceName>
+		<TargetName ID="1">ஸுபன்</TargetName>
+	</Name>
+	<Name ID="1000">
+		<SourceName>zufar</SourceName>
+		<TargetName ID="1">ஜுஃபார்</TargetName>
+	</Name>
+</TransliterationCorpus>
